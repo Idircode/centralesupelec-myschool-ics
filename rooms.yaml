@@ -1,0 +1,11 @@
+timezone: "Europe/Paris"
+horizon_days: 15
+lookback_days: 2
+
+rooms:
+  - id: 436
+    slug: "e090"
+    name: "e.090, Bouygues"
+  # - id: 437
+  #   slug: "e091"
+  #   name: "e.091, Bouygues"
