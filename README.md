@@ -4,7 +4,7 @@ Ce repo génère des fichiers `.ics` pour des salles de musique MySchool Central
 Google Calendar peut ensuite "s'abonner" à l'URL du `.ics`.
 
 ## 0) Structure du repo 
-
+```
 myschool-music-rooms-ics/
 ├─ README.md
 ├─ requirements.txt
@@ -17,7 +17,7 @@ myschool-music-rooms-ics/
 └─ .github/
    └─ workflows/
       └─ update.yml
-
+```
 ## 1) Configurer les salles
 Éditer `rooms.yaml` :
 - ajouter les rooms (id, slug, name)
