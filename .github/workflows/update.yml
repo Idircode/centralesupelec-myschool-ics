@@ -1,0 +1,32 @@
+name: Update MySchool Music Calendar
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests python-dateutil ics
+
+      - name: Generate ICS
+        run: python script.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add *.ics
+          git commit -m "auto: update calendar" || echo "No changes"
+          git push
