@@ -36,17 +36,16 @@ def login(page, username, password):
     page.fill("#username", username)
     page.fill("#password", password)
 
-    # click + attendre une navigation (mais pas "load")
-    with page.expect_navigation(wait_until="domcontentloaded", timeout=90_000):
-        page.locator("button[type='submit'], input[type='submit']").click()
+    page.locator("button[type='submit'], input[type='submit']").click()
 
-    # parfois l'app redirige sans vraie navigation "load"
-    page.wait_for_timeout(1500)
+    # Attendre un signe de succès : URL qui n'est plus /login
+    page.wait_for_function(
+        "() => !location.pathname.endsWith('/plannings/login')",
+        timeout=120_000
+    )
 
-    # ✅ preuve simple qu'on est sorti du mode guest
-    # (si ton UI garde "LOGIN", ça veut dire KO)
-    if page.locator("text=LOGIN").is_visible():
-        raise RuntimeError("Login failed in CI: still seeing LOGIN button after submit.") 
+    # Petite stabilisation
+    page.wait_for_timeout(1000)
 
 def capture_bearer_from_app(page) -> str:
     page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
