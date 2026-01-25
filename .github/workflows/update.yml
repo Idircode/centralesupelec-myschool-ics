@@ -21,7 +21,7 @@ jobs:
         run: pip install requests python-dateutil ics
 
       - name: Generate ICS
-        run: python script.py
+        run: python generate.py
 
       - name: Commit & push
         run: |
