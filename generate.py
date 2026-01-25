@@ -1,144 +1,143 @@
-from __future__ import annotations
-
-import requests
-from dataclasses import dataclass
+import os
+from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
-from pathlib import Path
 
-from dateutil import parser as dtparser
+from playwright.sync_api import sync_playwright
 from ics import Calendar, Event
 from ics.grammar.parse import ContentLine
 
-
+LOGIN_URL = "https://myschool.centralesupelec.fr/plannings/login"
 API_URL = "https://myschool.centralesupelec.fr/plannings/api/events/resources"
+
 PARIS = ZoneInfo("Europe/Paris")
 
-
-@dataclass(frozen=True)
-class Room:
-    id: int
-    slug: str
-    name: str
-
-
-# ✅ Mets ici toutes les salles
-ROOMS: list[Room] = [
-    Room(id=436, slug="e090", name="e.090, Bouygues"),
-    # Room(id=437, slug="e091", name="e.091, Bouygues"),
-    # ...
+ROOMS = [
+    {"id": 436, "slug": "e090", "name": "e.090, Bouygues"},
 ]
 
-
-def to_myschool_z(dt: datetime, end: bool = False) -> str:
-    """
-    MySchool aime bien des timestamps comme Chrome:
-      - start: ...SS.000Z
-      - end:   ...SS.999Z
-    """
-    dt = dt.astimezone(timezone.utc)
-    if end:
-        return dt.strftime("%Y-%m-%dT%H:%M:%S.999Z")
-    return dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-
-
-def week_window_paris(n_weeks: int = 2) -> tuple[datetime, datetime]:
-    """
-    Fenêtre alignée sur les semaines (heure Paris) :
-    start = lundi 00:00 Paris
-    end   = dimanche 23:59:59.999 Paris (sur n_weeks)
-    """
+def window_myschool(lookback_days: int = 5, horizon_days: int = 10) -> tuple[str, str]:
     now_paris = datetime.now(PARIS)
-    monday = (now_paris - timedelta(days=now_paris.weekday())).replace(
-        hour=0, minute=0, second=0, microsecond=0
-    )
-    start_paris = monday
-    end_paris = monday + timedelta(days=7 * n_weeks) - timedelta(milliseconds=1)
 
-    return start_paris.astimezone(timezone.utc), end_paris.astimezone(timezone.utc)
+    start_paris = now_paris - timedelta(days=lookback_days)
+    end_paris   = now_paris + timedelta(days=horizon_days)
 
+    start_utc = start_paris.astimezone(timezone.utc)
+    end_utc   = end_paris.astimezone(timezone.utc)
 
-def fetch_events(room_id: int, start_utc: datetime, end_utc: datetime) -> dict:
+    date_start = start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    date_end   = end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
+
+    return date_start, date_end
+
+def login(page, username, password):
+    page.goto(LOGIN_URL, wait_until="domcontentloaded")
+
+    page.fill("#username", username)
+    page.fill("#password", password)
+
+    page.locator("button[type='submit'], input[type='submit']").click()
+
+    # Attends que l'app se charge
+    page.wait_for_url("**/plannings/**", timeout=60_000)
+    page.wait_for_timeout(1500)
+
+    # ✅ Vérif : si "LOGIN" est encore visible => pas authentifié
+    if page.locator("text=LOGIN").is_visible():
+        raise RuntimeError("Login non effectif : bouton LOGIN toujours visible (session guest).")
+    
+
+def capture_bearer_from_app(page) -> str:
+    page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
+
+    for _ in range(2):  # goto + reload si besoin
+        try:
+            with page.expect_request(
+                lambda r: (r.headers.get("authorization") or "").startswith("Bearer "),
+                timeout=60_000,
+            ) as req_info:
+                page.reload(wait_until="domcontentloaded")
+
+            req = req_info.value
+            return req.headers["authorization"].split(" ", 1)[1]
+
+        except Exception:
+            pass
+
+    raise RuntimeError("Aucun Bearer capturé (aucune requête Authorization observée).")
+
+def fetch_json(page, room_id, date_start, date_end, token):
     params = {
-        "dateStart": to_myschool_z(start_utc, end=False),
-        "dateEnd": to_myschool_z(end_utc, end=True),
+        "dateStart": date_start,
+        "dateEnd": date_end,
         "expand": "true",
         "withTitle": "true",
         "rooms[]": str(room_id),
     }
-    r = requests.get(API_URL, params=params, timeout=30)
-    r.raise_for_status()
-    return r.json()
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/json"}
 
+    resp = page.request.get(API_URL, params=params, headers=headers)
+    if not resp.ok:
+        raise RuntimeError(f"API error {resp.status}: {resp.text()[:200]}")
+    return resp.json()
 
-def build_calendar_from_payload(payload: dict, cal_name: str, default_location: str) -> Calendar:
+def json_to_ics(payload: dict, cal_name: str, default_location: str) -> Calendar:
     cal = Calendar()
     cal.extra.append(ContentLine(name="X-WR-CALNAME", value=cal_name))
 
     for ev in payload.get("data", []):
-        name = ev.get("name", "Réservation")
-        rooms = ev.get("rooms", [])
-        location = rooms[0]["name"] if rooms else default_location
-        ev_id = ev.get("id", "unknown")
+        title = ev.get("name", "Réservation")
 
-        # Ton format: sessions[]
+        rooms = ev.get("rooms") or []
+        location = rooms[0].get("name") if rooms else default_location
+        room_link = rooms[0].get("mapwizeLink") if rooms else None
+
+        author = ev.get("author") or {}
+        author_name = " ".join(filter(None, [author.get("firstname"), author.get("lastname")]))
+
+        description = f"Réservé par : {author_name}".strip()
+        if room_link:
+            description += f"\nPlan salle : {room_link}"
+
         for s in ev.get("sessions", []):
-            start_str = s.get("start")
-            end_str = s.get("end")
+            start_str, end_str = s.get("start"), s.get("end")
             if not start_str or not end_str:
                 continue
 
             e = Event()
-            e.name = name
-            e.begin = dtparser.isoparse(start_str)
-            e.end = dtparser.isoparse(end_str)
+            e.name = title
+            e.begin = datetime.fromisoformat(start_str)  # gère +01:00
+            e.end = datetime.fromisoformat(end_str)
             e.location = location
-            e.uid = f"myschool-{ev_id}-{start_str}"  # stable
+            e.description = description
+            if room_link:
+                e.url = room_link
+
             cal.events.add(e)
 
     return cal
 
-
-def write_calendar(cal: Calendar, path: Path) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(cal.serialize(), encoding="utf-8")
-
-
 def main() -> None:
-    if not ROOMS:
-        raise SystemExit("Aucune salle définie dans ROOMS.")
+    username = os.environ["MYSCHOOL_USERNAME"]
+    password = os.environ["MYSCHOOL_PASSWORD"]
 
-    start_utc, end_utc = week_window_paris(n_weeks=2)
-    print("Window UTC:", to_myschool_z(start_utc), "->", to_myschool_z(end_utc, end=True))
+    date_start, date_end = window_myschool(lookback_days=5, horizon_days=10)
+    out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
-    out_dir = Path("calendars")
-    all_cal = Calendar()
-    all_cal.extra.append(ContentLine(name="X-WR-CALNAME", value="MySchool – Music Rooms (ALL)"))
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        ctx = browser.new_context()
+        page = ctx.new_page()
 
-    total_vevents = 0
+        login(page, username, password)
+        token = capture_bearer_from_app(page)
 
-    for room in ROOMS:
-        payload = fetch_events(room.id, start_utc, end_utc)
-        meta_title = (payload.get("meta") or {}).get("title")
+        for room in ROOMS:
+            payload = fetch_json(page, room["id"], date_start, date_end, token)
+            cal = json_to_ics(payload, f"MySchool – {room['name']}", room["name"])
+            (out_dir / f"{room['slug']}.ics").write_text(cal.serialize(), encoding="utf-8")
 
-        cal = build_calendar_from_payload(
-            payload=payload,
-            cal_name=f"MySchool – {room.name}",
-            default_location=room.name,
-        )
-
-        room_path = out_dir / f"{room.slug}.ics"
-        write_calendar(cal, room_path)
-
-        # merge ALL
-        for e in cal.events:
-            all_cal.events.add(e)
-
-        total_vevents += len(cal.events)
-        print(f"[{room.slug}] meta.title={meta_title} | data={len(payload.get('data', []))} | vevents={len(cal.events)}")
-
-    write_calendar(all_cal, out_dir / "ALL.ics")
-    print(f"✅ Done: {len(ROOMS)} rooms + ALL. Total VEVENTs={total_vevents}")
+        browser.close()
 
 
 if __name__ == "__main__":
