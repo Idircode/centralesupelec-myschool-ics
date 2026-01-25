@@ -14,16 +14,21 @@ jobs:
     env:
       MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
       MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r requirements.txt
-      - run: python generate.py
 
-      - name: Install deps
+      - name: Install Python deps
         run: pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: playwright install chromium
 
       - name: Generate ICS
         run: python generate.py
@@ -32,6 +37,6 @@ jobs:
         run: |
           git config user.name "calendar-bot"
           git config user.email "calendar-bot@users.noreply.github.com"
-          git add *.ics
+          git add calendars/*.ics
           git commit -m "auto: update calendar" || echo "No changes"
           git push
