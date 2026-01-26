@@ -8,12 +8,6 @@ def main():
     password = "idir.nimgharen@student-cs.fr"
     username = "kTOL!2Zul#R#wF"
     
-    u = os.environ.get("MYSCHOOL_USERNAME")
-    p = os.environ.get("MYSCHOOL_PASSWORD")
-    print("USER present:", u is not None, "len:", 0 if u is None else len(u))
-    print("PASS present:", p is not None, "len:", 0 if p is None else len(p))
-    raise RuntimeError("Missing env vars")
-    
     Path("debug").mkdir(exist_ok=True)
 
     with sync_playwright() as p:
