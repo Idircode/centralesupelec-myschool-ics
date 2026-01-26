@@ -27,29 +27,13 @@ jobs:
       - name: Install Python deps
         run: pip install -r requirements.txt
 
-      - name: Install Playwright (Chromium)
+      - name: Install Playwright browser
         run: playwright install --with-deps chromium
-
-      # 1) Run main script
+        
       - name: Generate ICS
-        id: gen
         run: python generate.py
 
-      # 2) If it fails, run debug login + upload artifacts
-      - name: Debug login (only if failure)
-        if: failure()
-        run: python debug_login.py
-
-      - name: Upload debug artifacts (always on failure)
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-login
-          path: debug/
-
-      # 3) Commit & push ICS (only if success)
       - name: Commit & push
-        if: success()
         run: |
           git config user.name "calendar-bot"
           git config user.email "calendar-bot@users.noreply.github.com"
