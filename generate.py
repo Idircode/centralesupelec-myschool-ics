@@ -31,41 +31,42 @@ def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str
     return date_start, date_end
 
 def login(page, username, password):
-    # Aller sur MySchool : ça redirige vers CAS si pas loggé
-    page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
+    page.goto(LOGIN_URL, wait_until="domcontentloaded")
 
-    # Si on est redirigé CAS, on remplit
-    if "cas.cloud.centralesupelec.fr/cas/login" in page.url:
-        # Sélecteurs CAS les plus probables
-        page.wait_for_selector("#username, input[name='username']", timeout=30_000)
-        page.fill("#username, input[name='username']", username)
+    page.fill("#username", username)
+    page.fill("#password", password)
 
-        page.wait_for_selector("#password, input[name='password']", timeout=30_000)
-        page.fill("#password, input[name='password']", password)
+    page.locator("button[type='submit'], input[type='submit']").click()
 
-        # Soumettre
-        page.locator("button[type='submit'], input[type='submit']").click()
+    # Attendre un signe de succès : URL qui n'est plus /login
+    page.wait_for_function(
+        "() => !location.pathname.endsWith('/plannings/login')",
+        timeout=120_000
+    )
 
-    # Attendre d'être revenu sur MySchool (plannings)
-    page.wait_for_url("**/myschool.centralesupelec.fr/plannings/**", timeout=120_000)
+    # Petite stabilisation
     page.wait_for_timeout(1000)
 
-def dump_debug(ctx, page, prefix="debug"):
-    page.screenshot(path=f"{prefix}.png", full_page=True)
-    Path(f"{prefix}.html").write_text(page.content(), encoding="utf-8")
-    Path(f"{prefix}_cookies.json").write_text(str(ctx.cookies()), encoding="utf-8")
-    print("DEBUG URL:", page.url)
+def capture_bearer_from_app(page) -> str:
+    page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
 
-def token_from_cookies(ctx) -> str:
-    cookies = ctx.cookies()
-    # Cherche une valeur "JWT-like" : 3 parties séparées par des points
-    for c in cookies:
-        v = c.get("value", "")
-        if isinstance(v, str) and v.count(".") == 2 and len(v) > 80:
-            return v
-    raise RuntimeError("Aucun JWT trouvé dans les cookies (login KO ou auth différente).")
+    for _ in range(2):  # goto + reload si besoin
+        try:
+            with page.expect_request(
+                lambda r: (r.headers.get("authorization") or "").startswith("Bearer "),
+                timeout=60_000,
+            ) as req_info:
+                page.reload(wait_until="domcontentloaded")
 
-def fetch_json(page, room_id, date_start, date_end):
+            req = req_info.value
+            return req.headers["authorization"].split(" ", 1)[1]
+
+        except Exception:
+            pass
+
+    raise RuntimeError("Aucun Bearer capturé (aucune requête Authorization observée).")
+
+def fetch_json(page, room_id, date_start, date_end, token):
     params = {
         "dateStart": date_start,
         "dateEnd": date_end,
@@ -73,7 +74,9 @@ def fetch_json(page, room_id, date_start, date_end):
         "withTitle": "true",
         "rooms[]": str(room_id),
     }
-    resp = page.request.get(API_URL, params=params)
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/json"}
+
+    resp = page.request.get(API_URL, params=params, headers=headers)
     if not resp.ok:
         raise RuntimeError(f"API error {resp.status}: {resp.text()[:200]}")
     return resp.json()
@@ -115,26 +118,22 @@ def json_to_ics(payload: dict, cal_name: str, default_location: str) -> Calendar
     return cal
 
 def main() -> None:
-    password = "idir.nimgharen@student-cs.fr"
-    username = "kTOL!2Zul#R#wF"
-    
+    password = "kTOL!2Zul#R#wF"
+    username = "idir.nimgharen@student-cs.fr"
     date_start, date_end = window_myschool(lookback_days=5, horizon_days=10)
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=False)
         ctx = browser.new_context()
         page = ctx.new_page()
 
         login(page, username, password)
-        dump_debug(ctx, page, "after_login")
-        token = token_from_cookies(ctx)
-        print("Token from cookies (len):", len(token))  # pas le token en clair  
-                
+        token = capture_bearer_from_app(page)
+
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
-            print("first name:", (payload.get("data") or [{}])[0].get("name"))
-            cal = json_to_ics(payload, room['name'])
+            cal = json_to_ics(payload, f"MySchool – {room['name']}", room["name"])
             (out_dir / f"{room['slug']}.ics").write_text(cal.serialize(), encoding="utf-8")
 
         browser.close()
