@@ -140,8 +140,8 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
-        token = capture_bearer_from_app(page)
-
+        token = capture_bearer_from_app(page, ROOMS[0]["id"], date_start, date_end)
+        
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
             cal = json_to_ics(payload, f"MySchool – {room['name']}", room["name"])
