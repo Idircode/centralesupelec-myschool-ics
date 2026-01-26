@@ -65,7 +65,7 @@ def token_from_cookies(ctx) -> str:
             return v
     raise RuntimeError("Aucun JWT trouvé dans les cookies (login KO ou auth différente).")
 
-def fetch_json(page, room_id, date_start, date_end, token):
+def fetch_json(page, room_id, date_start, date_end):
     params = {
         "dateStart": date_start,
         "dateEnd": date_end,
@@ -73,9 +73,7 @@ def fetch_json(page, room_id, date_start, date_end, token):
         "withTitle": "true",
         "rooms[]": str(room_id),
     }
-    headers = {"Authorization": f"Bearer {token}", "Accept": "application/json"}
-
-    resp = page.request.get(API_URL, params=params, headers=headers)
+    resp = page.request.get(API_URL, params=params)
     if not resp.ok:
         raise RuntimeError(f"API error {resp.status}: {resp.text()[:200]}")
     return resp.json()
@@ -135,6 +133,7 @@ def main() -> None:
                 
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
+            print("first name:", (payload.get("data") or [{}])[0].get("name"))
             cal = json_to_ics(payload, room['name'])
             (out_dir / f"{room['slug']}.ics").write_text(cal.serialize(), encoding="utf-8")
 
