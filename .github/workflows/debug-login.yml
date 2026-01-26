@@ -2,22 +2,15 @@ name: Debug MySchool Login (CI)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/10 * * * *"
 
 jobs:
   debug:
     runs-on: ubuntu-latest
-    env:
-      MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
-      MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -27,6 +20,9 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run debug login
+        env:
+          MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
+          MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
         run: python debug_login.py
 
       - name: Upload debug artifacts
