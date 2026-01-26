@@ -47,20 +47,15 @@ def login(page, username, password):
     # Petite stabilisation
     page.wait_for_timeout(1000)
 
-def capture_bearer_from_app(page):
-    # Va sur l'app et laisse-la faire ses XHR
-    page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
+def token_from_cookies(ctx) -> str:
+    cookies = ctx.cookies()
+    # Cherche une valeur "JWT-like" : 3 parties séparées par des points
+    for c in cookies:
+        v = c.get("value", "")
+        if isinstance(v, str) and v.count(".") == 2 and len(v) > 80:
+            return v
+    raise RuntimeError("Aucun JWT trouvé dans les cookies (login KO ou auth différente).")
 
-    with page.expect_request(
-        lambda r: (r.headers.get("authorization") or "").startswith("Bearer "),
-        timeout=120_000,
-    ) as req_info:
-        # Déclenche un petit reload pour forcer des XHR
-        page.reload(wait_until="domcontentloaded")
-
-    req = req_info.value
-    return req.headers["authorization"].split(" ", 1)[1]
-    
 def fetch_json(page, room_id, date_start, date_end, token):
     params = {
         "dateStart": date_start,
@@ -125,8 +120,9 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
-        token = capture_bearer_from_app(page)      
-        
+        token = token_from_cookies(ctx)
+        print("Token from cookies (len):", len(token))  # pas le token en clair  
+                
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
             cal = json_to_ics(payload, room['name'])
