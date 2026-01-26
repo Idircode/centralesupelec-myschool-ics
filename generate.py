@@ -16,7 +16,7 @@ ROOMS = [
     {"id": 436, "slug": "e090", "name": "e.090, Bouygues"},
 ]
 
-def window_myschool(lookback_days: int = 5, horizon_days: int = 10) -> tuple[str, str]:
+def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str, str]:
     now_paris = datetime.now(PARIS)
 
     start_paris = now_paris - timedelta(days=lookback_days)
