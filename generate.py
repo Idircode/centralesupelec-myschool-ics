@@ -47,6 +47,12 @@ def login(page, username, password):
     # Petite stabilisation
     page.wait_for_timeout(1000)
 
+def dump_debug(ctx, page, prefix="debug"):
+    page.screenshot(path=f"{prefix}.png", full_page=True)
+    Path(f"{prefix}.html").write_text(page.content(), encoding="utf-8")
+    Path(f"{prefix}_cookies.json").write_text(str(ctx.cookies()), encoding="utf-8")
+    print("DEBUG URL:", page.url)
+
 def token_from_cookies(ctx) -> str:
     cookies = ctx.cookies()
     # Cherche une valeur "JWT-like" : 3 parties séparées par des points
@@ -120,6 +126,7 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
+        dump_debug(ctx, page, "after_login")
         token = token_from_cookies(ctx)
         print("Token from cookies (len):", len(token))  # pas le token en clair  
                 
