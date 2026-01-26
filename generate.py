@@ -47,31 +47,16 @@ def login(page, username, password):
     # Petite stabilisation
     page.wait_for_timeout(1000)
 
-def capture_bearer_from_app(page, room_id: int, date_start: str, date_end: str) -> str:
+def capture_bearer_from_app(page):
+    # Va sur l'app et laisse-la faire ses XHR
     page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
 
-    # Force un appel API depuis la page (ça déclenche une requête signée si l'app utilise Bearer)
-    js = """
-    async ({apiUrl, roomId, dateStart, dateEnd}) => {
-      const params = new URLSearchParams();
-      params.set("dateStart", dateStart);
-      params.set("dateEnd", dateEnd);
-      params.set("expand", "true");
-      params.set("withTitle", "true");
-      params.append("rooms[]", String(roomId));
-      const url = apiUrl + "?" + params.toString();
-      // Important: ne pas await tout de suite, on veut juste déclencher
-      fetch(url, { credentials: "include" });
-      return url;
-    }
-    """
-
-    # On prépare à capturer la requête qui part AVANT de déclencher
     with page.expect_request(
-        lambda r: r.url.startswith(API_URL) and (r.headers.get("authorization") or "").startswith("Bearer "),
-        timeout=60_000,
+        lambda r: (r.headers.get("authorization") or "").startswith("Bearer "),
+        timeout=120_000,
     ) as req_info:
-        page.evaluate(js, {"apiUrl": API_URL, "roomId": room_id, "dateStart": date_start, "dateEnd": date_end})
+        # Déclenche un petit reload pour forcer des XHR
+        page.reload(wait_until="domcontentloaded")
 
     req = req_info.value
     return req.headers["authorization"].split(" ", 1)[1]
@@ -140,7 +125,7 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
-        token = capture_bearer_from_app(page, ROOMS[0]["id"], date_start, date_end)
+        token = capture_bearer_from_app(page)      
         
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
