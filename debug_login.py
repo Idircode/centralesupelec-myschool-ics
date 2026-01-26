@@ -8,9 +8,12 @@ def main():
     username = os.environ.get("MYSCHOOL_USERNAME", "").strip()
     password = os.environ.get("MYSCHOOL_PASSWORD", "").strip()
 
-    if not username or not password:
-        raise RuntimeError("MYSCHOOL_USERNAME / MYSCHOOL_PASSWORD manquants")
-
+    u = os.environ.get("MYSCHOOL_USERNAME")
+    p = os.environ.get("MYSCHOOL_PASSWORD")
+    print("USER present:", u is not None, "len:", 0 if u is None else len(u))
+    print("PASS present:", p is not None, "len:", 0 if p is None else len(p))
+    raise RuntimeError("Missing env vars")
+    
     Path("debug").mkdir(exist_ok=True)
 
     with sync_playwright() as p:
