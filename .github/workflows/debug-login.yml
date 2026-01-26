@@ -20,9 +20,6 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run debug login
-        env:
-          MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
-          MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
         run: python debug_login.py
 
       - name: Upload debug artifacts
