@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-LOGIN_START = "https://myschool.centralesupelec.fr/plannings/"
+LOGIN_START = "https://myschool.centralesupelec.fr/plannings/login"
 
 def main():
     password = "idir.nimgharen@student-cs.fr"
