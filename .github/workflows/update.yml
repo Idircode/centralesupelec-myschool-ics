@@ -30,8 +30,18 @@ jobs:
       - name: Install Playwright browser
         run: playwright install --with-deps chromium
         
-      - name: Generate ICS
-        run: python generate.py
+#      - name: Generate ICS
+#         run: python generate.py
+
+      - name: Debug login
+        run: python debug_login.py
+      
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-login
+          path: debug/
 
       - name: Commit & push
         run: |
