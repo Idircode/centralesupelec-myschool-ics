@@ -5,9 +5,9 @@ from playwright.sync_api import sync_playwright
 LOGIN_START = "https://myschool.centralesupelec.fr/plannings/"
 
 def main():
-    username = os.environ.get("MYSCHOOL_USERNAME", "").strip()
-    password = os.environ.get("MYSCHOOL_PASSWORD", "").strip()
-
+    password = "idir.nimgharen@student-cs.fr"
+    username = "kTOL!2Zul#R#wF"
+    
     u = os.environ.get("MYSCHOOL_USERNAME")
     p = os.environ.get("MYSCHOOL_PASSWORD")
     print("USER present:", u is not None, "len:", 0 if u is None else len(u))
