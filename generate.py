@@ -31,20 +31,23 @@ def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str
     return date_start, date_end
 
 def login(page, username, password):
-    page.goto(LOGIN_URL, wait_until="domcontentloaded")
+    # Aller sur MySchool : ça redirige vers CAS si pas loggé
+    page.goto("https://myschool.centralesupelec.fr/plannings/", wait_until="domcontentloaded")
 
-    page.fill("#username", username)
-    page.fill("#password", password)
+    # Si on est redirigé CAS, on remplit
+    if "cas.cloud.centralesupelec.fr/cas/login" in page.url:
+        # Sélecteurs CAS les plus probables
+        page.wait_for_selector("#username, input[name='username']", timeout=30_000)
+        page.fill("#username, input[name='username']", username)
 
-    page.locator("button[type='submit'], input[type='submit']").click()
+        page.wait_for_selector("#password, input[name='password']", timeout=30_000)
+        page.fill("#password, input[name='password']", password)
 
-    # Attendre un signe de succès : URL qui n'est plus /login
-    page.wait_for_function(
-        "() => !location.pathname.endsWith('/plannings/login')",
-        timeout=120_000
-    )
+        # Soumettre
+        page.locator("button[type='submit'], input[type='submit']").click()
 
-    # Petite stabilisation
+    # Attendre d'être revenu sur MySchool (plannings)
+    page.wait_for_url("**/myschool.centralesupelec.fr/plannings/**", timeout=120_000)
     page.wait_for_timeout(1000)
 
 def dump_debug(ctx, page, prefix="debug"):
