@@ -124,7 +124,7 @@ def main() -> None:
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         ctx = browser.new_context()
         page = ctx.new_page()
 
