@@ -3,6 +3,17 @@ name: Update MySchool Music Calendar
 permissions:
   contents: write
 
+on:
+  push:
+    branches:
+      - main
+      - release-*
+  pull_request:
+    branches:
+      - main
+      - release-*
+
+
 jobs:
   test_update:
     name: Update
