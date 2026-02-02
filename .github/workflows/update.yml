@@ -4,34 +4,34 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  test_update:
+    name: Update
     runs-on: ubuntu-latest
     env:
       MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
       MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
-
+    defaults:
+      run:
+        working-directory: gen/
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Python deps
-        run: pip install -r requirements.txt
-
-      - name: Install Playwright browser
-        run: playwright install --with-deps chromium
-        
-      - name: Generate ICS
-        run: python generate.py
-
-      - name: Commit & push
-        run: |
-          git config user.name "calendar-bot"
-          git config user.email "calendar-bot@users.noreply.github.com"
-          git add calendars/*.ics
-          git commit -m "auto: update calendar" || echo "No changes"
-          git push
+    - uses: actions/checkout@v5
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.10'
+    - name: Install dependencies & browsers
+      run: |
+        pip install -r requirements.txt
+        python -m playwright install --with-deps chromium
+    - name: Common Tests
+      run: pytest
+    - name: Generate ICS
+      run: python generate.py
+      #
+      #    - name: Commit & push
+      #      run: |
+      #        git config user.name "calendar-bot"
+      #        git config user.email "calendar-bot@users.noreply.github.com"
+      #        git add calendars/*.ics
+      #        git commit -m "auto: update calendar" || echo "No changes"
+      #        git push
