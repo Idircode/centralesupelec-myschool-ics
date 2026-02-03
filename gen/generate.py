@@ -14,6 +14,10 @@ PARIS = ZoneInfo("Europe/Paris")
 
 ROOMS = [
     {"id": 436, "slug": "e090", "name": "e.090, Bouygues"},
+    {"id": 437, "slug": "e091", "name": "e.091, Bouygues"},
+    {"id": 433, "slug": "e008", "name": "e.008, Bouygues"},
+    {"id": 434, "slug": "e010", "name": "e.010, Bouygues"},
+    {"id": 435, "slug": "e012", "name": "e.012, Bouygues"},
 ]
 
 def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str, str]:
