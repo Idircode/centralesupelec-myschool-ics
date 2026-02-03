@@ -23,19 +23,20 @@ ROOMS = [
 def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str, str]:
     now_paris = datetime.now(PARIS)
 
+    # Window in Paris
     start_paris = now_paris - timedelta(days=lookback_days)
     end_paris   = now_paris + timedelta(days=horizon_days)
 
+    # Convert to UTC
     start_utc = start_paris.astimezone(timezone.utc)
     end_utc   = end_paris.astimezone(timezone.utc)
 
+    # Format EXACTLY like MySchool expects
     date_start = start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
     date_end   = end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
-    date_start = "2026-02-01T23:00:00.000Z" # start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    date_end   = "2026-02-08T22:59:59.999Z" # end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
-
 
     return date_start, date_end
+
 
 def login(page, username, password):
     page.goto(LOGIN_URL, wait_until="domcontentloaded")
