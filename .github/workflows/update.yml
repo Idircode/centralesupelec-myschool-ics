@@ -38,7 +38,7 @@ jobs:
         #    - name: Common Tests
         #      run: pytest
     - name: Generate ICS
-      run: python generate.py
+      run: python gen/generate.py
 
     - name: Commit & push
       run: |
