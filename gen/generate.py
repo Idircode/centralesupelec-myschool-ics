@@ -140,7 +140,7 @@ def main() -> None:
 
         for room in ROOMS:
             payload = fetch_json(page, room["id"], date_start, date_end, token)
-            cal = json_to_ics(payload, f"MySchool – {room['name']}", room["name"])
+            cal = json_to_ics(payload, f"{room['name']}", room["name"])
             (out_dir / f"{room['slug']}.ics").write_text(cal.serialize(), encoding="utf-8")
 
         browser.close()
