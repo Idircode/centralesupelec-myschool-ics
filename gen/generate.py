@@ -27,6 +27,9 @@ def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str
 
     date_start = start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
     date_end   = end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
+    date_start = "2026-02-01T23:00:00.000Z" # start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    date_end   = "2026-02-08T22:59:59.999Z" # end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
+
 
     return date_start, date_end
 
@@ -124,7 +127,7 @@ def main() -> None:
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         ctx = browser.new_context()
         page = ctx.new_page()
 
