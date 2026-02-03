@@ -4,6 +4,10 @@ permissions:
   contents: write
 
 on:
+  schedule:
+    - cron: "*/10 * * * *"   # toutes les 10 minutes
+  workflow_dispatch:         # bouton "Run workflow" manuel
+
   push:
     branches:
       - main
@@ -13,7 +17,6 @@ on:
       - main
       - release-*
 
-
 jobs:
   test_update:
     name: Update
@@ -21,29 +24,32 @@ jobs:
     env:
       MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
       MYSCHOOL_PASSWORD: ${{ secrets.MYSCHOOL_PASSWORD }}
+
     defaults:
       run:
         working-directory: gen/
-    steps:
-    - uses: actions/checkout@v5
-    - name: Set up Python
-      uses: actions/setup-python@v6
-      with:
-        python-version: '3.10'
-    - name: Install dependencies & browsers
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        python -m playwright install --with-deps chromium
-        #    - name: Common Tests
-        #      run: pytest
-    - name: Generate ICS
-      run: python generate.py
 
-    - name: Commit & push
-      run: |
-        git config user.name "calendar-bot"
-        git config user.email "calendar-bot@users.noreply.github.com"
-        git add calendars/*.ics
-        git commit -m "auto: update calendar" || echo "No changes"
-        git push
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies & browsers
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Generate ICS
+        run: python generate.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add calendars/*.ics
+          git commit -m "auto: update calendar" || echo "No changes"
+          git push
