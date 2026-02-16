@@ -132,8 +132,6 @@ def main() -> None:
     password = "kTOL!2Zul#R#wF"
     username = "idir.nimgharen@student-cs.fr"
     date_start, date_end = window_myschool(lookback_days=5, horizon_days=10)
-    print("dateStart:", date_start)
-    print("dateEnd:", date_end)
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
     with sync_playwright() as p:
@@ -142,9 +140,6 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
-        page.screenshot(path="debug_after_login.png", full_page=True)
-        print("URL:", page.url)
-        print("LOGIN visible?", page.locator("text=LOGIN").is_visible())
         token = capture_bearer_from_app(page)
 
         for room in ROOMS:
