@@ -20,23 +20,26 @@ ROOMS = [
     {"id": 435, "slug": "e012", "name": "e.012, Bouygues"},
 ]
 
-def window_myschool(lookback_days: int = 7, horizon_days: int = 14) -> tuple[str, str]:
+def window_myschool(lookback_days: int = 5, horizon_days: int = 10) -> tuple[str, str]:
     now_paris = datetime.now(PARIS)
 
-    # Window in Paris
-    start_paris = now_paris - timedelta(days=lookback_days)
-    end_paris   = now_paris + timedelta(days=horizon_days)
+    # Dates (sans l'heure)
+    start_date = (now_paris - timedelta(days=lookback_days)).date()
+    end_date   = (now_paris + timedelta(days=horizon_days)).date()
 
-    # Convert to UTC
+    # Bornes en heure de Paris (début/fin de journée)
+    start_paris = datetime(start_date.year, start_date.month, start_date.day, 0, 0, 0, 0, tzinfo=PARIS)
+    end_paris   = datetime(end_date.year,   end_date.month,   end_date.day,   23, 59, 59, 999_000, tzinfo=PARIS)
+
+    # Convert UTC
     start_utc = start_paris.astimezone(timezone.utc)
     end_utc   = end_paris.astimezone(timezone.utc)
 
-    # Format EXACTLY like MySchool expects
+    # Format exact MySchool
     date_start = start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
     date_end   = end_utc.strftime("%Y-%m-%dT%H:%M:%S.999Z")
 
     return date_start, date_end
-
 
 def login(page, username, password):
     page.goto(LOGIN_URL, wait_until="domcontentloaded")
@@ -129,6 +132,8 @@ def main() -> None:
     password = "kTOL!2Zul#R#wF"
     username = "idir.nimgharen@student-cs.fr"
     date_start, date_end = window_myschool(lookback_days=5, horizon_days=10)
+    print("dateStart:", date_start)
+    print("dateEnd:", date_end)
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
     with sync_playwright() as p:
@@ -137,6 +142,9 @@ def main() -> None:
         page = ctx.new_page()
 
         login(page, username, password)
+        page.screenshot(path="debug_after_login.png", full_page=True)
+        print("URL:", page.url)
+        print("LOGIN visible?", page.locator("text=LOGIN").is_visible())
         token = capture_bearer_from_app(page)
 
         for room in ROOMS:
