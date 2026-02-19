@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   update:
+    environment: prod
     runs-on: ubuntu-latest
     env:
       MYSCHOOL_USERNAME: ${{ secrets.MYSCHOOL_USERNAME }}
