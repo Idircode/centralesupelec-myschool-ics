@@ -131,6 +131,8 @@ def json_to_ics(payload: dict, cal_name: str, default_location: str) -> Calendar
 def main() -> None:
     username = os.environ["MYSCHOOL_USERNAME"]
     password = os.environ["MYSCHOOL_PASSWORD"]
+    print("USER present:", bool(username), "len:", len(username))
+    print("PASS present:", bool(password), "len:", len(password))
     date_start, date_end = window_myschool(lookback_days=5, horizon_days=10)
     out_dir = Path("calendars"); out_dir.mkdir(exist_ok=True)
 
