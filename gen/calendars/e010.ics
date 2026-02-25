@@ -3,66 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean-Loup CHABAS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260220T124500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260220T110000Z
-SUMMARY:HEBCHA
-UID:650e0222-05ff-41b7-aaec-1618827afe32@650e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260305T122900Z
+DTEND:20260304T175900Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260305T103000Z
+DTSTART:20260304T160000Z
 SUMMARY:Lcl
-UID:8e0d2a7d-e289-47ae-81b3-6878fbe25d1b@8e0d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Inès RUBIO GAFSI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260224T200000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260224T184500Z
-SUMMARY:Musique
-UID:0670acdb-fe99-49fb-a3bd-90e34249d55e@0670.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260223T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260223T103000Z
-SUMMARY:takataka
-UID:083dbdbc-c608-4148-8461-6dc4f2a55eb4@083d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260306T130000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260306T110000Z
-SUMMARY:Arsene et les lupins
-UID:c93aec2e-8807-42b9-bdb9-9729df17d8f5@c93a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Fleur ADRIEN-SAGE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260220T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260220T160000Z
-SUMMARY:Piano 2
-UID:7c4eace0-b33c-42f5-b196-b6263d8d6bcb@7c4e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260223T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260223T151500Z
-SUMMARY:Money
-UID:f6ad0c85-d5b3-4c60-b055-e4826f21d32c@f6ad.org
+UID:3fd372bd-d305-4175-aad0-44fe4fd849b3@3fd3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +17,16 @@ DTEND:20260220T190000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260220T180000Z
 SUMMARY:Guitare
-UID:87ddef58-4f0e-427d-98cb-8b54234d16b9@87dd.org
+UID:f7a4c72b-5a58-4f6e-9344-f6e40cab9082@f7a4.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260223T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260223T151500Z
+SUMMARY:Money
+UID:feb31c72-2533-486f-9f92-ef2ff0335ce5@feb3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +35,52 @@ DTEND:20260225T105900Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260225T090000Z
 SUMMARY:pharma
-UID:372582b6-f677-4a81-ac31-fbb1f06bfaf2@3725.org
+UID:9009fd81-52d6-4b7b-9838-2b5e818c8777@9009.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Fleur ADRIEN-SAGE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260220T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260220T160000Z
+SUMMARY:Piano 2
+UID:10bc99f0-9e89-47a2-872d-bead99e476f9@10bc.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260305T122900Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260305T103000Z
+SUMMARY:Lcl
+UID:8d54e021-1e50-4378-a59b-e0e8611b6caa@8d54.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Inès RUBIO GAFSI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260224T200000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260224T184500Z
+SUMMARY:Musique
+UID:7cd4b8fe-8b33-45b6-ba3d-5d406fbca051@7cd4.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean-Loup CHABAS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260220T124500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260220T110000Z
+SUMMARY:HEBCHA
+UID:e99ea385-7712-450d-a8e8-94a57784c0cd@e99e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260223T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260223T103000Z
+SUMMARY:takataka
+UID:783a7aba-ae00-4a7f-9e24-6c870bbc2f7d@783a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +89,7 @@ DTEND:20260220T150000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260220T143000Z
 SUMMARY:Fleur
-UID:3a1d90cd-1425-4a0d-bca3-6180ac85f931@3a1d.org
+UID:5ee3a5a2-ae08-4c8e-b2fa-531e5a560315@5ee3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,16 +98,16 @@ DTEND:20260226T105900Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260226T090000Z
 SUMMARY:pharma
-UID:e1a4dc31-c0d2-480f-9466-796eaabc95e4@e1a4.org
+UID:a561bd80-b708-42be-982f-7c6867f2aa20@a561.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260304T175900Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260306T130000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260304T160000Z
-SUMMARY:Lcl
-UID:72c1f54f-99be-44ba-a7fa-c87493929839@72c1.org
+DTSTART:20260306T110000Z
+SUMMARY:Arsene et les lupins
+UID:dbb9dff8-6aae-4548-a888-5629feace9cd@dbb9.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
