@@ -4,20 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Alessandro AMALRIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260225T143000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260225T123000Z
-SUMMARY:Piano 
-UID:b97d0526-5b68-40e9-b051-ab8ba6045093@b97d.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alessandro AMALRIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260302T174500Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260302T160000Z
 SUMMARY:Piano
-UID:fc067d60-3fc2-4e80-89c4-ee50b57898db@fc06.org
+UID:be193d66-fe94-490a-b512-91834abdb00d@be19.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260226T180000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260226T160000Z
+SUMMARY:Cello
+UID:8a3bcabb-2b73-4c63-b9fd-64f856a9e3ee@8a3b.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +26,7 @@ DTEND:20260224T113000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260224T093000Z
 SUMMARY:Répète piano
-UID:77ae12af-9d1a-4ba5-874a-8d42fce9b75c@77ae.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260301T170000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260301T150000Z
-SUMMARY:again wohoo
-UID:8df7417d-aceb-4de2-b1bb-502ee26668b5@8df7.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260301T150000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260301T130000Z
-SUMMARY:MnP
-UID:b7a5ba2d-a240-4ab9-a6aa-8fbc6d79cef2@b7a5.org
+UID:ebc574d7-2a4d-4246-b901-3fb96fc3b709@ebc5.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,43 +35,7 @@ DTEND:20260305T150000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260305T130000Z
 SUMMARY:seven six brass band musicale et solidarée
-UID:4c9033e4-60fe-422a-9c12-90e0f14ec03e@4c90.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël PAIN DIT HERMIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260224T123000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260224T113000Z
-SUMMARY:Impro Musiquatrale
-UID:b682104c-e189-4eb5-9f44-fe518cdaff1f@b682.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : GABIN LEMBREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260226T200000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260226T180000Z
-SUMMARY:répétition
-UID:25b95c1e-3864-4721-b7b6-36a45f1319d0@25b9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260221T103000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260221T090000Z
-SUMMARY:Basson
-UID:0d5c0d45-9baa-494c-986a-0654f84335ca@0d5c.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alessandro AMALRIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260223T174500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260223T160000Z
-SUMMARY:Piano 
-UID:bae07b92-5e64-42f5-b85d-cc35dc01d5f7@bae0.org
+UID:38ee0190-8e52-46dc-81fd-995c8844c009@38ee.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,43 +44,7 @@ DTEND:20260224T181000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260224T161000Z
 SUMMARY:Répète Dalonkhii
-UID:9b4f5f54-f1ae-4d87-9cdb-557427477f0a@9b4f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260301T190000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260301T170000Z
-SUMMARY:ladies and gents the Marias and the Papas
-UID:acae5544-b048-4e1e-8a2f-b8d6173b7727@acae.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260306T124500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260306T104500Z
-SUMMARY:Piano
-UID:8a9bf832-6e5c-436f-a6d9-4db40da3f2c6@8a9b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260222T180000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260222T160000Z
-SUMMARY:Piano
-UID:266b29ea-5891-4671-95dd-fa1a06eec6e2@266b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260304T181500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260304T161500Z
-SUMMARY:Répète Dalonkhii
-UID:bcd36374-eb93-4a3e-b1f3-c8ef410e081b@bcd3.org
+UID:d249d080-e10f-45b6-bd42-fed36bcb67ec@d249.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +53,88 @@ DTEND:20260302T200000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260302T180000Z
 SUMMARY:WHAT THE FUNKKK
-UID:ed20a4d7-eeb5-497d-ae92-44830517745b@ed20.org
+UID:f6df83b8-d932-44d9-a4c5-ae566fe9774a@f6df.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260301T170000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260301T150000Z
+SUMMARY:again wohoo
+UID:c4605264-ab1b-4738-9875-be3df2424b82@c460.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alessandro AMALRIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260223T174500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260223T160000Z
+SUMMARY:Piano 
+UID:1df4345d-f935-4692-9800-45264b7da2a5@1df4.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260304T181500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260304T161500Z
+SUMMARY:Répète Dalonkhii
+UID:777f0e10-06b2-4a83-844e-3606ab424f87@777f.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260301T150000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260301T130000Z
+SUMMARY:MnP
+UID:eeb49c52-229d-475d-a33b-1019b94795a1@eeb4.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Arsène RYLISKIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260301T190000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260301T170000Z
+SUMMARY:ladies and gents the Marias and the Papas
+UID:5114eac3-049c-4288-be0f-af93bb9375eb@5114.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260222T180000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260222T160000Z
+SUMMARY:Piano
+UID:55815810-3bbd-4de8-b5f9-5a54ecc8bac6@5581.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : GABIN LEMBREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260226T200000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260226T180000Z
+SUMMARY:répétition
+UID:72b5c875-d8c2-4fba-acdf-603f95862784@72b5.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260221T103000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260221T090000Z
+SUMMARY:Basson
+UID:101c5824-debe-4bd6-bcb7-3664ce9872a2@101c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Raphaël PAIN DIT HERMIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260224T123000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260224T113000Z
+SUMMARY:Impro Musiquatrale
+UID:149f4bca-75b3-4d10-8833-5c25da5a7b45@149f.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +143,25 @@ DTEND:20260226T120000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260226T103000Z
 SUMMARY:Piano
-UID:975951ea-abf0-4d6b-90e0-9be0245a7c0e@9759.org
+UID:664d9bbe-5bc7-419f-a700-7e257e77d802@664d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260306T124500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260306T104500Z
+SUMMARY:Piano
+UID:d9d618f0-5465-4cab-a68a-e91200480773@d9d6.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alessandro AMALRIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260225T143000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260225T123000Z
+SUMMARY:Piano 
+UID:1fcdd977-ca1e-4a52-bfbf-9ce5975120b9@1fcd.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
