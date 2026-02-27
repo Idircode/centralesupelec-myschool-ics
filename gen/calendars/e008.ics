@@ -3,30 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260226T220000Z
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260226T121500Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260226T203000Z
+DTSTART:20260226T111500Z
 SUMMARY:Piano
-UID:023a8e4d-5976-4fa2-91fd-9a32a7a63928@023a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260227T220000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260227T200000Z
-SUMMARY:Piano
-UID:f45d49f9-db27-477c-9922-64b22c94248e@f45d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Joachim GROUSSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260223T170000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260223T150000Z
-SUMMARY:Répèt' trompette
-UID:c9658e0a-cf51-4ab3-ae81-742433a900ec@c965.org
+UID:6e4dd412-ec6f-486c-8a79-60dec4abbc9b@6e4d.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,7 @@ DTEND:20260225T174500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260225T164500Z
 SUMMARY:Fleur
-UID:f51db303-c84e-4138-9e6e-4465d1b93071@f51d.org
+UID:8603cb39-167b-4f7a-b317-53bb5f503505@8603.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,16 +26,34 @@ DTEND:20260224T173000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260224T163000Z
 SUMMARY:Piano
-UID:e9921605-4c51-4afb-9407-87e9287d5494@e992.org
+UID:4a948675-eeb2-45f8-8fdb-6a4eaef3501c@4a94.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Chuanyong SHAO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260225T140000Z
+DESCRIPTION:Réservé par : Joachim GROUSSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260223T170000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260225T130000Z
-SUMMARY:Test
-UID:65a09708-5f16-4446-957e-10a66506af2c@65a0.org
+DTSTART:20260223T150000Z
+SUMMARY:Répèt' trompette
+UID:de8fe334-9173-4ab0-8b15-943e770ac592@de8f.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260227T220000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260227T200000Z
+SUMMARY:Piano
+UID:83611941-67d5-4d26-b400-a6665a965a6d@8361.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260226T220000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260226T203000Z
+SUMMARY:Piano
+UID:99479acf-5dd6-44d3-b659-62a20089b559@9947.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,16 +62,16 @@ DTEND:20260223T220000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260223T210000Z
 SUMMARY:Piano
-UID:75dd45c5-94ed-488a-8c4f-b730c85ec527@75dd.org
+UID:ac71f356-0dc2-4996-8d59-b366e6427186@ac71.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260226T121500Z
+DESCRIPTION:Réservé par : Chuanyong SHAO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260225T140000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260226T111500Z
-SUMMARY:Piano
-UID:3817d78d-f23c-4290-b05b-d0ebb42dda9c@3817.org
+DTSTART:20260225T130000Z
+SUMMARY:Test
+UID:c9729a78-8355-4ce7-8b78-24f71a67d552@c972.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
