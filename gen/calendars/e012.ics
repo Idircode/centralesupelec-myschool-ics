@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260226T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260226T120000Z
-SUMMARY:Piano
-UID:2c0afa41-0d8d-47fe-a459-21f0e4904c9d@2c0a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Léo ETÈVE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260226T181400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T161500Z
 SUMMARY:MASTERCLASS TROMPETTE
-UID:621f4d37-7608-4caf-ad74-1335ac3dff60@621f.org
+UID:a1e63abf-41c1-434d-85de-874ac7f0e99d@a1e6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,7 @@ DTEND:20260225T133000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260225T113000Z
 SUMMARY:Trombone
-UID:de457b8e-cc2c-4b66-81d7-d50b5ecd8b43@de45.org
+UID:eccea503-c3b3-4a36-8aba-5024caba7e35@ecce.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,7 @@ DTEND:20260224T120000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260224T110000Z
 SUMMARY:Piano
-UID:72cccd8c-395b-4cf4-872a-ec14a3d476f2@72cc.org
+UID:91a9e9b7-ad0c-4db0-9948-ca3e42d04619@91a9.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260223T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260223T151500Z
 SUMMARY:Piano
-UID:b9a71819-e93c-42ab-bb80-fd317aaeacb2@b9a7.org
+UID:a28a805e-5e56-40ed-8b03-8c8ca2ff3799@a28a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260226T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260226T120000Z
+SUMMARY:Piano
+UID:4fee179f-9b95-4cb6-9c0e-40af98f69652@4fee.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
