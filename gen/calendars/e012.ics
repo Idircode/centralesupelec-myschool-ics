@@ -4,38 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260224T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260224T110000Z
-SUMMARY:Piano
-UID:0aa93306-8e94-457a-98dd-8d0e9b1e297c@0aa9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260225T133000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260225T113000Z
-SUMMARY:Trombone
-UID:6a7f4b29-ef9a-439b-ae2c-4e761351d21d@6a7f.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260226T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T120000Z
 SUMMARY:Piano
-UID:64ef480b-963a-44fb-8b7b-acb3ab547a33@64ef.org
+UID:4b675eed-52a0-45e8-b7d6-a9bf317749fe@4b67.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260223T170000Z
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260224T120000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260223T151500Z
+DTSTART:20260224T110000Z
 SUMMARY:Piano
-UID:2c5dfb57-55b3-498f-8fbc-acb7355f2c50@2c5d.org
+UID:8b09ef58-dae8-4240-8f15-7aee4092122d@8b09.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +26,25 @@ DTEND:20260226T181400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T161500Z
 SUMMARY:MASTERCLASS TROMPETTE
-UID:640cd35d-6edd-477b-ad9e-175d760e5854@640c.org
+UID:3af6f7ba-3d68-4ae1-bba8-0d99869fc7ac@3af6.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260225T133000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260225T113000Z
+SUMMARY:Trombone
+UID:1c02a5ad-b73d-4c52-ba87-994c665ab1d9@1c02.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260223T170000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260223T151500Z
+SUMMARY:Piano
+UID:8a6a8940-e6f0-4136-938a-d033448feb37@8a6a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
