@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Léo ETÈVE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260226T181400Z
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260224T120000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260226T161500Z
-SUMMARY:MASTERCLASS TROMPETTE
-UID:0444d83d-2417-4ecf-8cbc-7e5f132c6ab9@0444.org
+DTSTART:20260224T110000Z
+SUMMARY:Piano
+UID:42cc711e-203d-4a6b-95a6-b37e67c8dd39@42cc.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,16 @@ DTEND:20260226T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T120000Z
 SUMMARY:Piano
-UID:386368b2-6068-4df0-b763-0f87dc5900e2@3863.org
+UID:3d658e40-e552-41e5-95db-543182ad096b@3d65.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Léo ETÈVE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260226T181400Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260226T161500Z
+SUMMARY:MASTERCLASS TROMPETTE
+UID:53ca8e42-9377-41ed-a06f-a7de92ea65ee@53ca.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +35,7 @@ DTEND:20260225T133000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260225T113000Z
 SUMMARY:Trombone
-UID:2ebb5324-4adf-4966-ab60-2e3dc020578a@2ebb.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260224T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260224T110000Z
-SUMMARY:Piano
-UID:b72c1348-6546-4f27-922f-e8a5e624ff2e@b72c.org
+UID:55ca06ac-a45d-4819-ba1c-a176a64b8392@55ca.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
