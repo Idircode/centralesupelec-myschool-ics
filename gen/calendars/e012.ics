@@ -4,29 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260224T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260224T110000Z
-SUMMARY:Piano
-UID:c9254914-1826-420a-b895-f3e17497ca0d@c925.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260226T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T120000Z
 SUMMARY:Piano
-UID:ada0421e-7951-4335-9969-ed20734369ac@ada0.org
+UID:e1bdbc0e-cc89-4202-a636-00a136eddbda@e1bd.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260225T133000Z
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260224T120000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260225T113000Z
-SUMMARY:Trombone
-UID:a4c96ed0-08c0-45e2-a866-25efcfe62be7@a4c9.org
+DTSTART:20260224T110000Z
+SUMMARY:Piano
+UID:f2a89cc1-4192-422f-8dda-a4b1fb8b21a9@f2a8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260226T181400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T161500Z
 SUMMARY:MASTERCLASS TROMPETTE
-UID:674a3f6a-d57d-4079-b7fc-2f48c25e06d3@674a.org
+UID:b806c7f3-4231-4f38-8e58-a06695952446@b806.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260225T133000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260225T113000Z
+SUMMARY:Trombone
+UID:111eff37-a85d-4813-bdfb-46f1e6d8861a@111e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
