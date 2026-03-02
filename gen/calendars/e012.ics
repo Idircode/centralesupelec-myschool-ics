@@ -3,30 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260226T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260226T120000Z
-SUMMARY:Piano
-UID:d011b01e-be79-46f4-8990-422238ca09c9@d011.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260302T210000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260302T190000Z
 SUMMARY:Violons quatuor
-UID:ca5ae14c-d5f7-48ff-8eeb-1e72270c7b46@ca5a.org
+UID:424137f2-1a5e-427c-bcdc-17e708926a04@4241.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260306T124500Z
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260226T130000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260306T104500Z
-SUMMARY:Hebcha
-UID:9c4864b7-c4fe-4edb-bb47-f26d46f2f5ea@9c48.org
+DTSTART:20260226T120000Z
+SUMMARY:Piano
+UID:b88abfdf-6227-419f-be4e-2c8133534762@b88a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,7 @@ DTEND:20260226T181400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T161500Z
 SUMMARY:MASTERCLASS TROMPETTE
-UID:02a8fd89-1ac7-4e16-9b33-e5e8e47e4065@02a8.org
+UID:21ab4881-0b51-4dfd-a37d-4a868c3f1aec@21ab.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260225T133000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260225T113000Z
 SUMMARY:Trombone
-UID:c0c56415-0bc8-4866-8406-966d1418c0f5@c0c5.org
+UID:1f4145e1-4d5e-48c9-b60b-11d19d16b063@1f41.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260306T124500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260306T104500Z
+SUMMARY:Hebcha
+UID:4bb002d6-febf-480a-b079-3d3317354273@4bb0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTEND:20260305T211500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260305T191500Z
 SUMMARY:Répé Brass'art
-UID:fef5ef80-55ce-4996-983c-f9e153af9d86@fef5.org
+UID:db28f81a-6c74-4436-9383-060cfa884ea1@db28.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
