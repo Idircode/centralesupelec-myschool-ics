@@ -3,39 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260305T211500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260305T191500Z
-SUMMARY:Répé Brass'art
-UID:72c27a3e-2891-4cb4-aa23-23e35d2ade2d@72c2.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260306T124500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260306T104500Z
 SUMMARY:Hebcha
-UID:2d2a6839-699b-4487-a03f-2ee7b3c88441@2d2a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260302T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260302T190000Z
-SUMMARY:Violons quatuor
-UID:756213a3-a12f-4e64-ae44-8f85f85ffda5@7562.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260226T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260226T120000Z
-SUMMARY:Piano
-UID:902b65ce-9a54-461b-a2be-1d96b176d2df@902b.org
+UID:d54e761e-440a-437e-97cf-36295bcee283@d54e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,34 @@ DTEND:20260226T181400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260226T161500Z
 SUMMARY:MASTERCLASS TROMPETTE
-UID:039f51f9-6d0a-4b8a-93b6-ba948b81e30f@039f.org
+UID:b3271455-412f-4634-a5f2-f4512a1af740@b327.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260305T211500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260305T191500Z
+SUMMARY:Répé Brass'art
+UID:00070339-e89c-423f-93ab-8a113e42015c@0007.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260302T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260302T190000Z
+SUMMARY:Violons quatuor
+UID:314490a0-73cd-4c3d-8ce7-0bed4d9dd01a@3144.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Zoé SAVOLDELLI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260226T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260226T120000Z
+SUMMARY:Piano
+UID:4ce4d8d4-06c5-45fd-93fa-a631ae3a0cfb@4ce4.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
