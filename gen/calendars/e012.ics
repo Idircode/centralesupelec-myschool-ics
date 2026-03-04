@@ -3,48 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aron GABOR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260303T123000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260303T103000Z
-SUMMARY:Enregistrement Hyris
-UID:bdf5b1d9-4df0-4e7b-8d13-f257ccd9e61f@bdf5.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260305T211500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260305T191500Z
-SUMMARY:Répé Brass'art
-UID:d238913c-b268-4b66-8408-9a01b016b4c2@d238.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260303T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260303T190000Z
-SUMMARY:Répète
-UID:625a13ae-0fcb-4e90-9346-70827885afec@625a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260306T124500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260306T104500Z
-SUMMARY:Hebcha
-UID:74b0b462-645f-487f-a699-65abd9e616ee@74b0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260303T173000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260303T160000Z
 SUMMARY:Cello
-UID:a6a433c5-fb1a-4b65-9ce3-d11bb012606d@a6a4.org
+UID:6efa4e8a-bfca-4ce8-8a1f-097b9e3109fd@6efa.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +17,43 @@ DTEND:20260302T210000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260302T190000Z
 SUMMARY:Violons quatuor
-UID:a684031f-a066-423c-8dfb-aa90ec2003d9@a684.org
+UID:4030b0b5-2a9e-4e9e-8de5-d7482fa2a1d1@4030.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260303T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260303T190000Z
+SUMMARY:Répète
+UID:9a36126b-1471-46af-be0c-3883eaf9db1d@9a36.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aron GABOR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260303T123000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260303T103000Z
+SUMMARY:Enregistrement Hyris
+UID:e0ea5ae6-3a25-4a7d-9c24-797e8d7c5f3f@e0ea.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260306T124500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260306T104500Z
+SUMMARY:Hebcha
+UID:d949ef07-872d-43ce-99db-a254acf45a9e@d949.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260305T211500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260305T191500Z
+SUMMARY:Répé Brass'art
+UID:4cfeed61-a4a6-43cc-95af-66bfd214a467@4cfe.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
