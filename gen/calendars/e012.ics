@@ -3,39 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260303T173000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260303T160000Z
-SUMMARY:Cello
-UID:76b993a1-48ab-4b8b-9c37-ca29f066597e@76b9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260302T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260302T190000Z
-SUMMARY:Violons quatuor
-UID:e2b4ac80-7da4-45c6-a8fc-792e32fd0878@e2b4.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260303T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260303T190000Z
-SUMMARY:Répète
-UID:85b10c2b-7c04-4766-a7ea-3a009a09bc6f@85b1.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260306T124500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260306T104500Z
 SUMMARY:Hebcha
-UID:3fb2deda-6dfe-4e61-b08e-5a61d69582b3@3fb2.org
+UID:e2dafd3e-162d-4d8d-9f65-7335e9517bab@e2da.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,7 @@ DTEND:20260305T211500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260305T191500Z
 SUMMARY:Répé Brass'art
-UID:1ec92122-4f38-4849-a566-232708c0ec29@1ec9.org
+UID:a0078186-27db-4fe6-a9e7-b4d97da0a595@a007.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +26,34 @@ DTEND:20260303T123000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260303T103000Z
 SUMMARY:Enregistrement Hyris
-UID:098db600-a964-466f-8494-5151e650ee5a@098d.org
+UID:77365a56-ab07-491b-87c1-ec989d5437d2@7736.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260303T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260303T190000Z
+SUMMARY:Répète
+UID:ef55039d-8709-4d62-96c8-f9f13a565201@ef55.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260302T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260302T190000Z
+SUMMARY:Violons quatuor
+UID:e5946758-8d1a-4ea8-9197-ff994f336973@e594.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260303T173000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260303T160000Z
+SUMMARY:Cello
+UID:40ca2349-c814-44a3-9d81-bfd8f97e2b9f@40ca.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
