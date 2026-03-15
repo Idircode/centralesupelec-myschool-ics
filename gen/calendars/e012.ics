@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tom MAZERAND\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260312T200000Z
+DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260310T181500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260312T180000Z
-SUMMARY:piano
-UID:266e0ed6-bf81-4d4d-8d5b-378ef9cb494d@266e.org
+DTSTART:20260310T161500Z
+SUMMARY:Répète Dalonkhii
+UID:3fc8827b-8fd2-4cfd-ba4a-4cd475139bbb@3fc8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTEND:20260310T124500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260310T113000Z
 SUMMARY:Repet CommuS 3A
-UID:831676ca-1253-41c9-baea-8248c6ba8507@8316.org
+UID:8d563ae4-5892-4c62-bb7e-6b20aa2e07bf@8d56.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,34 +26,7 @@ DTEND:20260318T210000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260318T190000Z
 SUMMARY:Galette saucisse 
-UID:4ab3ead4-b7f7-4aa9-a076-b397d0c9a57a@4ab3.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260310T181500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260310T161500Z
-SUMMARY:Répète Dalonkhii
-UID:5a953ef5-9857-446c-af65-a84f80920855@5a95.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thomas SCHOULLER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260311T141500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260311T131500Z
-SUMMARY:Musique 
-UID:c849fcfd-4a5c-4864-80d8-78beb3c130cb@c849.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260312T154500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260312T140000Z
-SUMMARY:Piano
-UID:b735abb4-1031-4217-87f6-d58efa6b8d02@b735.org
+UID:a697711a-8cc6-4cd3-80a2-34e5133750b1@a697.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +35,34 @@ DTEND:20260312T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T160000Z
 SUMMARY:Piano
-UID:2e720496-4f31-4993-913d-a7b8f15351d5@2e72.org
+UID:4a9d0840-9868-49cf-bd7a-bb87335210ed@4a9d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tom MAZERAND\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260312T200000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260312T180000Z
+SUMMARY:piano
+UID:6b1ee519-94e7-4cb5-8360-c1db94cd34fe@6b1e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260312T154500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260312T140000Z
+SUMMARY:Piano
+UID:03096568-f459-4fb3-90e0-9976d503122b@0309.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thomas SCHOULLER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260311T141500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260311T131500Z
+SUMMARY:Musique 
+UID:6f376ca1-7cfc-4516-b692-4432ae5dc679@6f37.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +71,7 @@ DTEND:20260312T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T120000Z
 SUMMARY:Repeout
-UID:54efc4a0-fc80-40a9-83d5-63f7782a7c51@54ef.org
+UID:be7102dc-41c2-4c01-ac03-541eb096936e@be71.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
