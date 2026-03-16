@@ -3,48 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Fleur ADRIEN-SAGE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260311T173000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260311T170000Z
-SUMMARY:Piano
-UID:13a0b0cc-5781-4810-9055-cdc41146964c@13a0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260311T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260311T194000Z
-SUMMARY:Basson
-UID:051e2b0b-18d0-44f2-8446-bbbccaddfd8f@051e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260316T200000Z
+DTEND:20260312T220000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260316T180000Z
-SUMMARY:Répète Family tree 
-UID:68685aa8-3436-4dcb-b6ec-56ed7629e8a2@6868.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sai ZHANG\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260313T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260313T201500Z
-SUMMARY:piano
-UID:77a2a921-4b3c-4316-8b0a-8521dd5a9f7b@77a2.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Malo USELLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260318T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260318T200000Z
-SUMMARY:Répétition chant-rôles Family Tree Zerbib LisaLoui
-UID:cfc450f6-cb2b-45b5-b093-c237b6837902@cfc4.org
+DTSTART:20260312T200000Z
+SUMMARY:Répète 
+UID:045e82d7-a5a2-4582-9312-6cdd851c44a0@045e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,25 +17,7 @@ DTEND:20260311T160000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260311T143000Z
 SUMMARY:Piano
-UID:9559c936-a6b8-433e-bea5-224b031ffac4@9559.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Valentin GERARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260312T170000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260312T160000Z
-SUMMARY:Valentin l'ancien 
-UID:bee0f895-fae1-407b-b6ad-13774a3f3ba1@bee0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260313T180000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260313T163000Z
-SUMMARY:Piano
-UID:b6c9cf9b-82e2-4d44-baf9-05d2826047bc@b6c9.org
+UID:44e3d77a-d398-4342-8f28-972bbac40cdf@44e3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +26,16 @@ DTEND:20260313T130000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260313T110000Z
 SUMMARY:zou
-UID:b388e5f4-b598-43d5-a7c9-240a207554a6@b388.org
+UID:4e2443e5-ed61-4232-b731-5411413140e8@4e24.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Valentin GERARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260312T170000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260312T160000Z
+SUMMARY:Valentin l'ancien 
+UID:e4e09a52-cfa4-4145-afa1-f2fbe697b0a4@e4e0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +44,52 @@ DTEND:20260316T163000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260316T153000Z
 SUMMARY:Piano
-UID:0fdc0caa-a2ae-4eea-9668-7d9cac88fad4@0fdc.org
+UID:4d2c33e3-93a4-4474-b1f8-7f853db1e384@4d2c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sai ZHANG\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260313T210000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260313T201500Z
+SUMMARY:piano
+UID:124e0bfd-da84-4c1d-a5ed-08e443ea3617@124e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260311T210000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260311T194000Z
+SUMMARY:Basson
+UID:334993c7-3cbd-4c22-bfc4-4a2d1796bdb2@3349.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Malo USELLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260318T210000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260318T200000Z
+SUMMARY:Répétition chant-rôles Family Tree Zerbib LisaLoui
+UID:ffd46d9a-325d-49f7-98f2-ea78e263d43f@ffd4.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260313T180000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260313T163000Z
+SUMMARY:Piano
+UID:e1cd9d05-918e-4d2f-8897-8b3ea5c4d28e@e1cd.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Fleur ADRIEN-SAGE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260311T173000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260311T170000Z
+SUMMARY:Piano
+UID:a1eb7990-7df9-420d-bad5-74c9cffc96c7@a1eb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,25 +98,16 @@ DTEND:20260312T160000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260312T140000Z
 SUMMARY:Valentin le musicien 
-UID:5294e199-fca3-4cc7-9ce7-5259d82f2703@5294.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Malo USELLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260312T140000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260312T123000Z
-SUMMARY:Répétition chant-rôles Family Tree
-UID:f9067071-fd48-446e-b691-2e82f2d9ca15@f906.org
+UID:92a8ebf0-8559-4309-88fe-b33f98e9f1a4@92a8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260312T220000Z
+DTEND:20260316T200000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260312T200000Z
-SUMMARY:Répète 
-UID:d12cdf82-91ec-4829-b979-f52d656613ce@d12c.org
+DTSTART:20260316T180000Z
+SUMMARY:Répète Family tree 
+UID:124dc928-e2c5-4eb3-9abd-6a99dbe15c1a@124d.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +116,16 @@ DTEND:20260313T110000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260313T090000Z
 SUMMARY:zou
-UID:2e30024f-1ed6-4cb6-ab47-2d8a474b14c5@2e30.org
+UID:29143e9c-2c84-4dfe-bbac-8b83fa8e72ce@2914.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Malo USELLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260312T140000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260312T123000Z
+SUMMARY:Répétition chant-rôles Family Tree
+UID:e5a1c461-13b4-4d2e-875c-670e50eeb3c5@e5a1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
