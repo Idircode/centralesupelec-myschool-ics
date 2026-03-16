@@ -3,48 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Agnese GILARDI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260312T170000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260312T160000Z
-SUMMARY:Piano
-UID:0912749d-8628-4ab7-b084-cd32a919f19b@0912.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260317T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260317T160000Z
-SUMMARY:Les gens
-UID:e6200d9d-61c4-4146-a423-41eef9e0348f@e620.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Tom MAZERAND\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260312T200000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T180000Z
 SUMMARY:piano
-UID:c9ed17c3-864b-4a78-b490-c61ab876a7a1@c9ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thomas SCHOULLER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260311T141500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260311T131500Z
-SUMMARY:Musique 
-UID:4d5500e9-7879-44fb-b5ad-c6e5fbf0ff5a@4d55.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260316T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260316T113000Z
-SUMMARY:Chant
-UID:03af5af8-a3c7-4336-96dd-fed0bdbdcfe4@03af.org
+UID:f702f26b-ebe9-4170-9e12-c0564a36d196@f702.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +17,16 @@ DTEND:20260312T154500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T140000Z
 SUMMARY:Piano
-UID:a737a94d-cc4d-4874-a6c5-ee7c12dea2d6@a737.org
+UID:15cf0db7-de79-4827-a43f-698c736db738@15cf.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thomas SCHOULLER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260311T141500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260311T131500Z
+SUMMARY:Musique 
+UID:30de5973-225f-401b-b41e-798749bf3b26@30de.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +35,7 @@ DTEND:20260318T210000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260318T190000Z
 SUMMARY:Galette saucisse 
-UID:094835cc-f4a9-4961-aa95-02fd8fd6fbbd@0948.org
+UID:1772f7d7-9e20-4d8e-952b-410717ead450@1772.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +44,34 @@ DTEND:20260312T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T120000Z
 SUMMARY:Repeout
-UID:969156b3-5a89-4135-8f15-f50eadbabb17@9691.org
+UID:ac28cbe3-d9eb-4549-b955-4b227531248f@ac28.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260317T180000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260317T160000Z
+SUMMARY:Les gens
+UID:c5f06fda-cadc-4b30-b893-499affc430e4@c5f0.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260316T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260316T113000Z
+SUMMARY:Chant
+UID:d0b5e590-50cb-46e4-9ca1-cacadf2e5fd2@d0b5.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Agnese GILARDI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260312T170000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260312T160000Z
+SUMMARY:Piano
+UID:534cccc2-f262-4542-a0e0-e3297c45101a@534c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
