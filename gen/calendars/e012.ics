@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thomas SCHOULLER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260311T141500Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260317T180000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260311T131500Z
-SUMMARY:Musique 
-UID:a01d9e0c-dffa-438e-a9e4-e996f68c7b13@a01d.org
+DTSTART:20260317T160000Z
+SUMMARY:Les gens
+UID:075fb217-5a89-4182-ab32-dd3db25846a7@075f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTEND:20260312T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T160000Z
 SUMMARY:Piano
-UID:84613c9c-e79a-4a05-8923-41fe6791ac01@8461.org
+UID:58ffb878-f0bb-4f74-b44b-d3462ce2e121@58ff.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,43 +26,7 @@ DTEND:20260312T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T120000Z
 SUMMARY:Repeout
-UID:9cb74b65-f035-40b1-b3e4-9a423013020c@9cb7.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260318T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260318T190000Z
-SUMMARY:Galette saucisse 
-UID:27fcba4d-738d-4997-bebe-5fdc217a5d5a@27fc.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260316T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260316T113000Z
-SUMMARY:Chant
-UID:f51d62c8-47ed-4f4b-a71f-0e275204b665@f51d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260317T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260317T160000Z
-SUMMARY:Les gens
-UID:d0f5ce3b-4d5d-4241-a306-a266376d5e0e@d0f5.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260312T154500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260312T140000Z
-SUMMARY:Piano
-UID:cf3c8346-b3a9-40c8-ac02-f7666f585cf4@cf3c.org
+UID:4aa126e6-1463-4b13-b1f6-1310019386a4@4aa1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +35,34 @@ DTEND:20260312T200000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260312T180000Z
 SUMMARY:piano
-UID:869be728-2fe3-468b-996a-4104ec7ced97@869b.org
+UID:b3dc9961-05fe-44f5-8db9-aa44310b2b9a@b3dc.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260318T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260318T190000Z
+SUMMARY:Galette saucisse 
+UID:ec182b60-1071-430a-8ab1-5afaa2907a6c@ec18.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260316T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260316T113000Z
+SUMMARY:Chant
+UID:df49ad4e-66d0-41dc-9da4-2149ad74c8f5@df49.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Emilie FOUBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260312T154500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260312T140000Z
+SUMMARY:Piano
+UID:96f0a973-32f9-47de-ae13-f2b37eaa479b@96f0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
