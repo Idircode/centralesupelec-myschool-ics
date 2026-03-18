@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Abderrahmane BACHAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260317T213000Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260317T180000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260317T193000Z
-SUMMARY:ExamSdt 
-UID:65a6e6d3-d773-4c55-9bc9-200a49d74272@65a6.org
+DTSTART:20260317T160000Z
+SUMMARY:Les gens
+UID:20c04b63-ad67-43f2-9507-3d46ad580122@20c0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,16 @@ DTEND:20260316T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260316T113000Z
 SUMMARY:Chant
-UID:9aa6da18-e384-4095-b7dc-87a292db4356@9aa6.org
+UID:e7caf9e4-227f-42b2-ac3f-c08b9f0f6dd2@e7ca.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260317T180000Z
+DESCRIPTION:Réservé par : Abderrahmane BACHAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260317T213000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260317T160000Z
-SUMMARY:Les gens
-UID:e1f52d32-b81e-4b10-857a-a020f358518d@e1f5.org
+DTSTART:20260317T193000Z
+SUMMARY:ExamSdt 
+UID:5aac2e2e-d9bf-481e-926a-d933a7c681d1@5aac.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
