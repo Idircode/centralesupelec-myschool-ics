@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260316T130000Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260317T180000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260316T113000Z
-SUMMARY:Chant
-UID:6ee2437f-c174-4b0d-9ef7-b33aeb1f0cf1@6ee2.org
+DTSTART:20260317T160000Z
+SUMMARY:Les gens
+UID:69a6b066-5be9-49cf-b924-e4425b6d3f9d@69a6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,16 @@ DTEND:20260317T213000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260317T193000Z
 SUMMARY:ExamSdt 
-UID:7a53bc4b-1a61-4845-bf53-6f72bad8771e@7a53.org
+UID:fecfe961-968c-4170-8218-7c3e140990b4@fecf.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260317T180000Z
+DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260316T130000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260317T160000Z
-SUMMARY:Les gens
-UID:689fee29-85ed-4e05-b229-e5d63952165f@689f.org
+DTSTART:20260316T113000Z
+SUMMARY:Chant
+UID:ca88b3cc-7497-4c9b-ba1b-d7ff9cf05f82@ca88.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
