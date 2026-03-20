@@ -3,12 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260316T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260316T113000Z
+SUMMARY:Chant
+UID:94c878e2-486e-42fd-ad00-66fd4f3dc8cf@94c8.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Abderrahmane BACHAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260317T213000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260317T193000Z
 SUMMARY:ExamSdt 
-UID:5940638f-28c1-4545-ba8b-7305abdca84e@5940.org
+UID:abe05740-dcba-4148-b713-44a71bde58ad@abe0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,7 @@ DTEND:20260317T180000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260317T160000Z
 SUMMARY:Les gens
-UID:6071d91b-e871-40b0-94cd-c8ee354f7d0f@6071.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ladislas DUPUY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260316T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260316T113000Z
-SUMMARY:Chant
-UID:46ae3499-74b2-4fe2-af67-365fc4008e79@46ae.org
+UID:b7e4fdff-c9a1-47c0-a840-9d691929770d@b7e4.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
