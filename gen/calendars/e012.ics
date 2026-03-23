@@ -3,12 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Raphaël SAIBI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260320T143000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260320T133000Z
+SUMMARY:Piano
+UID:f1d23089-01b4-4eac-9f29-0104dfcf1ba1@f1d2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Luc MARIETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260321T201500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260321T193000Z
 SUMMARY:Piano
-UID:f45add2b-dbc5-40a7-a2f7-b74108c8f01e@f45a.org
+UID:183c0750-b634-491f-b909-959b514b261a@183c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,7 @@ DTEND:20260320T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260320T152500Z
 SUMMARY:Cello
-UID:d54b2edc-cbb8-47ed-b893-b2245cb22707@d54b.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël SAIBI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260320T143000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260320T133000Z
-SUMMARY:Piano
-UID:5d84ebdf-b084-417d-99fc-416d5ee2af9d@5d84.org
+UID:dfb5d6b5-a10c-43c9-bc9e-e5a192f67367@dfb5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20260320T133000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260320T120000Z
 SUMMARY:Enregistrement 
-UID:382e6886-e872-42ac-88b7-2356beb543d2@382e.org
+UID:356ce53e-8442-4c72-b125-6b5a1c018503@356c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
