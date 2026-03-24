@@ -3,39 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260320T163000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260320T152500Z
-SUMMARY:Cello
-UID:b82cb3aa-20f8-4208-88a3-aaa3cefe0a7e@b82c.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Luc MARIETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260321T201500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260321T193000Z
-SUMMARY:Piano
-UID:496a6cb5-52f8-477a-ada1-cfce83b66f60@496a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Vincent BOUVIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260323T193000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260323T183000Z
-SUMMARY:repete galette saucisse
-UID:0af082c8-4a29-4ddc-9406-66089800d253@0af0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260320T133000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260320T120000Z
 SUMMARY:Enregistrement 
-UID:6114e98a-1f3b-4d0f-b19c-62d2cad256ff@6114.org
+UID:8dd61b8e-b051-43d6-927c-4e8cf224f753@8dd6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,25 @@ DTEND:20260320T143000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260320T133000Z
 SUMMARY:Piano
-UID:56c676e8-5c73-47ec-87aa-e21ca025d1fb@56c6.org
+UID:a9bf424a-a845-4cef-a80f-a37cbd88d19f@a9bf.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Luc MARIETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260321T201500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260321T193000Z
+SUMMARY:Piano
+UID:82c985e8-63ee-4437-91aa-417e0c543106@82c9.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260320T163000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260320T152500Z
+SUMMARY:Cello
+UID:d6d7bea8-45a3-47bb-98cf-7ff3edc63935@d6d7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260323T161500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260323T150000Z
 SUMMARY:Piano
-UID:1731b505-9228-40c9-8e09-a65ea1845c60@1731.org
+UID:2340d6b2-5942-4960-a554-8031cf3272be@2340.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Vincent BOUVIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260323T193000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260323T183000Z
+SUMMARY:repete galette saucisse
+UID:d4964be9-9155-483f-8c06-f50f2e2311cd@d496.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
