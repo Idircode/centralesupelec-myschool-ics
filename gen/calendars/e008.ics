@@ -4,74 +4,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260326T111500Z
+DTEND:20260326T133000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260326T103000Z
+DTSTART:20260326T120000Z
 SUMMARY:Piano
-UID:f92d792c-9800-469f-b41e-8cd181ba92b0@f92d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260325T160000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260325T150000Z
-SUMMARY:Batterie 
-UID:d63d4dd2-969d-4559-b5a0-2ce7861d0a03@d63d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260329T164500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260329T144500Z
-SUMMARY:Violon
-UID:f2511501-e60a-4483-b9d3-b0ef9c3da6cc@f251.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260324T170000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260324T160000Z
-SUMMARY:Trompette
-UID:de017b2f-a1a1-41fc-8d9c-a06ba3eb28ce@de01.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260329T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260329T193000Z
-SUMMARY:Piano
-UID:42bbe34d-fe5e-467f-ac72-c5787aa17e3e@42bb.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TURPIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260325T174500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260325T160000Z
-SUMMARY:foot beurre
-UID:cbcd2fd7-b62f-4601-ac20-898988457a4c@cbcd.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260325T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260325T193000Z
-SUMMARY:Repouet
-UID:2e509f94-304a-468a-87a0-4b08b327b100@2e50.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alex DELANNOY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260325T120000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260325T110000Z
-SUMMARY:Piano
-UID:0cc475e6-f94f-4463-80e9-6c6d1d05ff40@0cc4.org
+UID:40872012-1844-42f1-874e-75ed1d8c7e88@4087.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,70 +17,7 @@ DTEND:20260325T193000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260325T183000Z
 SUMMARY:Repouet
-UID:3ea0b379-d3fa-404d-86cc-0fe81eecda8e@3ea0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260326T163000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260326T150000Z
-SUMMARY:Repet
-UID:32530e7f-e09e-4cf4-b9b2-ddff1a0a3cca@3253.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260328T154500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260328T134500Z
-SUMMARY:Piano
-UID:12b47500-496a-4d17-9d28-8c8829e76e8b@12b4.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260402T170000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260402T150000Z
-SUMMARY:Répète CommuS
-UID:9c672435-3d45-4803-8e6d-59c749534ca4@9c67.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis-Maximilien BOURGUIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260327T163000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260327T153000Z
-SUMMARY:Trombone 
-UID:627d8e17-2a74-4ea9-be57-beac5f1cf72a@627d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260326T133000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260326T120000Z
-SUMMARY:Piano
-UID:2d129b81-46ac-4109-bb0d-35636f11ddc9@2d12.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260328T213000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260328T200000Z
-SUMMARY:Piano
-UID:f647f45d-dedd-41c1-b4d6-8ea9e381917f@f647.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260326T184500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260326T180000Z
-SUMMARY:Répète 
-UID:82069628-7940-4b8e-ab5a-276fb2617f0b@8206.org
+UID:d41f1816-1779-4205-b0f9-a2d504ea6a5b@d41f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -152,25 +26,7 @@ DTEND:20260324T120000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260324T110000Z
 SUMMARY:Répète 
-UID:0d52043b-2bc0-4aa7-ab20-12862ce4f274@0d52.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Gabriel SYLVESTRE NUÑEZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260328T200000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260328T183000Z
-SUMMARY:Trombone
-UID:8edba17f-a189-4b60-9205-e17423a8338f@8edb.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260327T111500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260327T104500Z
-SUMMARY:Piano
-UID:4fff8c94-105d-4a38-b85b-ef5a8281a424@4fff.org
+UID:40fe8b0a-156b-4d2e-ae7e-31ea4a301dc8@40fe.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -179,7 +35,88 @@ DTEND:20260327T124500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260327T114500Z
 SUMMARY:des mots 
-UID:5cf49950-6aa9-4810-944c-929c9ff2bc54@5cf4.org
+UID:fd168b6a-07a3-4c57-a96c-9bd6ab178506@fd16.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis-Maximilien BOURGUIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260327T163000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260327T153000Z
+SUMMARY:Trombone 
+UID:ad7ae881-f9af-4971-9661-77253284bc1e@ad7a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260328T213000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260328T200000Z
+SUMMARY:Piano
+UID:833c1eb4-d925-4b3a-a316-5ff5c37dbfb7@833c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260325T210000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260325T193000Z
+SUMMARY:Repouet
+UID:001dcaf2-8a6d-4c04-a646-9c27273138a5@001d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nathan DUFFAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260329T164500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260329T144500Z
+SUMMARY:Violon
+UID:4a5c6485-eb45-4b1d-b09a-c7e12dcf7b53@4a5c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260329T183000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260329T170000Z
+SUMMARY:Hautbois
+UID:00cca2fc-b2d6-4487-8ff0-a5d4412466e1@00cc.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260324T170000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260324T160000Z
+SUMMARY:Trompette
+UID:859650c0-d885-4e92-b34a-f3fc067dff1e@8596.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260402T170000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260402T150000Z
+SUMMARY:Répète CommuS
+UID:be25ddc1-d091-495e-8290-61133ddaea9b@be25.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260329T210000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260329T193000Z
+SUMMARY:Piano
+UID:f5ac9d81-7f97-4d8d-a8d3-1c30a33163e8@f5ac.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260326T163000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260326T150000Z
+SUMMARY:Repet
+UID:a0bb77d0-59db-4cf3-a7db-218af334eda1@a0bb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -188,7 +125,70 @@ DTEND:20260327T183000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260327T170000Z
 SUMMARY:Piano 
-UID:49a34601-be62-437d-859a-8cfbecbbd926@49a3.org
+UID:b3d86150-c4eb-4998-8596-7fab71be9521@b3d8.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260326T184500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260326T180000Z
+SUMMARY:Répète 
+UID:9c10b4fe-78d0-4931-8779-e93f8551e56a@9c10.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alex DELANNOY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260325T120000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260325T110000Z
+SUMMARY:Piano
+UID:fd43f3b8-8172-49ab-abb9-f25fae5ae251@fd43.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicolas TURPIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260325T174500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260325T160000Z
+SUMMARY:foot beurre
+UID:b90036e4-5e08-4a83-ba6d-57bc9f223cb6@b900.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Gabriel SYLVESTRE NUÑEZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260328T200000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260328T183000Z
+SUMMARY:Trombone
+UID:eea5faf6-debe-4f64-a593-2d1a1ba52d3e@eea5.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260328T154500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260328T134500Z
+SUMMARY:Piano
+UID:d87a99c2-f8ad-4fca-97b6-85b6ec81e893@d87a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260325T160000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260325T150000Z
+SUMMARY:Batterie 
+UID:eabc18aa-bd94-477e-b309-40ec309bcbfd@eabc.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260326T111500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260326T103000Z
+SUMMARY:Piano
+UID:c5819dda-5676-408a-949f-5ad12e7e8c91@c581.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -197,7 +197,16 @@ DTEND:20260326T144500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260326T140000Z
 SUMMARY:pipiano
-UID:a908c12f-1b48-4c04-bacd-2ea0a463c99a@a908.org
+UID:1bad4037-d222-4115-b9ae-d0a096a792e5@1bad.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260327T111500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260327T104500Z
+SUMMARY:Piano
+UID:d5607883-890e-42bb-8f20-5500cdb0dcb8@d560.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
