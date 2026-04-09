@@ -3,48 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Kieron RANNO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260406T173000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260406T170000Z
-SUMMARY:Piano Batterie
-UID:6dfebf74-1053-48b6-b74d-132755d17eeb@6dfe.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260407T133000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260407T123000Z
-SUMMARY:chant
-UID:446edef6-f0f6-4514-81ba-41c6fbae82c2@446e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Zaineb MAALEJ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260408T160000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260408T150000Z
 SUMMARY:réunion CommuS
-UID:fc680874-eb97-4b60-97f7-3ddde582b2fa@fc68.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260407T171500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260407T151500Z
-SUMMARY:Répète Dalonkhii
-UID:706d1844-83fd-4b89-8c50-de3d37aeb871@706d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Kieron RANNO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260407T210000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260407T194500Z
-SUMMARY:Piano
-UID:8e1b2bbc-723c-48ae-9924-2f5ed3406751@8e1b.org
+UID:9ebbe246-89e1-45bb-917f-d9104e7b9f59@9ebb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +17,7 @@ DTEND:20260408T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260408T120000Z
 SUMMARY:Piano
-UID:3855d797-9fcd-45bf-9a16-1b19fe694d50@3855.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël PAIN DIT HERMIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260407T114500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260407T110000Z
-SUMMARY:Jam
-UID:c90ef366-47ae-4f77-b50f-b034a5efd250@c90e.org
+UID:784572b3-f024-4493-9dab-ed313f0fc5cd@7845.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +26,7 @@ DTEND:20260409T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260409T150000Z
 SUMMARY:Repete
-UID:b55e58b7-b52f-4ba6-b678-41297338518c@b55e.org
+UID:2968d057-2ab1-4f9f-b3fa-0cca267add5e@2968.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +35,16 @@ DTEND:20260404T173000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260404T163000Z
 SUMMARY:Session piano 
-UID:80c7f2cc-a8f6-4872-8637-e6b3926212fd@80c7.org
+UID:f2c0489e-e571-4d2b-a194-ec5b14ed078c@f2c0.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Kieron RANNO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260406T173000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260406T170000Z
+SUMMARY:Piano Batterie
+UID:0b33adc3-9ba4-4df3-9e76-115c79bf4db3@0b33.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +53,7 @@ DTEND:20260407T110000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260407T093000Z
 SUMMARY:ReuG
-UID:3116edda-a4d4-4052-85a7-43305d7b1e99@3116.org
+UID:72aa89b0-9d52-4eed-aff3-361ba25a36fe@72aa.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +62,16 @@ DTEND:20260404T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260404T150000Z
 SUMMARY:Session Piano
-UID:859f3384-2fd0-4c4a-a6da-3e72c35bdc2c@859f.org
+UID:24ede39a-b38d-40d3-88ff-b20cba5ce5c2@24ed.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Kieron RANNO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260407T210000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260407T194500Z
+SUMMARY:Piano
+UID:335ca34a-fcc1-4311-8ec3-c7e93ec2ebb9@335c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +80,34 @@ DTEND:20260410T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260410T150000Z
 SUMMARY:Repete
-UID:de6c0a8f-b0df-4411-bc6d-8bd71716621c@de6c.org
+UID:e4ac311d-b50f-44ca-bb81-a208f6cdf449@e4ac.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Félix CARON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260407T171500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260407T151500Z
+SUMMARY:Répète Dalonkhii
+UID:60b3fc18-277c-4431-bcc9-745efae138e1@60b3.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260407T133000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260407T123000Z
+SUMMARY:chant
+UID:3e9647ac-ea23-48a1-8459-b45077ea4c91@3e96.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Raphaël PAIN DIT HERMIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260407T114500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260407T110000Z
+SUMMARY:Jam
+UID:6b998ba1-7a1d-4c83-ac82-5ef0b273e843@6b99.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
