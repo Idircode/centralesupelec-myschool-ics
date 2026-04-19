@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T200000Z
+DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T164500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260416T190000Z
-SUMMARY:tmtp
-UID:c789ddca-53bd-4b74-8947-83dbd2172ddc@c789.org
+DTSTART:20260416T150000Z
+SUMMARY:DurJournée
+UID:74df9d1e-5440-429a-83db-406e4882c61b@74df.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,43 +17,16 @@ DTEND:20260415T171500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260415T163000Z
 SUMMARY:Repetition concert
-UID:8d9d7dbf-a62f-41b0-a1e3-41f59feade18@8d9d.org
+UID:967e624b-22e6-4217-a5e0-5c492e9d1126@967e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël BÉGUÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T120000Z
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T200000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260416T110000Z
-SUMMARY:Feur
-UID:346d2442-9e49-4d6c-a335-fb169864c4f7@346d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260415T200000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260415T180000Z
-SUMMARY:Repouet
-UID:335b4de9-d45b-423d-9e79-b62a4006b559@335b.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T133000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260416T123000Z
-SUMMARY:Répète 
-UID:46e50be3-8dda-43ac-8ffd-d9936f9b9554@46e5.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260415T163000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260415T143000Z
-SUMMARY:Repetition concert
-UID:66f05893-ff4c-496b-94be-330a73eaad6c@66f0.org
+DTSTART:20260416T190000Z
+SUMMARY:tmtp
+UID:6163c56f-a185-4f81-adc5-d15b9fc07a13@6163.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,16 +35,34 @@ DTEND:20260417T154500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260417T144500Z
 SUMMARY:Adam guitare 
-UID:1d0ba073-afd8-4a66-8b08-c2bf7b111b51@1d0b.org
+UID:8a1a51c4-7317-4b1c-9a64-67646e363959@8a1a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T164500Z
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T133000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260416T150000Z
-SUMMARY:DurJournée
-UID:f8491f86-6e07-4996-9657-ed4a4e0a2cf7@f849.org
+DTSTART:20260416T123000Z
+SUMMARY:Répète 
+UID:7e07734d-f659-4cff-9003-c46f7ecf112a@7e07.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260415T163000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260415T143000Z
+SUMMARY:Repetition concert
+UID:3df176a5-d199-4460-ad70-215a4719bf8f@3df1.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260415T200000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260415T180000Z
+SUMMARY:Repouet
+UID:91fb79f4-313c-40c8-8a43-7efe7139d991@91fb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,16 +71,7 @@ DTEND:20260430T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260430T120000Z
 SUMMARY:Cswing
-UID:b2a7a817-37a6-4413-be61-08ad6f1b6de1@b2a7.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T190000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260416T170000Z
-SUMMARY:tmtp
-UID:e6925f70-cac6-412f-b4f7-fbeaf08830f9@e692.org
+UID:49140387-906b-4acc-a711-ee7414445b2e@4914.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +80,25 @@ DTEND:20260415T103000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260415T093000Z
 SUMMARY:Piano
-UID:d25c2525-0b52-4a25-a311-a7cdf2af2e87@d25c.org
+UID:eb9762e8-65a8-4233-822b-646e7e937da6@eb97.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T190000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260416T170000Z
+SUMMARY:tmtp
+UID:1df4ca96-7254-48a9-87f6-1c4e6d3c0b2d@1df4.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Raphaël BÉGUÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T120000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260416T110000Z
+SUMMARY:Feur
+UID:474cfb5d-fff3-4a63-a034-17b59008bd5e@474c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
