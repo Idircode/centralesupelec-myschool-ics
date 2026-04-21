@@ -3,21 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260417T180000Z
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260420T120000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260417T170000Z
-SUMMARY:Guitare
-UID:86ed7b75-898c-4a5f-8f94-898c3fd85129@86ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260416T180000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260416T160000Z
-SUMMARY:Arsene V2 fin
-UID:6903c312-041e-446c-9410-9451237d88e1@6903.org
+DTSTART:20260420T110000Z
+SUMMARY:Saxoo
+UID:60ce7eaa-e045-458a-a85b-62be6aea9950@60ce.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +17,25 @@ DTEND:20260417T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260417T151500Z
 SUMMARY:Lcl
-UID:68461d20-9e66-4b35-8a0a-45b4f2584904@6846.org
+UID:2f462368-1bf2-4dcf-b2a3-466560c810a1@2f46.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260420T120000Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260416T180000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260420T110000Z
-SUMMARY:Saxoo
-UID:dd93e213-7617-476e-af93-14277b21225a@dd93.org
+DTSTART:20260416T160000Z
+SUMMARY:Arsene V2 fin
+UID:55f4f526-1526-45ee-8ece-5b1401c0c5ab@55f4.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260420T163000Z
+DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260417T180000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260420T150000Z
-SUMMARY:Trombone x2
-UID:82a59ca9-cf52-4d17-85a5-76015e1f3517@82a5.org
+DTSTART:20260417T170000Z
+SUMMARY:Guitare
+UID:a78144a7-9715-4dbb-9f27-0f7cb02c5bd8@a781.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,25 +44,7 @@ DTEND:20260417T200000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260417T180000Z
 SUMMARY:Répétitions 
-UID:da43256a-80ea-468c-bc06-c1d808463fca@da43.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Matéo MAUPEU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260417T151500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260417T134500Z
-SUMMARY:Repete
-UID:7be19743-b3ad-46f3-9d47-9149a394c96b@7be1.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jules TIMBEAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260417T124500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260417T104500Z
-SUMMARY:Jam
-UID:24ccaa11-1385-484d-ac24-6df728b3df9a@24cc.org
+UID:c5308803-1e02-4246-af21-0eac3d358f57@c530.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +53,16 @@ DTEND:20260416T130000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260416T120000Z
 SUMMARY:chant
-UID:ae1052aa-b849-4845-832d-6aed53ef07ec@ae10.org
+UID:f79cad5f-39a6-4ca3-b06a-4d3fbec895d8@f79c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jules TIMBEAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260417T124500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260417T104500Z
+SUMMARY:Jam
+UID:bf8afacf-804b-4bf4-bd4f-6602dc4e56a1@bf8a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +71,25 @@ DTEND:20260418T153000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260418T133000Z
 SUMMARY:chant
-UID:6d4542ed-b7f8-44b0-a859-038be6be9f0d@6d45.org
+UID:d796fe18-08c1-4d78-a06c-d95b4e95bbc4@d796.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260420T163000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260420T150000Z
+SUMMARY:Trombone x2
+UID:f944e948-1463-45ef-8c53-2183a13c47ed@f944.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Matéo MAUPEU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260417T151500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260417T134500Z
+SUMMARY:Repete
+UID:8329336a-9874-42aa-afa0-1695a6fafe7c@8329.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
