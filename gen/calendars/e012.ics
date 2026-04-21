@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T133000Z
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T190000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260416T123000Z
-SUMMARY:Répète 
-UID:26c4f8c9-a6e3-4064-92c2-7e74313b383e@26c4.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël BÉGUÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260416T110000Z
-SUMMARY:Feur
-UID:7eec06df-d928-4ee6-b7c5-ec9f8c2b5299@7eec.org
+DTSTART:20260416T170000Z
+SUMMARY:tmtp
+UID:ce494606-06a9-4410-828f-1844b81d5636@ce49.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,16 @@ DTEND:20260416T164500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260416T150000Z
 SUMMARY:DurJournée
-UID:3673f67c-5581-4d70-a18e-5ffb3c5d1e82@3673.org
+UID:95caa0ae-9bc5-4c28-a998-61d402e777d9@95ca.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T133000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260416T123000Z
+SUMMARY:Répète 
+UID:0bcd5584-e41e-459a-9dde-d330825e6bc1@0bcd.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,16 +35,16 @@ DTEND:20260416T200000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260416T190000Z
 SUMMARY:tmtp
-UID:9dd9829b-e212-47ed-b913-ae249953fafb@9dd9.org
+UID:d6b3e27a-65f4-4744-9778-bb387d12a2b6@d6b3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mohamed Adam FAYALA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260417T154500Z
+DESCRIPTION:Réservé par : Raphaël BÉGUÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260416T120000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260417T144500Z
-SUMMARY:Adam guitare 
-UID:66f266d0-eba9-418d-814b-8a5379bdecc9@66f2.org
+DTSTART:20260416T110000Z
+SUMMARY:Feur
+UID:d5cb38d7-7cd1-443a-9a48-574632fcfb0b@d5cb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +53,16 @@ DTEND:20260430T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260430T120000Z
 SUMMARY:Cswing
-UID:c4f3ae2d-a52f-40d1-a275-728141f2f40e@c4f3.org
+UID:5d7b4470-ad26-4bf4-a7f3-084cc52320a2@5d7b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260416T190000Z
+DESCRIPTION:Réservé par : Mohamed Adam FAYALA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260417T154500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260416T170000Z
-SUMMARY:tmtp
-UID:3c61804d-aa04-41b6-ab6e-087252f4cc6e@3c61.org
+DTSTART:20260417T144500Z
+SUMMARY:Adam guitare 
+UID:df7401c4-b327-4283-a62b-3c66fbb92129@df74.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
