@@ -3,48 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260418T153000Z
+DESCRIPTION:Réservé par : Matéo MAUPEU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260417T151500Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260418T133000Z
-SUMMARY:chant
-UID:94d35a0f-6f1f-4f61-ad4f-03cfcecb394b@94d3.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260420T163000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260420T150000Z
-SUMMARY:Trombone x2
-UID:7e6e2811-bd5f-48a7-85c8-f89b60c8badd@7e6e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260420T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260420T110000Z
-SUMMARY:Saxoo
-UID:65ba0f71-e764-42a3-b2a1-497ee5cb5927@65ba.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260421T160000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260421T143000Z
-SUMMARY:Trombone
-UID:7db9b30b-ebe9-49da-a534-c4c0f2476254@7db9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260422T110000Z
-SUMMARY:Répétition saxo
-UID:a878d782-4913-41ed-813b-aa31afbca466@a878.org
+DTSTART:20260417T134500Z
+SUMMARY:Repete
+UID:d27de761-e5dd-402a-af36-fd18330db789@d27d.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +17,7 @@ DTEND:20260417T124500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260417T104500Z
 SUMMARY:Jam
-UID:f562ad40-2fe8-45ab-a27a-26352ac2b346@f562.org
+UID:11bff1ac-4b70-4a45-8a03-0d4893aad836@11bf.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +26,34 @@ DTEND:20260417T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260417T151500Z
 SUMMARY:Lcl
-UID:83db5323-de0d-48b1-935f-f80c3eac75a2@83db.org
+UID:b0136198-1a2d-4477-a1af-bb02ff41a380@b013.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260421T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260421T143000Z
+SUMMARY:Trombone
+UID:3a4af1fd-d010-429c-a0b0-46992afe3860@3a4a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260418T153000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260418T133000Z
+SUMMARY:chant
+UID:1d5df632-60a5-4aa2-b821-4b8745eb38ac@1d5d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260420T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260420T110000Z
+SUMMARY:Saxoo
+UID:be67b146-1259-43fa-bdd1-3d6a09cf9ec5@be67.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,16 +62,7 @@ DTEND:20260421T173000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260421T161500Z
 SUMMARY:mondieu
-UID:efd637c3-5a77-4cb2-b356-1b34157a873c@efd6.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260417T200000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260417T180000Z
-SUMMARY:Répétitions 
-UID:b321077a-0472-4c83-aa53-f5469833d2ba@b321.org
+UID:719e1814-735a-4a68-9fa1-5f0f49011910@719e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,16 +71,34 @@ DTEND:20260417T180000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260417T170000Z
 SUMMARY:Guitare
-UID:b30ea129-faf4-4ef2-9862-1cb266d8672c@b30e.org
+UID:6544bad4-9099-4eef-b1b0-9d7e41983449@6544.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Matéo MAUPEU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260417T151500Z
+DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260417T200000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260417T134500Z
-SUMMARY:Repete
-UID:45219421-cd4b-4f97-8636-3c4e84bc4f6b@4521.org
+DTSTART:20260417T180000Z
+SUMMARY:Répétitions 
+UID:554eacf2-82da-41f4-8b59-da3eb258b76b@554e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260420T163000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260420T150000Z
+SUMMARY:Trombone x2
+UID:16b2558b-b666-4ad0-9c18-38c42de8e7d5@16b2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T110000Z
+SUMMARY:Répétition saxo
+UID:20ad999f-da4b-4061-a508-d658fa326d3d@20ad.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR

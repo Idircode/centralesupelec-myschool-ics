@@ -3,21 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mohamed Adam FAYALA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260417T154500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260417T144500Z
-SUMMARY:Adam guitare 
-UID:3d3cf845-d4f8-48a9-9390-866c0002096b@3d3c.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260430T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260430T120000Z
 SUMMARY:Cswing
-UID:26325b89-82fe-4ee8-9800-04ebb4251908@2632.org
+UID:f7d2b091-e19d-45e7-b72f-e51721af146b@f7d2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mohamed Adam FAYALA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260417T154500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260417T144500Z
+SUMMARY:Adam guitare 
+UID:25e03395-4cb3-41be-9ccb-f42d152db9f1@25e0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
