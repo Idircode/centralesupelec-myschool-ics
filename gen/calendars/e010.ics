@@ -3,12 +3,21 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T110000Z
+SUMMARY:Répétition saxo
+UID:32309960-49cc-4fd0-a496-b53fc718da80@3230.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260421T173000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260421T161500Z
 SUMMARY:mondieu
-UID:f45496f6-1428-4cc6-876e-38d54712e242@f454.org
+UID:b4e7a03d-b50d-4d29-a9b3-8fe74003f81d@b4e7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,34 +26,7 @@ DTEND:20260421T160000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260421T143000Z
 SUMMARY:Trombone
-UID:029fb961-529d-4966-a0b2-99f66fa157eb@029f.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260422T110000Z
-SUMMARY:Répétition saxo
-UID:7a6e94aa-df10-48f3-93d6-63a719d4092e@7a6e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre BAETZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260427T194500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260427T180000Z
-SUMMARY:After midnight
-UID:be423952-d673-41f4-9c00-50068e6a5a71@be42.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T154500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260422T144500Z
-SUMMARY:chant
-UID:38d92d1f-5a7f-4bec-8023-ee4bbad8efc0@38d9.org
+UID:aa4a2c59-20d9-44c2-b8ec-be2934400388@aa4a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +35,25 @@ DTEND:20260423T121500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260423T111500Z
 SUMMARY:chant
-UID:dc0fb02c-c3a1-43ef-9d22-a624c77e2a05@dc0f.org
+UID:df994308-d50d-4a56-8bf6-cddda72db394@df99.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre BAETZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260427T194500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260427T180000Z
+SUMMARY:After midnight
+UID:c6cbddbf-d124-42e6-896a-f35f2fd326e6@c6cb.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T154500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T144500Z
+SUMMARY:chant
+UID:f35c1da0-570d-4ba0-b28f-452b23fedae0@f35c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
