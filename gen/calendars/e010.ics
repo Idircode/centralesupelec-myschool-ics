@@ -3,12 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260421T173000Z
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T154500Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260421T161500Z
-SUMMARY:mondieu
-UID:f66b7253-cff0-4577-ba63-e19eeb154ed3@f66b.org
+DTSTART:20260422T144500Z
+SUMMARY:chant
+UID:b0b0fc28-ea84-497e-8d87-994b59d245a7@b0b0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,25 +17,16 @@ DTEND:20260421T160000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260421T143000Z
 SUMMARY:Trombone
-UID:3da735a0-962b-4f89-ba07-c0cd1c5dd49b@3da7.org
+UID:d1424118-0122-4f53-bef2-a2249bf13cd5@d142.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T120000Z
+DESCRIPTION:Réservé par : Amandine TEXO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260421T173000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260422T110000Z
-SUMMARY:Répétition saxo
-UID:68cdc880-9dde-4239-97f0-3370734209ea@68cd.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T154500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260422T144500Z
-SUMMARY:chant
-UID:9e1e0ed5-5e0f-41bd-86c3-448dfc6386dc@9e1e.org
+DTSTART:20260421T161500Z
+SUMMARY:mondieu
+UID:3e7f1298-3c84-4ccc-b46c-77f364601b09@3e7f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260423T121500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260423T111500Z
 SUMMARY:chant
-UID:cc960409-144c-467d-801e-c6cf386e8da3@cc96.org
+UID:dd7aeca8-9415-40c7-9bc0-567b850a349d@dd7a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T110000Z
+SUMMARY:Répétition saxo
+UID:a37ecf69-52a6-464d-96f2-51b7c6ea83f7@a37e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
