@@ -3,12 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260422T120000Z
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260421T210000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260422T103000Z
-SUMMARY:Répète 
-UID:37701049-c533-4c73-a151-8071c635c586@3770.org
+DTSTART:20260421T200000Z
+SUMMARY:Piano
+UID:2904b1ee-733e-48a8-843a-475bed138819@2904.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,7 @@ DTEND:20260423T150000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260423T133000Z
 SUMMARY:Piano
-UID:19c783c0-3ed3-47c0-8085-f093374aefb7@19c7.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260421T210000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260421T200000Z
-SUMMARY:Piano
-UID:96be8ae2-35e1-4a7c-849e-659822e0f5f6@96be.org
+UID:040b47bf-191c-4ff9-89cb-73b782f402c9@040b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260426T090000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260426T080000Z
 SUMMARY:Hautbois
-UID:bd9c41c1-dee8-4b07-8997-e54cfae712c2@bd9c.org
+UID:93ac81fb-5462-40d2-87e4-a31d100e31b4@93ac.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260422T120000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260422T103000Z
+SUMMARY:Répète 
+UID:66e1b2f9-1778-4aa5-ba6d-9f278620e76c@66e1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
