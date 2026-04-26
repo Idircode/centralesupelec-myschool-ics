@@ -3,30 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260426T090000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260426T080000Z
-SUMMARY:Hautbois
-UID:333865b0-4679-4de3-8522-2c183cd2724d@3338.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 DTEND:20260422T120000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260422T103000Z
 SUMMARY:Répète 
-UID:2cee1b8c-e0f8-4881-ab66-00a6d7d30c11@2cee.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260423T150000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260423T133000Z
-SUMMARY:Piano
-UID:ce7b266a-2c6a-46ad-a016-3b45e7a1bdab@ce7b.org
+UID:4f7b7947-565f-4e54-a59a-9c8b71872065@4f7b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,25 @@ DTEND:20260421T210000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260421T200000Z
 SUMMARY:Piano
-UID:961a1899-7959-4350-b5af-af28795dd0b4@961a.org
+UID:c0d185be-f618-492f-87e5-afb88790176c@c0d1.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260423T150000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260423T133000Z
+SUMMARY:Piano
+UID:2056e807-6984-4c43-90d8-6fc03d148b47@2056.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260426T090000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260426T080000Z
+SUMMARY:Hautbois
+UID:933abac4-b543-4bbc-87cb-b81d7da77b9f@933a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
