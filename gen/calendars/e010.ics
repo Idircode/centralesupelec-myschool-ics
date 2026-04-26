@@ -3,30 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T154500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260422T144500Z
-SUMMARY:chant
-UID:8ca64aae-fc03-4e17-9908-d23b299b86a3@8ca6.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260422T120000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260422T110000Z
 SUMMARY:Répétition saxo
-UID:12b4c007-aa02-43f4-ba8c-ae37b2839056@12b4.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260421T160000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260421T143000Z
-SUMMARY:Trombone
-UID:174b814e-45d0-4266-9693-2e4707af721f@174b.org
+UID:c7339720-1ee0-47c1-88a3-a06648bc3740@c733.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,25 @@ DTEND:20260423T121500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260423T111500Z
 SUMMARY:chant
-UID:125826e1-0829-4c0a-99dc-f15e6f2984da@1258.org
+UID:481b6549-8a11-4a9c-af7c-e6d1233e140a@481b.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T154500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T144500Z
+SUMMARY:chant
+UID:d3cf067f-aa70-4817-812e-3e99813a5c41@d3cf.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260421T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260421T143000Z
+SUMMARY:Trombone
+UID:11208686-7ea9-469b-be29-a3cad2a68430@1120.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTEND:20260421T173000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260421T161500Z
 SUMMARY:mondieu
-UID:32a058d3-4f24-44b0-ac67-c4f60d59e757@32a0.org
+UID:5140af04-1aa4-4fd4-a92f-87c1314cbf7e@5140.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
