@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260422T140000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260422T133000Z
-SUMMARY:Piano
-UID:a0f74770-c7a6-497c-9f9a-8da7f653ee71@a0f7.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260424T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260424T151500Z
 SUMMARY:Piano
-UID:d2f8dfc3-1b5c-4abc-a2b0-3917e3fa3f2e@d2f8.org
+UID:067d1d4a-1510-48be-8c5a-0afdeda0830c@067d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,16 @@ DTEND:20260423T124500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260423T113000Z
 SUMMARY:Piano 
-UID:4a19c0f0-7db0-4b59-a12a-909b3ebd0ad8@4a19.org
+UID:22da5a4a-1e22-491e-a11f-b4f837fa31e6@22da.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260422T140000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260422T133000Z
+SUMMARY:Piano
+UID:be16284c-6220-43e5-8de5-bcc01c6ef675@be16.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ DTEND:20260427T200000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260427T190000Z
 SUMMARY:Piano 
-UID:850ee183-e3bd-47c8-98b5-318ac02644ab@850e.org
+UID:e9edf293-ecc1-46db-829d-31d6d3296d35@e9ed.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
