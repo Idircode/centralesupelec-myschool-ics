@@ -3,30 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260427T100000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260427T081500Z
-SUMMARY:Repouet
-UID:05674cd0-6226-4c78-bf64-8e404c4cdf06@0567.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 DTEND:20260426T090000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260426T080000Z
 SUMMARY:Hautbois
-UID:95ed801e-af95-4340-8279-844435b79454@95ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260427T193000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260427T173000Z
-SUMMARY:Répète commuuuuuuus
-UID:0ddb725e-54d8-4f36-a111-1058e150459e@0ddb.org
+UID:d83606ea-f36b-4c00-9220-f03b17db2626@d836.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,16 @@ DTEND:20260423T150000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260423T133000Z
 SUMMARY:Piano
-UID:dbc01a4e-0ff5-4380-b1d0-4fde362aff16@dbc0.org
+UID:5de7518c-6e71-4dcd-a381-4981c76ceefb@5de7.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260427T193000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260427T173000Z
+SUMMARY:Répète commuuuuuuus
+UID:89bce822-5482-4077-8ccc-4f8a401d3139@89bc.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260422T120000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260422T103000Z
 SUMMARY:Répète 
-UID:a69c5312-bf6b-4d72-a484-044c5fccd83e@a69c.org
+UID:41ff6a7a-2593-473d-b4f7-f6ffb1ac1a82@41ff.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Pierre LEGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260427T100000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260427T081500Z
+SUMMARY:Repouet
+UID:c6351a85-71d8-468c-828a-ea85581f3811@c635.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
