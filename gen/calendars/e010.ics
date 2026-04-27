@@ -3,21 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T154500Z
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T120000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260422T144500Z
-SUMMARY:chant
-UID:f7cfc2d4-7fd8-4e22-8ba1-0d28598b8c7f@f7cf.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260501T180000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260501T170000Z
-SUMMARY:Guitare
-UID:c4c20d8f-5fb0-457e-8b40-35db3a1e9910@c4c2.org
+DTSTART:20260422T110000Z
+SUMMARY:Répétition saxo
+UID:3a2cce10-5d76-4e62-bb18-b8aaac4d7d18@3a2c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,7 @@ DTEND:20260427T194500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260427T180000Z
 SUMMARY:After midnight
-UID:2d2a5465-fcfb-4ce0-bfad-a7fbbd25db0d@2d2a.org
+UID:09b0a18d-46a4-4e37-b901-b9c9fbf29969@09b0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,16 +26,16 @@ DTEND:20260427T123000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260427T113000Z
 SUMMARY:S axo
-UID:866ac3ea-7473-4812-9af5-b58f79b98330@866a.org
+UID:db2fa231-ff1b-4336-92bd-0aeae7fb970f@db2f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260422T120000Z
+DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260501T180000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260422T110000Z
-SUMMARY:Répétition saxo
-UID:f180b772-cb61-45a0-8f50-1042d94f4a18@f180.org
+DTSTART:20260501T170000Z
+SUMMARY:Guitare
+UID:42bd8f8e-062b-4a11-8137-1fcbe32c421d@42bd.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260423T121500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260423T111500Z
 SUMMARY:chant
-UID:231b7166-2fd3-4d2d-b70c-03d361fee333@231b.org
+UID:4f0838c8-fb8d-49ab-9666-6ee4a8585abc@4f08.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260422T154500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260422T144500Z
+SUMMARY:chant
+UID:677a4eb1-8715-4c1d-8e19-01e37fa56e8a@677a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
