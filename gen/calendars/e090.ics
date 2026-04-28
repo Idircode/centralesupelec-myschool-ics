@@ -3,12 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260423T124500Z
+DESCRIPTION:Réservé par : Idir NIMGHAREN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260428T180000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260423T113000Z
-SUMMARY:Piano 
-UID:7a4c85ec-a35a-4b95-8e64-4c98e08deda4@7a4c.org
+DTSTART:20260428T170000Z
+SUMMARY:Piano
+UID:69c9468a-4a07-4b9a-9294-d26a9008eead@69c9.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTEND:20260424T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260424T151500Z
 SUMMARY:Piano
-UID:a381fb36-3a79-47e0-a209-5733f2fe1019@a381.org
+UID:deea160b-15df-4ff2-94fc-352abbaa0324@deea.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +26,7 @@ DTEND:20260429T180000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260429T170000Z
 SUMMARY:Piano
-UID:ad0343aa-c84e-4aa6-a50c-297db2597781@ad03.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Idir NIMGHAREN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260428T180000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260428T170000Z
-SUMMARY:Piano
-UID:20eed2b4-25c9-421b-8090-6ac4fa197820@20ee.org
+UID:ea065f27-bc9a-434d-9a36-7a8d92d1941a@ea06.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260427T200000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260427T190000Z
 SUMMARY:Piano 
-UID:59bc7770-7bbd-494d-a5fb-f5c74a364b0f@59bc.org
+UID:4e115f83-aa77-4e61-aaa4-04b4d02542d4@4e11.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260423T124500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260423T113000Z
+SUMMARY:Piano 
+UID:e3b849c6-72a7-44f2-840c-3103167bb30c@e3b8.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
