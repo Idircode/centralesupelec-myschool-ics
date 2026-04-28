@@ -4,20 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260428T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260428T100000Z
-SUMMARY:Nathan basse
-UID:ce6b828f-4ca1-4cb9-a0ba-bf482c650dc8@ce6b.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260428T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260428T120000Z
 SUMMARY:Nathan basse
-UID:4b87ad1f-44e6-4387-ab70-f5856c2c23ca@4b87.org
+UID:8ac2d0cb-9028-481d-8e1d-4b156db2f41b@8ac2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Liam LÉCHELLE--RAMBACH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260428T120000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260428T100000Z
+SUMMARY:Nathan basse
+UID:73e93d7d-553e-440a-934d-3322e0e2dfcd@73e9.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ DTEND:20260430T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260430T120000Z
 SUMMARY:Cswing
-UID:950e07a9-58eb-43cf-9cb8-174796d89ee7@950e.org
+UID:53bd6e7d-a3c9-4f8c-905c-007b2cfb3785@53bd.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
