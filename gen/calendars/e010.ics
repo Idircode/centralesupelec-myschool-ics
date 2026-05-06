@@ -3,48 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260506T110000Z
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260504T170000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260506T093000Z
-SUMMARY:lcl
-UID:d72d91cb-5eac-460c-9580-30812ab9ab00@d72d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260504T203000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260504T183000Z
-SUMMARY:chant
-UID:089a3606-f4c4-4c83-b8d6-9ecd28927647@089a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260509T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260508T220000Z
-SUMMARY:TOSS 2026
-UID:e6693841-acd3-48ab-a075-91e7cf91ac11@e669.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260507T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260507T100000Z
-SUMMARY:Les gens de la cote
-UID:586a0442-f1af-4dbd-99a0-3bf757288997@586a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aurélie WAGNER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260504T150000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260504T130000Z
-SUMMARY:repet ou quoi
-UID:22ff2659-5959-49d2-954b-8b8387a5bf77@22ff.org
+DTSTART:20260504T150000Z
+SUMMARY:tug
+UID:f380f6ea-0a1d-4466-a954-c197034aa331@f380.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,8 +17,17 @@ DTEND:20260505T200000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260505T184500Z
 SUMMARY:Répétition baj
-UID:dff80b7c-6a9c-4c5d-9b7e-6eb1af1576ae@dff8.org
+UID:978898fa-0bde-4b1f-be4d-127808dd3882@9788.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260509T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260508T220000Z
+SUMMARY:TOSS 2026
+UID:465465e0-df8a-4732-a701-5f4f45701975@4654.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Elise MIKAÏLOFF\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
@@ -62,7 +35,7 @@ DTEND:20260507T190000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260507T170000Z
 SUMMARY:After midnight 
-UID:a0e356bf-434b-4efb-b4c2-31e818a58b98@a0e3.org
+UID:78bb55b1-5a65-4d6b-a2f4-342ccb125aeb@78bb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,8 +44,17 @@ DTEND:20260510T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260509T220000Z
 SUMMARY:TOSS 2026
-UID:4eef5f76-b545-4331-99bf-df2478c1e526@4eef.org
+UID:2e1a5736-38f7-4d2f-a29c-71bc33b629c2@2e1a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Elise MIKAÏLOFF\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260507T210000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260507T190000Z
+SUMMARY:After midnight 
+UID:34d5fc73-30b5-4578-9d76-f03e182c1fc9@34d5.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Quentin MASNOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
@@ -80,25 +62,7 @@ DTEND:20260505T165900Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260505T150000Z
 SUMMARY:Camille and the gooners
-UID:587e34c8-bba4-4389-bab4-1b3cc880de7e@587e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260501T180000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260501T170000Z
-SUMMARY:Guitare
-UID:de4d2252-5b09-4b0b-bd30-aee0de334179@de4d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260502T210000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260502T190000Z
-SUMMARY:Répétitions 
-UID:78bad10e-ce94-4cd5-857b-9318d398e237@78ba.org
+UID:baa86e49-307a-4ba9-99b9-9c7eaa0fee1a@baa8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +71,7 @@ DTEND:20260505T140000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260505T120000Z
 SUMMARY:chant
-UID:3f63384d-085d-4887-a1e4-27ebfb583e46@3f63.org
+UID:b880acc2-9b03-45f5-b768-87868e6a3ef0@b880.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -116,43 +80,25 @@ DTEND:20260503T133000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260503T123000Z
 SUMMARY:Batterie
-UID:0a55f9d9-47ab-44d5-b662-d2497132d90e@0a55.org
+UID:dc152487-f364-42ed-9aa3-372cd87f3fbd@dc15.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Even BAUDET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260504T130000Z
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260504T203000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260504T120000Z
-SUMMARY:piano
-UID:b092184d-c7ef-4cdc-8f3d-c5e61dd624b0@b092.org
+DTSTART:20260504T183000Z
+SUMMARY:chant
+UID:96e94024-5e7e-4966-8d83-56cb31f85f93@96e9.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260506T165900Z
+DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260502T210000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260506T150000Z
-SUMMARY:lcl
-UID:993996c6-47e5-4b09-a098-f194716edf07@9939.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Elise MIKAÏLOFF\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260507T210000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260507T190000Z
-SUMMARY:After midnight 
-UID:4294c79a-55fd-44c1-b1ba-b306092998aa@4294.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260504T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260504T150000Z
-SUMMARY:tug
-UID:60c2905d-55ee-4456-9a5a-3e9902ab0a7a@60c2.org
+DTSTART:20260502T190000Z
+SUMMARY:Répétitions 
+UID:ef621803-a1d8-4af6-a41c-81e6c7f19b2a@ef62.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -161,7 +107,16 @@ DTEND:20260503T200000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260503T180000Z
 SUMMARY:After midnight
-UID:86f78304-c116-4981-9e29-c29d6db5b956@86f7.org
+UID:82fe9874-80b5-4cbf-bdb4-686b5ab94afb@82fe.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260506T165900Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260506T150000Z
+SUMMARY:lcl
+UID:d385d7dd-d7c5-4127-905d-3959181d402d@d385.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +125,61 @@ DTEND:20260504T183000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260504T173000Z
 SUMMARY:Event CommuS
-UID:e83e289b-d449-4a1b-a0b1-c6f543edb153@e83e.org
+UID:b69bcc4f-4e0f-467d-9a97-3efe918ae914@b69b.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260507T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260507T100000Z
+SUMMARY:Les gens de la cote
+UID:a9e2cda1-6f86-4397-a57f-bd660254111a@a9e2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Joachim BRET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260501T180000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260501T170000Z
+SUMMARY:Guitare
+UID:a5f834ae-106f-403e-a222-9db9b27cb9d6@a5f8.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Matéo MAUPEU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260506T133000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260506T120000Z
+SUMMARY:Repete
+UID:e0edccba-a91b-4f1a-9d78-5dc6976b03eb@e0ed.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Even BAUDET\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260504T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260504T120000Z
+SUMMARY:piano
+UID:210163eb-7ab5-436d-b755-275a8a41a09e@2101.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aurélie WAGNER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260504T150000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260504T130000Z
+SUMMARY:repet ou quoi
+UID:6b7c2b55-6118-44f7-99ef-f4906d8cf115@6b7c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260506T110000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260506T093000Z
+SUMMARY:lcl
+UID:86f06e76-5c71-4471-a11d-ea5305316f76@86f0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
