@@ -3,21 +3,30 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260510T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260509T220000Z
+SUMMARY:TOSS 2026
+UID:2ee4e9f5-45a5-429f-b9e5-add271f83bac@2ee4.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260503T133000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260503T120000Z
 SUMMARY:piano
-UID:6b0b1215-3c44-41a4-86ba-d919c9efdb6c@6b0b.org
+UID:0a175526-5865-4c9b-8fdb-75f27c0d598c@0a17.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaut TIMMERMAN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260504T163000Z
+DESCRIPTION:Réservé par : Martin GRANGÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260506T180000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260504T143000Z
-SUMMARY:Piano
-UID:62376157-e1e3-432b-942e-3a3c916fbeb2@6237.org
+DTSTART:20260506T170000Z
+SUMMARY:bling blang blong
+UID:0938fe59-6296-4bc4-882a-a9d439c09b1e@0938.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +35,7 @@ DTEND:20260504T124500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260504T114500Z
 SUMMARY:Répète 
-UID:b83ddbdc-27c1-4c37-8d87-879d733ba716@b83d.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260509T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260508T220000Z
-SUMMARY:TOSS 2026
-UID:df53a24b-aa5f-4a2a-8326-d0c049a69f5a@df53.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Martin GRANGÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260506T180000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260506T170000Z
-SUMMARY:bling blang blong
-UID:87a2f0fa-2b8b-4550-ad30-a8ea20e639e6@87a2.org
+UID:342d39d5-61ae-45c1-b728-38b8df211812@342d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +44,7 @@ DTEND:20260507T152900Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260507T133000Z
 SUMMARY:Répète 
-UID:2027ed2e-e538-4419-93c2-fbe8fe8e002a@2027.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260504T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260504T104500Z
-SUMMARY:Piano
-UID:3b463d32-a0fe-4805-b549-02b51431aa41@3b46.org
+UID:1197328b-5e53-43c8-9a65-c45ce677582e@1197.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,16 +53,34 @@ DTEND:20260506T151500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260506T141500Z
 SUMMARY:bleh
-UID:dcb60d3a-d966-4f8f-85e7-b6035a2c33fd@dcb6.org
+UID:f87d53fa-8407-48de-b38a-05bff0a60cb4@f87d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260504T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260504T104500Z
+SUMMARY:Piano
+UID:b67653f2-6a5b-45d3-9423-1e946c4a618c@b676.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaut TIMMERMAN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260504T163000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260504T143000Z
+SUMMARY:Piano
+UID:6f4c48a2-ac82-4a94-af1e-92851fc99c98@6f4c.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260510T215900Z
+DTEND:20260509T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260509T220000Z
+DTSTART:20260508T220000Z
 SUMMARY:TOSS 2026
-UID:5727a357-0d4a-4e12-b7fa-bdde9e5f05b1@5727.org
+UID:d7f7ffa6-1acf-4ecd-bcc3-a526849a6dcf@d7f7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 END:VCALENDAR
