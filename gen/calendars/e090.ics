@@ -3,30 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260504T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260504T104500Z
-SUMMARY:Piano
-UID:a905e9a9-b341-4dad-b129-4047396994af@a905.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260506T151500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260506T141500Z
 SUMMARY:bleh
-UID:cdf78d90-5d1f-460a-9721-7a28122ddf9b@cdf7.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaut TIMMERMAN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260504T163000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260504T143000Z
-SUMMARY:Piano
-UID:87b22a7b-9995-40ca-b9ac-393e1d13ee89@87b2.org
+UID:d11f0660-b99e-43b9-a24e-67c9c1d42bd2@d11f.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,16 @@ DTEND:20260504T124500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260504T114500Z
 SUMMARY:Répète 
-UID:962ef0c8-5dfa-4f8f-af4c-d7c0e8f4f682@962e.org
+UID:22dec3d3-6152-4c17-bb2c-53cd7ae4059c@22de.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260507T152900Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260507T133000Z
+SUMMARY:Répète 
+UID:2958a8c8-96e1-422b-880d-d7c3d3d9816a@2958.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +35,17 @@ DTEND:20260510T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260509T220000Z
 SUMMARY:TOSS 2026
-UID:32a54321-d570-483a-9b86-0dd22ec48f77@32a5.org
+UID:0dbad3bb-f6a9-43e3-a553-29e68b1a1096@0dba.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260504T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260504T104500Z
+SUMMARY:Piano
+UID:95e6e81a-a611-494c-987e-38a843d0e711@95e6.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Martin GRANGÉ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
@@ -53,7 +53,16 @@ DTEND:20260506T180000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260506T170000Z
 SUMMARY:bling blang blong
-UID:0e9682fd-a0f6-46f4-b554-256862a70b34@0e96.org
+UID:9d638b5c-48d9-4cee-aff2-2a7abb18a88d@9d63.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaut TIMMERMAN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260504T163000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260504T143000Z
+SUMMARY:Piano
+UID:bbc9131f-c840-4fb9-9933-ece2a5ba21f9@bbc9.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,16 +71,7 @@ DTEND:20260509T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260508T220000Z
 SUMMARY:TOSS 2026
-UID:0e581775-cdc0-4e78-9600-14d3c1ba8cc3@0e58.org
+UID:6a818e68-1122-4ad6-9b92-5a2965eaf31a@6a81.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260507T152900Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260507T133000Z
-SUMMARY:Répète 
-UID:4c605530-8176-4065-b232-22a7f293d573@4c60.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
