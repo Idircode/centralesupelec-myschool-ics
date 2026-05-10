@@ -4,29 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260509T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260508T220000Z
-SUMMARY:TOSS 2026
-UID:aae6df7e-4aa2-468f-b018-0e194d1de8d0@aae6.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260506T151500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260506T141500Z
-SUMMARY:bleh
-UID:c563d6bf-47a6-4ec0-97cd-a6d23185d599@c563.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 DTEND:20260510T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260509T220000Z
 SUMMARY:TOSS 2026
-UID:4ab766aa-c7b4-4172-8cfa-ad1844dabde4@4ab7.org
+UID:05ab8d9c-546d-46bb-9962-7e41cf44d25c@05ab.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260509T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260508T220000Z
+SUMMARY:TOSS 2026
+UID:162719c4-db0d-48bd-99bd-ca20df736a3e@1627.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,7 @@ DTEND:20260511T103000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260511T094500Z
 SUMMARY:Piano
-UID:fbded10f-f284-4350-a8b7-bc94e08e1233@fbde.org
+UID:ffe5f259-3a33-4463-810d-c6f52a6abc38@ffe5.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,7 @@ DTEND:20260507T152900Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260507T133000Z
 SUMMARY:Répète 
-UID:71a8f95e-b7b4-4cb0-8d92-0a7833d17f27@71a8.org
+UID:28ee54ff-971e-434a-a5a6-787361982345@28ee.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260506T180000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260506T170000Z
 SUMMARY:bling blang blong
-UID:34143d5a-d608-45f3-9812-feffc1380c28@3414.org
+UID:271c9497-8121-4869-a97b-48ae011377c7@271c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260506T151500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260506T141500Z
+SUMMARY:bleh
+UID:3a509e6a-d56e-4f82-8c52-89b4c47621cf@3a50.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
