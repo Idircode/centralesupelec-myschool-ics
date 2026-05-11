@@ -3,30 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260507T152900Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260507T133000Z
-SUMMARY:Répète 
-UID:e0f3ebce-3ec4-4e24-a2fa-26673c2b4be4@e0f3.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260510T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260509T220000Z
-SUMMARY:TOSS 2026
-UID:e6410dc4-6d6f-4b80-b5b0-c958d568a369@e641.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260511T103000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260511T094500Z
 SUMMARY:Piano
-UID:38f552fb-1a7f-49d3-abe1-78110a591edd@38f5.org
+UID:3949c360-fcfa-4535-8db5-ce58f808c0d2@3949.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,16 @@ DTEND:20260509T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260508T220000Z
 SUMMARY:TOSS 2026
-UID:e3e66913-b406-484f-93bd-2519a6e9ad08@e3e6.org
+UID:90fb0e29-7e89-429f-a9d1-c4416c80eee0@90fb.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260510T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260509T220000Z
+SUMMARY:TOSS 2026
+UID:d3d690d6-1a0a-4245-acb0-62dcd1a93352@d3d6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260511T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260511T160000Z
 SUMMARY:Piano
-UID:fb5241a6-bc77-4e39-9cb8-a74af1745828@fb52.org
+UID:798df750-41ec-4214-83ee-a3e62728463f@798d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260507T152900Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260507T133000Z
+SUMMARY:Répète 
+UID:f922c140-b1d7-4ffd-936a-1107b01b5431@f922.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
