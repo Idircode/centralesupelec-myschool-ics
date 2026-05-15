@@ -3,66 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T100000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T083000Z
-SUMMARY:Commus 
-UID:9b4b80be-fce7-44b2-8a24-1b6132c93eb4@9b4b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260511T170000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260511T160000Z
-SUMMARY:Piano
-UID:b06c7cf2-fced-4eef-9167-6bf348850544@b06c.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Idir NIMGHAREN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260512T183000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260512T170000Z
 SUMMARY:Piano
-UID:e2760c3a-c687-4a36-bc0d-9427fb2f8608@e276.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T170000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T151500Z
-SUMMARY:piano
-UID:5d5fed7a-fddc-485a-bf13-9a5310debe64@5d5f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260511T103000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260511T094500Z
-SUMMARY:Piano
-UID:a58b30cb-2509-46d2-be71-f503c42fc18c@a58b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260510T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260509T220000Z
-SUMMARY:TOSS 2026
-UID:336da06c-9c7e-4294-9d00-5f4fae47dd1c@336d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T200000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T180000Z
-SUMMARY:Répète 
-UID:bcb304cc-beca-4696-9d4e-87b4b08e3a09@bcb3.org
+UID:64e86362-81e8-4865-809a-704a3eb25dc0@64e8.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,8 +17,35 @@ DTEND:20260509T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260508T220000Z
 SUMMARY:TOSS 2026
-UID:2cd6bff9-6097-4d6a-993b-89c71be73060@2cd6.org
+UID:781f295b-378c-4e1f-b032-3a658c8c62b4@781f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T170000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T151500Z
+SUMMARY:piano
+UID:24dcc2fa-d97d-400a-92e8-e85957545684@24dc.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T200000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T180000Z
+SUMMARY:Répète 
+UID:3c287224-d2fd-40b3-a48d-b36732c9afef@3c28.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T100000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T083000Z
+SUMMARY:Commus 
+UID:206e38e8-788f-4b13-ace2-4cb7e8d9b767@206e.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
@@ -80,7 +53,7 @@ DTEND:20260513T161500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260513T151500Z
 SUMMARY:Piano
-UID:cb1c0da7-c519-4d7a-8657-e4636551ca53@cb1c.org
+UID:4f97fd99-ddb5-4b0f-b314-3192fa5627b4@4f97.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +62,34 @@ DTEND:20260512T120000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260512T100000Z
 SUMMARY:Un peu de musique
-UID:7a951246-7863-4785-8d26-10ef4c7c74b2@7a95.org
+UID:64f4485b-ec8b-4680-8f0f-9bbc88191abd@64f4.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260511T103000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260511T094500Z
+SUMMARY:Piano
+UID:2b7512a1-4978-454c-9c8c-6fd3441c03a6@2b75.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260511T170000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260511T160000Z
+SUMMARY:Piano
+UID:fee9a01e-d6d4-419e-84c2-141f39d1fdec@fee9.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260510T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260509T220000Z
+SUMMARY:TOSS 2026
+UID:046d60ae-7748-47c3-9272-0088f5a66579@046d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 END:VCALENDAR
