@@ -3,48 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260511T171500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260511T163000Z
-SUMMARY:Hautbois
-UID:760c413d-49d1-4484-a6bd-a71f950def09@760c.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260511T141500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260511T123000Z
-SUMMARY:hmmmm
-UID:baa9c4c1-f7c9-4b22-8620-c91c381a5cc5@baa9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260518T170000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260518T150000Z
-SUMMARY:les loustwiks 
-UID:55ade8b4-454b-4415-8e55-27a15e7ab266@55ad.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-DTEND:20260510T215900Z
-LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
-DTSTART:20260509T220000Z
-SUMMARY:TOSS 2026
-UID:6831d18b-81ad-499d-a96a-df9c88feedb6@6831.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 DTEND:20260509T215900Z
 LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
 DTSTART:20260508T220000Z
 SUMMARY:TOSS 2026
-UID:d00e3138-69fc-40cc-876c-37c743768f02@d00e.org
+UID:cfea5378-d265-4530-a2c9-1415dd76084b@cfea.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +17,25 @@ DTEND:20260523T180000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260523T160000Z
 SUMMARY:Galette solognade 
-UID:277234ae-076b-43e0-bd51-a562e3a7d1d8@2772.org
+UID:9d9a632a-2ae7-41d5-892d-96be2016dca2@9d9a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260511T163000Z
+DESCRIPTION:Réservé par : Alexandre Capelas De Sousa\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+DTEND:20260510T215900Z
+LOCATION:e.060 (Le Repaire-Entrepreunariat)\, Bouygues
+DTSTART:20260509T220000Z
+SUMMARY:TOSS 2026
+UID:c9eb8782-093c-4d9f-9eeb-c266d2a7924b@c9eb.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf948d9b7300013192d77&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260511T141500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260511T150000Z
-SUMMARY:Backatown BAJ
-UID:a3c6c587-b35c-4f1b-8f45-5172c0778f89@a3c6.org
+DTSTART:20260511T123000Z
+SUMMARY:hmmmm
+UID:1ca7dfe5-a368-4db1-b326-355dcb889ee6@1ca7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +44,34 @@ DTEND:20260511T120000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260511T111500Z
 SUMMARY:Tout seul de la côte
-UID:d8272db5-1bf9-4745-aa89-8bbc16203ccf@d827.org
+UID:91a16f09-c7df-4cf0-b460-de1bc1fedefb@91a1.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260511T163000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260511T150000Z
+SUMMARY:Backatown BAJ
+UID:3b0cf996-e4a0-472b-ac3e-f87da9ed8c6e@3b0c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260511T171500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260511T163000Z
+SUMMARY:Hautbois
+UID:cf294e0d-afc9-4987-a674-90f8930c8779@cf29.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260518T170000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260518T150000Z
+SUMMARY:les loustwiks 
+UID:b3a3a21a-1bbd-45c8-9260-5bf341747519@b3a3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
