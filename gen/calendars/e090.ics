@@ -3,21 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T200000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T180000Z
+SUMMARY:Répète 
+UID:ab1aff11-3644-426d-b6bc-e263dc34c393@ab1a.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260511T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260511T160000Z
 SUMMARY:Piano
-UID:3c7e3e83-436b-42ea-a175-4adee0002e11@3c7e.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T100000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T083000Z
-SUMMARY:Commus 
-UID:68b00881-4946-4969-9d83-a75e32d10077@68b0.org
+UID:2be1b898-d3fc-4d91-b57a-eb517bc2b6d4@2be1.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +26,7 @@ DTEND:20260512T120000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260512T100000Z
 SUMMARY:Un peu de musique
-UID:aaed8dce-85e7-4f81-b671-f02b5b3f59c6@aaed.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T200000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T180000Z
-SUMMARY:Répète 
-UID:c1adab62-895e-4bc0-ac60-01fe9e3f9d0c@c1ad.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T170000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T151500Z
-SUMMARY:piano
-UID:d017c777-99f7-42ea-9e58-d126ea994752@d017.org
+UID:f1fe2b49-a2e3-4f0c-9080-f25931fb41f2@f1fe.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +35,25 @@ DTEND:20260513T161500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260513T151500Z
 SUMMARY:Piano
-UID:3596e4a0-2968-45f6-bcdc-9fbdec4aadc8@3596.org
+UID:ffc2a169-94d8-407a-a0a0-01bf34419dbb@ffc2.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260511T103000Z
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T100000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260511T094500Z
-SUMMARY:Piano
-UID:287c73c4-7f75-4c73-a163-c066700e64fd@287c.org
+DTSTART:20260514T083000Z
+SUMMARY:Commus 
+UID:5e18b5cc-1856-430d-8d5a-e64bb39fa0d9@5e18.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T170000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T151500Z
+SUMMARY:piano
+UID:290e3153-2f69-4b7f-ab47-27d18f7613e4@290e.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +62,16 @@ DTEND:20260512T183000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260512T170000Z
 SUMMARY:Piano
-UID:280fd6aa-2212-453e-9478-c01963bf102f@280f.org
+UID:d717a56a-fa89-45e0-a2e2-1b8631f27a06@d717.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260511T103000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260511T094500Z
+SUMMARY:Piano
+UID:8e4386c4-dd74-4088-a651-57da7b35efa4@8e43.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR

@@ -3,30 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260523T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260523T160000Z
-SUMMARY:Galette solognade 
-UID:adf25406-828f-417c-b0d0-503ce668d9df@adf2.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260518T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260518T150000Z
 SUMMARY:les loustwiks 
-UID:ba5e4dd2-5c7a-4af0-8811-09542b65c83c@ba5e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : François CLUZEL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260511T120000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260511T111500Z
-SUMMARY:Tout seul de la côte
-UID:8af3767c-1917-4833-a635-7e5a7bf58d1e@8af3.org
+UID:2949aabb-5408-42c2-a534-3a1b8a2c1169@2949.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,16 +17,25 @@ DTEND:20260511T141500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260511T123000Z
 SUMMARY:hmmmm
-UID:37ba21a1-cddb-4479-b0d6-cfc616260d74@37ba.org
+UID:13a51262-4356-4dd9-9cc6-e6332b7add2b@13a5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260511T171500Z
+DESCRIPTION:Réservé par : François CLUZEL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260511T120000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260511T163000Z
-SUMMARY:Hautbois
-UID:ebd83fde-ee15-4a8b-be94-e11a327604f7@ebd8.org
+DTSTART:20260511T111500Z
+SUMMARY:Tout seul de la côte
+UID:3004618d-1551-4be6-9d80-64518c2ce0cd@3004.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260523T180000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260523T160000Z
+SUMMARY:Galette solognade 
+UID:dce52351-f6eb-4862-9463-687785961c83@dce5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260511T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260511T150000Z
 SUMMARY:Backatown BAJ
-UID:31bec652-7ef8-4c20-9cb7-2bbef16fcf5a@31be.org
+UID:81b8401f-7ffb-49e8-845b-0772118fa593@81b8.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260511T171500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260511T163000Z
+SUMMARY:Hautbois
+UID:2ba5343d-14ab-46a2-9f2f-e0ce04fb5bab@2ba5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
