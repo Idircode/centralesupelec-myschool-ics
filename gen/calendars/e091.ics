@@ -3,30 +3,12 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260514T210000Z
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260511T160000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260514T193000Z
-SUMMARY:Piano
-UID:edc1104c-be1a-4bfb-9ba0-b8370b451301@edc1.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Frédéric Fargues\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260513T134500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260513T123000Z
-SUMMARY:congas fargues
-UID:1bb02de6-7466-4b87-9955-36bd81c93bf7@1bb0.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260513T114500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260513T104500Z
-SUMMARY:Piano
-UID:50871147-10fc-4304-acd5-bc3d2c58d78e@5087.org
+DTSTART:20260511T144500Z
+SUMMARY:Piano 
+UID:42d77392-52d8-4c5e-b1f3-62b092eb6bdd@42d7.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,43 +17,25 @@ DTEND:20260512T213000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260512T193000Z
 SUMMARY:Hautbois 
-UID:63e1d75d-cbd0-402c-8bba-8a1b29b3f7d5@63e1.org
+UID:e8d611c6-e9ba-4d37-be91-2283d44b253d@e8d6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260512T110000Z
+DESCRIPTION:Réservé par : Frédéric Fargues\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260513T134500Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260512T093000Z
-SUMMARY:ReuG
-UID:6336e9e8-f151-4612-9cbc-2eff2a280366@6336.org
+DTSTART:20260513T123000Z
+SUMMARY:congas fargues
+UID:f1382cd5-2b43-43a1-9d69-3249983deafa@f138.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260511T113000Z
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260514T210000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260511T100000Z
-SUMMARY:there u go
-UID:3c4f4de7-c76c-4ec4-8196-108ff87bbba5@3c4f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Raphaël SAIBI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260513T190000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260513T180000Z
+DTSTART:20260514T193000Z
 SUMMARY:Piano
-UID:d7ffbb24-3925-48e5-b64d-743bd386da4d@d7ff.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260511T160000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260511T144500Z
-SUMMARY:Piano 
-UID:398d9544-98fd-441d-9283-7d5df2c522a4@398d.org
+UID:0fd6618f-5bc3-4cce-b73f-076e7e9b701b@0fd6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,25 +44,16 @@ DTEND:20260511T210000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260511T200000Z
 SUMMARY:Piano
-UID:fc29fe32-a048-4ca8-bc88-f211c1bcebd6@fc29.org
+UID:b24a1edf-ddda-48c0-b2e8-ec1ce4b4badd@b24a.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260512T140000Z
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260513T114500Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260512T121500Z
-SUMMARY:piano
-UID:54611401-2bad-46e1-8128-9928a48efa3e@5461.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260514T140000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260514T120000Z
-SUMMARY:J'ai besoin d'un nouveau chargeur 200W pour mon pc
-UID:749602b9-af07-4116-b5a7-b84240e4be94@7496.org
+DTSTART:20260513T104500Z
+SUMMARY:Piano
+UID:2a553985-93ee-42f5-9bb2-d8614c4b5b8d@2a55.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -107,16 +62,7 @@ DTEND:20260519T201500Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260519T181500Z
 SUMMARY:Générale Brass'art
-UID:74deb865-3222-4275-b165-4a6cc5eaac28@74de.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260521T140000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260521T120000Z
-SUMMARY:Qu'est ce qu'ils deviennent les Spicy Zoumis
-UID:47db62d2-ab86-4f8e-b729-e060ed53e7f5@47db.org
+UID:b4d6add3-8c35-4efe-b532-a8e0fafc3ff8@b4d6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +71,61 @@ DTEND:20260521T203000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260521T183000Z
 SUMMARY:répé brass'art
-UID:b2e5ed02-8669-4182-8061-7b21ca2d731c@b2e5.org
+UID:ccd76ea3-cd78-40fc-a6a9-9845b26a2664@ccd7.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260514T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260514T120000Z
+SUMMARY:J'ai besoin d'un nouveau chargeur 200W pour mon pc
+UID:c29c44b0-a070-49b5-ac9d-e277fd05616e@c29c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260512T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260512T121500Z
+SUMMARY:piano
+UID:e062a9a6-9128-4680-9434-012e9549b1cc@e062.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Raphaël SAIBI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260513T190000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260513T180000Z
+SUMMARY:Piano
+UID:d0b78b6d-4dc6-4bc0-a49b-926a7632d399@d0b7.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260512T110000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260512T093000Z
+SUMMARY:ReuG
+UID:c3010438-c405-4bba-9d1a-5d970c79970a@c301.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260511T113000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260511T100000Z
+SUMMARY:there u go
+UID:0ef40995-75c7-4b8c-9a05-663870ef744b@0ef4.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260521T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260521T120000Z
+SUMMARY:Qu'est ce qu'ils deviennent les Spicy Zoumis
+UID:2c05e5c9-2dc6-47e0-ab15-7512adf4737c@2c05.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
