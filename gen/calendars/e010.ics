@@ -3,12 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260512T204500Z
+DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260511T170000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260512T184500Z
-SUMMARY:repet
-UID:b7cc9866-787f-4c1c-a546-42a7724fd885@b7cc.org
+DTSTART:20260511T151500Z
+SUMMARY:batterie
+UID:dc9096e4-98b7-4494-be7a-436da840e829@dc90.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,7 @@ DTEND:20260514T090000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260514T081500Z
 SUMMARY:Répète 
-UID:7653fca1-3111-4f0a-966b-1069faf41837@7653.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260512T133000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260512T120000Z
-SUMMARY:chant
-UID:74ebd553-a3cc-4cb7-9d84-ac64987c80b0@74eb.org
+UID:149e7dd0-b234-4ed5-98f0-7772d2a0ad20@149e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,52 +26,7 @@ DTEND:20260514T140000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260514T120000Z
 SUMMARY:Jai besoin dun nouveau chargeur 200W pour mon pc 2
-UID:d27a6ddd-5310-416e-875e-009a0650e761@d27a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260514T160000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260514T140000Z
-SUMMARY:Batterie 
-UID:240dea39-6daa-498d-a7d5-42b1fa0a6222@240d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260511T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260511T151500Z
-SUMMARY:batterie
-UID:1c2029f2-82b7-43aa-b30f-8a0d03cc90b1@1c20.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260515T141500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260515T131500Z
-SUMMARY:chant
-UID:d7e3d654-0056-4c27-887e-1ad0e9ec2247@d7e3.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260513T101500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260513T091500Z
-SUMMARY:Bajo
-UID:77be5b4d-7204-4f4d-9ce2-ccf9889309ed@77be.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260511T150000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260511T131500Z
-SUMMARY:Répète
-UID:0d12b1fc-8655-4435-adc0-d1282df15510@0d12.org
+UID:ba4cd13c-0097-40a9-a4f1-845a816de877@ba4c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +35,61 @@ DTEND:20260513T161500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260513T143000Z
 SUMMARY:musicohez
-UID:daeac56e-5ea5-4cb8-9c11-3fbc46ca550f@daea.org
+UID:3d98c635-521f-4c6d-8a22-807a764756ee@3d98.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260513T101500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260513T091500Z
+SUMMARY:Bajo
+UID:2abdb5ad-2335-462a-8145-5cd5e28cb192@2abd.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260514T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260514T140000Z
+SUMMARY:Batterie 
+UID:03e3f5ab-7fb9-454d-9e2a-f81a35a2d323@03e3.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260515T141500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260515T131500Z
+SUMMARY:chant
+UID:468f9506-bb95-4787-becb-44c9b7b89e2e@468f.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260512T204500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260512T184500Z
+SUMMARY:repet
+UID:727b684a-3bbd-40cf-9757-eb59bb64489b@727b.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260511T150000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260511T131500Z
+SUMMARY:Répète
+UID:714a43a8-7b62-4a81-8940-a69436f9f9ab@714a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260512T133000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260512T120000Z
+SUMMARY:chant
+UID:efed38f2-f44f-4fe8-ba94-96c6e146b94b@efed.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
