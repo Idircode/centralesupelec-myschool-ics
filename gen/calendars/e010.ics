@@ -3,30 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260511T170000Z
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260512T204500Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260511T151500Z
-SUMMARY:batterie
-UID:f2bf78f7-85b9-4c71-9a56-d1f0cfcf6782@f2bf.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260514T160000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260514T140000Z
-SUMMARY:Batterie 
-UID:11e95a55-6b59-4887-9769-32bb8d0f7141@11e9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260512T133000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260512T120000Z
-SUMMARY:chant
-UID:ef7ac9b4-5d1e-4950-b54b-a649338f3ae2@ef7a.org
+DTSTART:20260512T184500Z
+SUMMARY:repet
+UID:b9da7d7e-d710-4693-9fe1-cbed025a6f10@b9da.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,7 @@ DTEND:20260513T101500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260513T091500Z
 SUMMARY:Bajo
-UID:81057414-ba4a-4562-8b7d-2f1e7d31d344@8105.org
+UID:49a748ad-df89-4df2-8863-4e93f70bc091@49a7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +26,25 @@ DTEND:20260514T140000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260514T120000Z
 SUMMARY:Jai besoin dun nouveau chargeur 200W pour mon pc 2
-UID:ee19be84-ade3-4b2d-83c8-12dfd8b9591e@ee19.org
+UID:74f8ea2b-5c43-4260-8544-2a7b46720472@74f8.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260511T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260511T151500Z
+SUMMARY:batterie
+UID:4acb5433-5db3-491b-8d8d-70cdde996aab@4acb.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Franco VILLANUSTRE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260514T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260514T140000Z
+SUMMARY:Batterie 
+UID:06ab8995-4335-4942-965f-017cea0787a1@06ab.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ DTEND:20260515T141500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260515T131500Z
 SUMMARY:chant
-UID:7d102932-c87c-46be-8b88-39ca8ceb6232@7d10.org
+UID:ab79c984-e463-4dd0-b7c8-ebc67e2e3f35@ab79.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,16 +62,7 @@ DTEND:20260513T161500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260513T143000Z
 SUMMARY:musicohez
-UID:81caff8e-de31-4bfe-ac53-155187c7c85d@81ca.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260511T150000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260511T131500Z
-SUMMARY:Répète
-UID:19001df8-7e75-4955-bf86-db61dc13b8de@1900.org
+UID:d987178a-71a9-46b9-a97c-3d6bf76bcbcc@d987.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +71,7 @@ DTEND:20260514T090000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260514T081500Z
 SUMMARY:Répète 
-UID:a6abc286-b090-4890-b2e8-7e11c4d86b38@a6ab.org
+UID:d5047614-f539-4bf8-b340-9ff3657b9674@d504.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,16 +80,25 @@ DTEND:20260516T200000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260516T190000Z
 SUMMARY:Répète 
-UID:b70fc5c2-c66a-4774-9cab-57364bed603c@b70f.org
+UID:76c51722-d83f-4cc2-98b7-694b4d45e97f@76c5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260512T204500Z
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260512T133000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260512T184500Z
-SUMMARY:repet
-UID:8480ea83-936d-407e-a140-55c1a21a3a68@8480.org
+DTSTART:20260512T120000Z
+SUMMARY:chant
+UID:01e2fa94-b4e1-49a3-86a3-4db9a3fe96fa@01e2.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260511T150000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260511T131500Z
+SUMMARY:Répète
+UID:e5012b49-a657-4de6-859c-ae5ceae37d48@e501.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
