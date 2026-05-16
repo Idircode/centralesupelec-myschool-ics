@@ -3,39 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260511T103000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260511T094500Z
+SUMMARY:Piano
+UID:4793ab19-81fe-47b8-a9c6-58a77db50f95@4793.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260513T161500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260513T151500Z
 SUMMARY:Piano
-UID:55864ff8-e628-4e95-9e16-1299e1b06415@5586.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T200000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T180000Z
-SUMMARY:Répète 
-UID:a041296e-bbb6-4a79-90c2-1d167057def0@a041.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260512T120000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260512T100000Z
-SUMMARY:Un peu de musique
-UID:8257c316-fd1c-431c-a58e-ea3ca0ee7c4c@8257.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T100000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T083000Z
-SUMMARY:Commus 
-UID:ab94e580-08a9-45a9-8588-bb7179bfc216@ab94.org
+UID:262e80d7-7a9b-4c6b-84a5-d5cbf1018401@262e.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +26,7 @@ DTEND:20260512T183000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260512T170000Z
 SUMMARY:Piano
-UID:d74a80c0-6775-48c3-a33d-6a52ac9aebe6@d74a.org
+UID:eae6545e-e420-4971-8c50-dbd041ce42f0@eae6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +35,7 @@ DTEND:20260511T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260511T160000Z
 SUMMARY:Piano
-UID:8bb9d8c1-6659-4144-9f5e-3aa3352b7415@8bb9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ana PETROVIC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260511T103000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260511T094500Z
-SUMMARY:Piano
-UID:e37cd8e4-c8be-44a9-b574-4f8215e1273b@e37c.org
+UID:08df9747-aa87-4e48-89f9-731eae4fa75d@08df.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +44,34 @@ DTEND:20260514T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260514T151500Z
 SUMMARY:piano
-UID:884c065a-ba2f-46ca-a541-4a03d9153b53@884c.org
+UID:6326f3dc-c4a4-4380-b829-57c7314f6b52@6326.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260512T120000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260512T100000Z
+SUMMARY:Un peu de musique
+UID:e7bdb2e8-e843-442f-9e09-47947bc8ca30@e7bd.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Neil SI SMAIL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T200000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T180000Z
+SUMMARY:Répète 
+UID:05f17c65-8f08-4309-ae7b-ec6d726a09d3@05f1.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T100000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T083000Z
+SUMMARY:Commus 
+UID:aa3f44b5-cdcc-4068-b850-e3072331ecc2@aa3f.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
