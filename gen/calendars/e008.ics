@@ -3,30 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Gabriel SYLVESTRE NUÑEZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260515T193000Z
+DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260513T151500Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260515T183000Z
-SUMMARY:Trombone
-UID:9967753a-df0e-4a06-893e-6ba3c41ac94f@9967.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260515T114500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260515T110000Z
-SUMMARY:Piano
-UID:34deeb5c-551c-4d7a-a943-1ea58b8ebcae@34de.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260513T123000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260513T113000Z
-SUMMARY:Saxo
-UID:082c28c4-3642-4607-9a96-d9a2dc52531f@082c.org
+DTSTART:20260513T140000Z
+SUMMARY:Hautbois
+UID:8e865692-d03b-43e9-8b39-042747d347f6@8e86.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,25 +17,7 @@ DTEND:20260512T150000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260512T140000Z
 SUMMARY:Piano
-UID:ed96af6c-faf8-4709-906d-d6f958001b40@ed96.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260512T114500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260512T104500Z
-SUMMARY:Piano
-UID:0d345b29-448d-447f-849f-af7898f8664a@0d34.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260513T151500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260513T140000Z
-SUMMARY:Hautbois
-UID:4a16dfc7-00fd-483a-ab69-5940e9ff6444@4a16.org
+UID:2545b01d-597c-4ac3-9321-9bd74768c569@2545.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +26,16 @@ DTEND:20260512T210000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260512T203000Z
 SUMMARY:Piano
-UID:bd818d13-fa19-495c-9214-4b50980e60df@bd81.org
+UID:a50a3fdb-b3f9-4f0c-9739-89a8bd9896b3@a50a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260515T114500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260515T110000Z
+SUMMARY:Piano
+UID:dfa74eb5-2ead-4461-88d1-7a2c42447bf6@dfa7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +44,34 @@ DTEND:20260513T163000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260513T153000Z
 SUMMARY:Saxo
-UID:cf511787-c38b-498c-8937-6066b5262186@cf51.org
+UID:c8d916d3-db92-447f-ad56-fb8dd7df7b4a@c8d9.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260512T114500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260512T104500Z
+SUMMARY:Piano
+UID:1737d83a-2bea-400e-bd79-c86f3117ce50@1737.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260513T123000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260513T113000Z
+SUMMARY:Saxo
+UID:4c038ca5-fd95-4cae-9e85-571a5272742a@4c03.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Gabriel SYLVESTRE NUÑEZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260515T193000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260515T183000Z
+SUMMARY:Trombone
+UID:e53700cc-b3e8-4a5c-b9c3-7fc118e54b21@e537.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
