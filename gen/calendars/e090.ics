@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T163000Z
+DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260517T210000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260518T151000Z
-SUMMARY:basson
-UID:0d98979a-1c82-4748-a9c8-c8c247981805@0d98.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260514T170000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260514T151500Z
-SUMMARY:piano
-UID:d582a87a-d680-41cc-92b2-fcae16ffd93d@d582.org
+DTSTART:20260517T193000Z
+SUMMARY:Piano
+UID:4aff8aa9-c340-4c15-b5bc-019fdc34fe28@4aff.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +17,7 @@ DTEND:20260514T100000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260514T083000Z
 SUMMARY:Commus 
-UID:597967fd-49e7-49c5-8259-4aab81c25a1b@5979.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260517T210000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260517T193000Z
-SUMMARY:Piano
-UID:a18f2522-32c4-4eec-a8b1-3f4e993e156e@a18f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:946600bf-4b06-4da2-8190-efd579f80cd2@9466.org
+UID:4e672722-569b-4381-9f71-104c31d5a144@4e67.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +26,34 @@ DTEND:20260514T200000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260514T180000Z
 SUMMARY:Répète 
-UID:6829d659-6210-42f1-be40-853867184af0@6829.org
+UID:a37fef37-43d8-40b7-8e2d-2413742641c2@a37f.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:4a2484f5-6d28-4762-bd4a-4f561b557657@4a24.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T163000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T151000Z
+SUMMARY:basson
+UID:f122e5b5-c569-4038-ae99-8fd4975499cb@f122.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260514T170000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260514T151500Z
+SUMMARY:piano
+UID:83b5b8ed-52f4-4400-8f62-a5aeaa8ffedc@83b5.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
