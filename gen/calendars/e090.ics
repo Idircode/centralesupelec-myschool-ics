@@ -3,12 +3,30 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:3df380f6-52db-400f-b1e9-3f613d13ec7e@3df3.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:e76642a7-7a22-4794-aa4a-09bba7f37ec4@e766.org
+UID:b854fa38-d3b3-47c7-8cd6-76f5036bb456@b854.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:0f96907e-4a69-4cb1-9aa6-6c2952643e70@0f96.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +35,7 @@ DTEND:20260517T210000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260517T193000Z
 SUMMARY:Piano
-UID:09a826a2-c0df-4d76-803d-fda08313c2cb@09a8.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:92bf1315-a5bc-429b-933f-f78a8916504e@92bf.org
+UID:df593feb-3cac-47b0-a017-1b6b2982d05f@df59.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
