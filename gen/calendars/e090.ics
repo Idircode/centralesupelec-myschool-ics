@@ -3,12 +3,30 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:bd00fc7a-bcc0-4810-a0fc-9af0be54a39d@bd00.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:6ae10c63-611a-44db-b8a6-f4fc82532179@6ae1.org
+UID:92a8a4ae-64f0-4a11-996f-17de009aed9d@92a8.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:db154e73-00ea-4d8c-ae38-94843282bdae@db15.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +35,7 @@ DTEND:20260517T210000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260517T193000Z
 SUMMARY:Piano
-UID:f03d3be5-cf9d-48f3-91ff-354c73536bfb@f03d.org
+UID:7f16473f-426d-42f9-8cff-0a33a23b6641@7f16.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +44,7 @@ DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260521T164500Z
 SUMMARY:Cours
-UID:53a90bf6-6d21-4d80-a818-7e8b45df417a@53a9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:f0a143e4-3c0a-4ef6-b09c-e02462071064@f0a1.org
+UID:4f00de9e-8105-4189-aabc-0b6f60b1f6fb@4f00.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
