@@ -3,30 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:b6194a33-bf62-4194-91ee-731c4e433e7c@b619.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:6096c48d-e699-48e7-b38e-61b51f2d9a7a@6096.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260517T210000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260517T193000Z
 SUMMARY:Piano
-UID:e48340f2-fc80-4002-b79a-e1d40c3d1300@e483.org
+UID:7f49b61e-ac83-42f3-b2ce-e40cd324b2ed@7f49.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:b45ae285-ac74-427c-9fc4-d6def4ae9795@b45a.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260521T164500Z
 SUMMARY:Cours
-UID:6fe3153c-6fea-4fe5-89f3-adfd00ef0629@6fe3.org
+UID:7901c700-3364-452c-a3a3-12a498d7a939@7901.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:0504d680-df0b-4b08-a3da-06a8cbce63a9@0504.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:2b0b4e18-bfb3-443d-b8c2-9b810ef3a2e1@2b0b.org
+UID:713253ec-3f83-42b6-976c-c5395454a6a5@7132.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
