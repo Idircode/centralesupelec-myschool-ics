@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260523T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260523T160000Z
-SUMMARY:Galette solognade 
-UID:b7737f24-3015-4497-83f6-19225906ba4b@b773.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260520T141500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260520T133000Z
 SUMMARY:Lcl
-UID:bb726556-c79c-4e06-a326-444c9beaf2c9@bb72.org
+UID:25fc0a65-efd7-4b69-93fe-f952067dcb65@25fc.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,7 @@ DTEND:20260518T114500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260518T103000Z
 SUMMARY:Piano
-UID:afab7492-213b-4b22-9fa2-05bcfbfdf7c1@afab.org
+UID:d6ef6274-bc9a-4ed6-bad9-ed3aa8960f9c@d6ef.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,7 @@ DTEND:20260530T115900Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260530T100000Z
 SUMMARY:farceur aid
-UID:49d10228-a3c9-4a6e-816a-f92b115a5c6c@49d1.org
+UID:25619bbe-152a-4d70-9873-602cf3e251fc@2561.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,16 +35,7 @@ DTEND:20260518T150000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260518T140000Z
 SUMMARY:sax max etc
-UID:5c88e05a-71bc-4974-8059-456072eee5d4@5c88.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260521T140000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260521T120000Z
-SUMMARY:cswing
-UID:e4255ba7-acfa-46db-a558-0f7959019a8e@e425.org
+UID:3a61f3d7-aa99-4b25-b283-0424b28024ce@3a61.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,16 +44,7 @@ DTEND:20260528T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260528T120000Z
 SUMMARY:cswing
-UID:f53056d7-60de-4a70-8d3c-c2a3bcb5d05f@f530.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260530T095900Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260530T080000Z
-SUMMARY:farceur aid
-UID:ce98d452-0361-40d4-b3af-8359fe276fc7@ce98.org
+UID:1eddd1ef-bc80-4b29-8767-40e2aa689973@1edd.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +53,34 @@ DTEND:20260518T170000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260518T150000Z
 SUMMARY:les loustwiks 
-UID:88dfb260-62ec-443e-a776-d8d5544d425b@88df.org
+UID:da19a639-0a7d-4bd9-ab85-2ee8807d6d9f@da19.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260530T095900Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260530T080000Z
+SUMMARY:farceur aid
+UID:3965127f-a154-41a6-95c2-8d40d5369a77@3965.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Anthony DECAMBRAY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260523T180000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260523T160000Z
+SUMMARY:Galette solognade 
+UID:245418b6-aa06-407c-ac41-e056b8bd9c7e@2454.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260521T140000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260521T120000Z
+SUMMARY:cswing
+UID:5030016b-1d69-4c37-99ba-66351a46a07a@5030.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
