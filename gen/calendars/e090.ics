@@ -3,39 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:049f715b-dd2d-48a4-899b-863705279d4e@049f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:c08d8b06-65b7-4f99-9c7d-2b582b41aedc@c08d.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:f759f955-3352-4695-97ab-37ffb13e6264@f759.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260517T210000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260517T193000Z
-SUMMARY:Piano
-UID:7576f069-ac9d-4719-b4bf-b669f7c9b123@7576.org
+UID:cb0544e8-e583-404d-b1d7-8d99ca3f12ca@cb05.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,34 @@ DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260521T164500Z
 SUMMARY:Cours
-UID:6bddfefa-b332-4a5b-bdb7-0c1b9f5fede7@6bdd.org
+UID:980fa806-69c2-4e26-87c9-a7cfb97aca85@980f.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:7e8017a8-3231-4eaf-8196-9841717cdc44@7e80.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260517T210000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260517T193000Z
+SUMMARY:Piano
+UID:f347f63c-5924-4f2a-9e3b-b21b802a1965@f347.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:1dae304e-dc57-4333-91e6-aa7ec3852be7@1dae.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
