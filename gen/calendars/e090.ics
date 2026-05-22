@@ -3,39 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:3751850e-5604-4edf-bffc-0b1a10147b19@3751.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T163000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T151000Z
-SUMMARY:basson
-UID:8a4a3d52-c24e-4891-aec9-3bd7c98d5e79@8a4a.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:f9289e9e-7687-424d-84e2-b034cf7c0e21@f928.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260517T210000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260517T193000Z
 SUMMARY:Piano
-UID:ebd55617-ad6f-4765-bac9-4ca9c1a53895@ebd5.org
+UID:986334b6-00ee-401b-a4aa-39f59e94e023@9863.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,34 @@ DTEND:20260518T114500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T103000Z
 SUMMARY:Piano
-UID:df548cf7-e729-4a5c-8f51-20a1cdf68ab9@df54.org
+UID:c25bd652-3c9d-4f0f-8f66-c0a7964ead13@c25b.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:39c7f53d-dcdd-45fd-9f4e-baaf63de2248@39c7.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T163000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T151000Z
+SUMMARY:basson
+UID:1ed51558-98dc-48cb-b3c0-ca704bdcb705@1ed5.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:9e6ad799-76c4-4cdc-b457-b582e103a847@9e6a.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
