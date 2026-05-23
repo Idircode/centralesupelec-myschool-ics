@@ -3,30 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:36f23fe7-5a09-4fb3-9783-9d3eecac0371@36f2.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260521T110000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260521T100000Z
 SUMMARY:Saxophon
-UID:471be4b9-c949-4350-9362-4dc82029e989@471b.org
+UID:ad91b45e-d151-48a6-b339-88d4f3be755d@ad91.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T163000Z
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260518T151000Z
-SUMMARY:basson
-UID:b7c660c1-b830-4280-94ea-5a9e9c2335f6@b7c6.org
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:4e0c0a0e-fb2f-4f9d-aa8f-0153d8d000f2@4e0c.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260518T114500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T103000Z
 SUMMARY:Piano
-UID:2fec7706-dcac-4d4e-a90c-6f0babd4c49f@2fec.org
+UID:a26d7ff2-eded-4b0f-be51-d02cab9035e8@a26d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T163000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T151000Z
+SUMMARY:basson
+UID:50e78a40-c56b-45d9-8ffd-a73eafc8f7b1@50e7.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR

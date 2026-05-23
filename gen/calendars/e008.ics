@@ -3,12 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260519T211500Z
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260518T114500Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260519T201500Z
+DTSTART:20260518T104500Z
 SUMMARY:Piano
-UID:c5e7d49c-01d2-42a0-ba39-16ddef9002cf@c5e7.org
+UID:7c14ed06-7b0c-4784-bc18-1c5de27c2e47@7c14.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,7 @@ DTEND:20260520T151500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260520T140000Z
 SUMMARY:Hautbois
-UID:ca54c384-3b3c-47af-8da4-abeec52bea2a@ca54.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260518T104500Z
-SUMMARY:Piano
-UID:23413d72-de9c-4400-9606-b46f59979a9d@2341.org
+UID:c4361f36-751f-4baf-b8e7-004b2d62168e@c436.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260519T114500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260519T104500Z
 SUMMARY:Piano
-UID:f0090d53-3315-49c4-9af4-f98f2d1f4f12@f009.org
+UID:fc89c4c1-b17a-4d93-8c4e-5a92f4124f15@fc89.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260519T211500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260519T201500Z
+SUMMARY:Piano
+UID:f16c0725-a159-42f5-98fc-41794f195c18@f16c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
