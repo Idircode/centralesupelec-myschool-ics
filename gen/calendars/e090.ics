@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:b48753f0-c11f-462b-887f-7f07b6aa27c4@b487.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T163000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T151000Z
-SUMMARY:basson
-UID:e4a934f1-6dae-48eb-b5e2-cdd794abf6a9@e4a9.org
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:34dea03d-a826-4d13-a51d-fd57e3a39d53@34de.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260518T114500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T103000Z
 SUMMARY:Piano
-UID:d750c38a-1324-468e-a882-5243f2da6a58@d750.org
+UID:a0f9d725-fb6d-4691-b4e1-10cc1092fd78@a0f9.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:bf51437d-03cc-4f43-bcbf-7d93f503f0c6@bf51.org
+DTSTART:20260518T151000Z
+SUMMARY:basson
+UID:614394d8-7c8b-4d2e-b22d-362fcecb0877@6143.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:b5414d6f-c0ad-4ac6-83a5-6a81b3c3d1a5@b541.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
