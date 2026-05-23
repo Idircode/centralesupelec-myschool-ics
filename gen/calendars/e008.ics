@@ -3,30 +3,21 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260519T211500Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260519T201500Z
-SUMMARY:Piano
-UID:17fbbc72-76f2-4791-a404-c5e3e683508f@17fb.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Aurélien LAMBERT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 DTEND:20260520T151500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260520T140000Z
 SUMMARY:Hautbois
-UID:c222d015-f932-47ac-8d30-8c992863ef35@c222.org
+UID:f0b75e06-54de-4155-af1a-883d328aafce@f0b7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260519T114500Z
+DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260519T211500Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260519T104500Z
+DTSTART:20260519T201500Z
 SUMMARY:Piano
-UID:53143e0c-2893-4071-8c5f-c77da8777e7d@5314.org
+UID:a9f1edda-98f7-4220-a727-916563949fd3@a9f1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260518T114500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260518T104500Z
 SUMMARY:Piano
-UID:b9246554-4fdf-4fcc-9609-f817fc40290b@b924.org
+UID:25c5bc19-4c6c-412d-8b6c-4957f7d19671@25c5.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260519T114500Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260519T104500Z
+SUMMARY:Piano
+UID:4f21618d-a930-4267-8c02-a75102d8e43a@4f21.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
