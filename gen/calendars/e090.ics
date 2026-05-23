@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:371c69d1-9ea8-4b26-ad00-beeb67c8e038@371c.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:aa1fc23d-6e03-4855-9582-9ce42c3115f3@aa1f.org
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:fe728d3f-7413-4369-a92b-6cd7248b306b@fe72.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:65bcbaf9-0d61-42b9-a0d2-adb7963fe963@65bc.org
+UID:e4a674fc-af12-437e-95f8-b931deeb5cd4@e4a6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:233903d1-d6ae-437b-9fb1-64ce8f00fe27@2339.org
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:9c3c9821-ba80-434e-8377-c73ace427205@9c3c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:81e05da4-11dd-4db2-a336-2beec142f680@81e0.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
