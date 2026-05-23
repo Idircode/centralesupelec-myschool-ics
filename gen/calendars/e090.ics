@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T110000Z
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260521T100000Z
-SUMMARY:Saxophon
-UID:62db063b-1970-4923-86fa-d15d263dba0e@62db.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260518T114500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260518T103000Z
-SUMMARY:Piano
-UID:7764f8cf-ec9f-411c-bf4a-cb65a65be38b@7764.org
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:ee2e144e-d501-4c14-ab45-b36284415c99@ee2e.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260518T163000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260518T151000Z
 SUMMARY:basson
-UID:1b56354e-2c0f-40e4-b02e-936d1cdb2dd1@1b56.org
+UID:05154467-7a11-404d-b828-edae1e6a5c51@0515.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
+DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T110000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:6219cf9b-5ba5-45e5-92f8-41bdba819e2a@6219.org
+DTSTART:20260521T100000Z
+SUMMARY:Saxophon
+UID:203ef68e-d43c-4c43-891f-8fc020b786bf@203e.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260518T114500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260518T103000Z
+SUMMARY:Piano
+UID:a20fb8e3-5ff7-4097-be03-7c23569ce6c1@a20f.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
