@@ -3,12 +3,21 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260519T163000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260519T151500Z
+SUMMARY:Piano
+UID:92b29e9f-1542-4ba3-8b87-a254291eb57e@92b2.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260519T150000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260519T134500Z
 SUMMARY:oh esmeralda
-UID:4a67b737-b131-4e83-b39f-5535b9757297@4a67.org
+UID:61519cb3-13e1-479b-a8ba-caefa02543b1@6151.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,70 +26,7 @@ DTEND:20260521T203000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260521T194500Z
 SUMMARY:Piano 
-UID:62b2362f-bf66-438f-9a0d-4fcfef6ab0cb@62b2.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260528T203000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260528T183000Z
-SUMMARY:Répé Brass'art
-UID:86b933e4-711e-4857-bcd9-384d1cf3f6e9@86b9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260521T140000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260521T120000Z
-SUMMARY:Qu'est ce qu'ils deviennent les Spicy Zoumis
-UID:4c0baf1b-06d1-4acb-b810-17d4f1a4f7c6@4c0b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260519T201500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260519T181500Z
-SUMMARY:Générale Brass'art
-UID:abb3857e-615b-4494-9af1-2486034a75fa@abb3.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260528T140000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260528T120000Z
-SUMMARY:Enfaite j'ai oublié
-UID:8a001c93-d768-4409-906b-42ffe50b7d92@8a00.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260519T163000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260519T151500Z
-SUMMARY:Piano
-UID:e346f844-7f97-42c9-8350-b6f9f286eaf4@e346.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260522T160000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260522T144500Z
-SUMMARY:last but not least
-UID:3bcfb78d-6161-4850-892d-328ca119e0e7@3bcf.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260520T170000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260520T150000Z
-SUMMARY:Marias Papas Taz
-UID:4a9a34a0-99bc-4b28-b960-040a4ecdabec@4a9a.org
+UID:36de32e8-2fbc-48bf-8796-a8cf53b64fec@36de.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +35,7 @@ DTEND:20260521T170000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260521T150000Z
 SUMMARY:on accueille le saxophoniste 
-UID:711006f1-0a3b-417f-8818-e9ca96e7439b@7110.org
+UID:889b7cce-e720-47ec-9242-fdf749e86a63@889b.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +44,61 @@ DTEND:20260521T093000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260521T080000Z
 SUMMARY:Piano
-UID:99c2d15e-6eb8-402d-a332-be48c3a33eca@99c2.org
+UID:e06c429d-1819-4018-84e6-7996fe479691@e06c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260521T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260521T120000Z
+SUMMARY:Qu'est ce qu'ils deviennent les Spicy Zoumis
+UID:e5557899-2b55-4aa6-8994-681ec56dd984@e555.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T203000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260528T183000Z
+SUMMARY:Répé Brass'art
+UID:dc79696b-d0a0-4487-ae45-b43272f76d6a@dc79.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260528T120000Z
+SUMMARY:Enfaite j'ai oublié
+UID:e59acdad-c370-4873-acf5-07361153e370@e59a.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260520T170000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260520T150000Z
+SUMMARY:Marias Papas Taz
+UID:6252984b-9b06-4879-88d5-609a810e4033@6252.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260519T201500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260519T181500Z
+SUMMARY:Générale Brass'art
+UID:fc73818d-0520-4b83-965b-b0f0c11937fd@fc73.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260522T160000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260522T144500Z
+SUMMARY:last but not least
+UID:c63d3de3-667c-42cc-9f83-01698c2c7c31@c63d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
