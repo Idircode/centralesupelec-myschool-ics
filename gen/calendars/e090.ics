@@ -3,21 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260521T181500Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260521T164500Z
-SUMMARY:Cours
-UID:06ba455d-d6c3-49c8-95d8-e139aa7a3b74@06ba.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Thibaud VENDRELY\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260521T110000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260521T100000Z
 SUMMARY:Saxophon
-UID:27139dc3-c14a-40aa-aa39-caf4ec266ed8@2713.org
+UID:7be42d88-1d1b-4b5b-883a-2793c71e1b09@7be4.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Benoit DABOUIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260521T181500Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260521T164500Z
+SUMMARY:Cours
+UID:87f818e1-9a9e-41d1-ab07-60470fe2daea@87f8.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
