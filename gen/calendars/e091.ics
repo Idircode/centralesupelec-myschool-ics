@@ -3,12 +3,30 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T140000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260528T120000Z
+SUMMARY:Enfaite j'ai oublié
+UID:12ebd2ec-fbcf-47ce-8e3a-8af04a67055c@12eb.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260526T114500Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260526T104500Z
 SUMMARY:piano
-UID:674ab59e-5d25-4883-ae73-78f50aa6dc47@674a.org
+UID:20df66f1-d9c4-4a28-bb7c-cd22736744e0@20df.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T150000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260528T140000Z
+SUMMARY:Piano 
+UID:c16738c2-a63f-4e80-be12-0fed569f7542@c167.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,25 +35,7 @@ DTEND:20260527T120000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260527T104500Z
 SUMMARY:Piano
-UID:04511e10-3581-466e-b84e-b70381308eb1@0451.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mehdi TANANA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260528T140000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260528T120000Z
-SUMMARY:Enfaite j'ai oublié
-UID:cb6869bd-fef3-483c-8434-f382a3d7db8f@cb68.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260528T203000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260528T183000Z
-SUMMARY:Répé Brass'art
-UID:ba980b4a-6b78-441e-9f98-6f13bc308f83@ba98.org
+UID:0866baa6-5db6-4fae-9792-6278009f8d1c@0866.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTEND:20260604T140000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260604T120000Z
 SUMMARY:YAB SAVEUR CRAMPTES SIX SEVEEEN
-UID:b66eb0c0-3f85-44a6-b8e5-f54593464bba@b66e.org
+UID:4a55b437-0977-4faa-9413-8032c75fc323@4a55.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,16 @@ DTEND:20260525T153000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260525T143000Z
 SUMMARY:Piano
-UID:d0bee464-9d3f-480d-bb7d-e0a5acd01c25@d0be.org
+UID:84a3bdc1-0c5d-4f2b-8dc2-6df61a7656ab@84a3.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T203000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260528T183000Z
+SUMMARY:Répé Brass'art
+UID:9dbce179-d1aa-45a6-959e-90bd1f6ca90c@9dbc.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
