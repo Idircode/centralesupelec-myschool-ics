@@ -3,12 +3,12 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis HELAINE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260528T170000Z
+DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260529T184500Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260528T160000Z
-SUMMARY:Repet
-UID:4b768a85-fd6d-4c79-bc9c-3e164ece6b7d@4b76.org
+DTSTART:20260529T164500Z
+SUMMARY:piano
+UID:a65e9bea-4c9a-4ae1-adff-967fe2e1aa8e@a65e.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,34 +17,16 @@ DTEND:20260604T140000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260604T120000Z
 SUMMARY:YAB SAVEUR CRAMPTES SIX SEVEEEN
-UID:8ab20bd5-3dad-47de-b018-e4c5bbc71200@8ab2.org
+UID:1971e45e-4146-4238-8f61-4c5368dd4c9c@1971.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260527T120000Z
+DESCRIPTION:Réservé par : Louis HELAINE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260528T170000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260527T104500Z
-SUMMARY:Piano
-UID:71f9276b-fc94-442e-80a5-ac086c089224@71f9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260529T210000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260529T190000Z
-SUMMARY:Répète
-UID:0a5eb533-3bbf-49ca-a46f-568138f28c8a@0a5e.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260526T114500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260526T104500Z
-SUMMARY:piano
-UID:ca426fd8-87f2-4af8-8824-d12c45fb5d03@ca42.org
+DTSTART:20260528T160000Z
+SUMMARY:Repet
+UID:5692bccf-26d1-4ad7-9baf-759dbe9b9c83@5692.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +35,16 @@ DTEND:20260528T150000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260528T140000Z
 SUMMARY:Piano 
-UID:3f06f057-eafc-4381-8fb9-2cc83bd65d8f@3f06.org
+UID:3d492e4c-8627-46b7-be04-1c9c71032db2@3d49.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260527T120000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260527T104500Z
+SUMMARY:Piano
+UID:5ab03e55-df78-43e9-b807-d62f5323d182@5ab0.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +53,16 @@ DTEND:20260528T203000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260528T183000Z
 SUMMARY:Répé Brass'art
-UID:d6ec4283-9509-451a-add0-eb076344a0f8@d6ec.org
+UID:db340bce-db68-4cd3-aa11-138d8a124f20@db34.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUJARDIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260529T210000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260529T190000Z
+SUMMARY:Répète
+UID:bdc72d17-1e2a-470b-a79e-453ed6cc3cfe@bdc7.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,16 +71,7 @@ DTEND:20260529T130000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260529T120000Z
 SUMMARY:Répétition Banda Joe
-UID:49d8a2cf-b4c3-441f-a745-1e43ce5284e5@49d8.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Rafael Kenji TERAMOTO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260529T184500Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260529T164500Z
-SUMMARY:piano
-UID:88456e5e-c190-4f6c-ad0b-3fdc8d3cfc60@8845.org
+UID:9d6f404f-a363-46b4-b032-3489b79e6eae@9d6f.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +80,16 @@ DTEND:20260525T153000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260525T143000Z
 SUMMARY:Piano
-UID:3757e4d5-5840-4cb9-8cde-0a2a74bf071f@3757.org
+UID:a0d00d52-ec18-4d1d-9179-a9d2c0ba7dc9@a0d0.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Ingrid KOPERSKI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260526T114500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260526T104500Z
+SUMMARY:piano
+UID:c8524f66-ffaa-48b2-b974-3bc99289ab74@c852.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +98,7 @@ DTEND:20260528T140000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260528T120000Z
 SUMMARY:Enfaite j'ai oublié
-UID:9868904d-6c29-4f53-b622-4c29830d1ba9@9868.org
+UID:b54c3103-e2ab-41d4-86e5-fb0391755e3c@b54c.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
