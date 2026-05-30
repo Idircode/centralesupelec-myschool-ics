@@ -3,48 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260528T140000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260528T120000Z
-SUMMARY:cswing
-UID:dc9a2bc4-c15a-4d15-b870-351673b274f6@dc9a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Grégoire DELIGNON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260527T114500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260527T104500Z
 SUMMARY:Piano
-UID:058461a4-ddb2-4fe1-a795-d15007b98618@0584.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260530T095900Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260530T080000Z
-SUMMARY:farceur aid
-UID:88ba21ff-5520-4115-a061-4f6b34c0b92a@88ba.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260530T115900Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260530T100000Z
-SUMMARY:farceur aid
-UID:a22a6ff2-cd75-4481-bde8-792fc701c587@a22a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260528T110000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260528T093000Z
-SUMMARY:coucou
-UID:d054b4c4-0f87-482f-a633-a6f783d90521@d054.org
+UID:36b07d00-cf49-4161-83bd-10e4f0506dd4@36b0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +17,43 @@ DTEND:20260529T180000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260529T163000Z
 SUMMARY:Batterie
-UID:6fa5a3a5-94d5-4724-93c6-8382e89b8c20@6fa5.org
+UID:0e222d42-b18c-4e1d-8d70-7fca947bcf08@0e22.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260530T115900Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260530T100000Z
+SUMMARY:farceur aid
+UID:861de685-beed-42ba-8270-9a79baa0f011@861d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260530T095900Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260530T080000Z
+SUMMARY:farceur aid
+UID:73ee8dd1-bf95-4ed3-8395-55701baa570d@73ee.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Erwan PLEINDOUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260528T110000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260528T093000Z
+SUMMARY:coucou
+UID:1cfb1c5e-584e-4665-8198-3437b7a989b3@1cfb.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260528T140000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260528T120000Z
+SUMMARY:cswing
+UID:4fe140db-6a01-4b8d-9521-e5f98a6e2f4e@4fe1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ DTEND:20260604T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T120000Z
 SUMMARY:cswing
-UID:4066c575-a64c-4928-ad4c-c48e4de917a7@4066.org
+UID:8fb4f981-62b7-4d96-ab57-89af52b79095@8fb4.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
