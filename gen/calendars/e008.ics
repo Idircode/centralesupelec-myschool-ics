@@ -3,12 +3,12 @@ X-WR-CALNAME:e.008, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260527T123000Z
+DESCRIPTION:Réservé par : Eglantine JACQUINET--JEANGOUT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260526T163000Z
 LOCATION:e.008\, Bouygues
-DTSTART:20260527T110000Z
-SUMMARY:Saxo
-UID:095f2fdf-b619-4477-9356-e2a939d812b3@095f.org
+DTSTART:20260526T160000Z
+SUMMARY:Piano
+UID:b9a91201-a30f-41a2-954a-a5b64a0d2f10@b9a9.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTEND:20260529T181500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260529T170000Z
 SUMMARY:Piano
-UID:c1809a7d-4b12-45dd-965e-d800e5fc107b@c180.org
+UID:b27a9a80-26a1-49a4-81c3-32aab6102dae@b27a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +26,7 @@ DTEND:20260526T184500Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260526T170000Z
 SUMMARY:repouet
-UID:22acd825-b6d8-4b48-bdf6-980d2754b86d@22ac.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eglantine JACQUINET--JEANGOUT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
-DTEND:20260526T163000Z
-LOCATION:e.008\, Bouygues
-DTSTART:20260526T160000Z
-SUMMARY:Piano
-UID:57db7d9e-563f-46d0-a095-9b91f9525b20@57db.org
+UID:1b08fb70-cf65-49e0-8549-d91405618e84@1b08.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260526T193000Z
 LOCATION:e.008\, Bouygues
 DTSTART:20260526T184500Z
 SUMMARY:Trombone
-UID:b9c10c32-e952-4cb0-8e69-3855be9963a9@b9c1.org
+UID:d8806836-425d-4d73-89f5-a7a673ee0ae3@d880.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
+DTEND:20260527T123000Z
+LOCATION:e.008\, Bouygues
+DTSTART:20260527T110000Z
+SUMMARY:Saxo
+UID:4f3ab54c-dd54-42c1-9e3c-c11a678b951b@4f3a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf62f3b8fb100138065ed&zoom=20
 END:VEVENT
 END:VCALENDAR
