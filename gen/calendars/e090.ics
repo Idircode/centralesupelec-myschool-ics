@@ -2,4 +2,13 @@ BEGIN:VCALENDAR
 X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T113000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260602T094500Z
+SUMMARY:enregistrement
+UID:7143a476-89d1-431f-81a0-683dc068e43a@7143.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
 END:VCALENDAR
