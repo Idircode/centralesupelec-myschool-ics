@@ -3,21 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T113000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260602T094500Z
-SUMMARY:enregistrement
-UID:ebfee92f-ab0c-417d-8ee1-b03bd707d46d@ebfe.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260602T190000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260602T170000Z
 SUMMARY:Enregistrement 
-UID:8de41592-5210-45c5-84ab-b77235ee5fc6@8de4.org
+UID:7e1f2de7-b819-40ec-8bc0-c50c061ab0e0@7e1f.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T113000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260602T094500Z
+SUMMARY:enregistrement
+UID:2f961765-5147-486b-8973-8cdb1ea0eb00@2f96.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
