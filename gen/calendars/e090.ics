@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T113000Z
+DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T190000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260602T094500Z
-SUMMARY:enregistrement
-UID:ad280e52-0535-41e8-9ebc-b9f5eeb5be4d@ad28.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260603T160000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260603T140000Z
-SUMMARY:Répet 
-UID:f31a7251-504a-4427-8dc3-e8e80d02a623@f31a.org
+DTSTART:20260602T170000Z
+SUMMARY:Enregistrement 
+UID:c531f6a6-5872-45a8-b7b2-5f0662713909@c531.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260603T123000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T111500Z
 SUMMARY:Saxo
-UID:ef4cb11f-1900-4fd0-b601-b34d1bb7cd7b@ef4c.org
+UID:f6c9c099-b240-4130-8add-bbeaac7cf84f@f6c9.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T190000Z
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T113000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260602T170000Z
-SUMMARY:Enregistrement 
-UID:621a9e42-13bd-4b04-8713-37188038082b@621a.org
+DTSTART:20260602T094500Z
+SUMMARY:enregistrement
+UID:388a9fae-a4b0-4019-b9f4-5c1c7534a365@388a.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260603T160000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260603T140000Z
+SUMMARY:Répet 
+UID:82022f95-df55-47bd-9061-f86c43a0c614@8202.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
