@@ -3,30 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T190000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260602T170000Z
-SUMMARY:Enregistrement 
-UID:c531f6a6-5872-45a8-b7b2-5f0662713909@c531.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260603T123000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260603T111500Z
-SUMMARY:Saxo
-UID:f6c9c099-b240-4130-8add-bbeaac7cf84f@f6c9.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260602T113000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260602T094500Z
 SUMMARY:enregistrement
-UID:388a9fae-a4b0-4019-b9f4-5c1c7534a365@388a.org
+UID:e260296c-9c1b-451c-854d-ffd5f28a451f@e260.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260603T203000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260603T194500Z
+SUMMARY:Piano
+UID:157a8ed3-cb85-41df-9a8d-1f1ea1e49313@157a.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,25 @@ DTEND:20260603T160000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T140000Z
 SUMMARY:Répet 
-UID:82022f95-df55-47bd-9061-f86c43a0c614@8202.org
+UID:0ba5750b-c403-41f1-9639-a536d5acad29@0ba5.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T190000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260602T170000Z
+SUMMARY:Enregistrement 
+UID:c3066329-b52e-4328-8cec-98384d056c57@c306.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260603T123000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260603T111500Z
+SUMMARY:Saxo
+UID:88fba42e-f0bb-495f-a220-fe2bea4dd4a1@88fb.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
