@@ -3,12 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260601T200000Z
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T203000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260601T183000Z
-SUMMARY:Répétitions
-UID:61d01a0e-2265-45e9-bb2d-1ff7caf2e61a@61d0.org
+DTSTART:20260611T183000Z
+SUMMARY:répé Brass'art
+UID:dad803ea-9bd1-45e5-a401-ed00e0209b1e@dad8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTEND:20260601T183000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260601T150000Z
 SUMMARY:Repet TMTPOS again
-UID:abc7c024-129c-42c3-abe7-92fbfcd833f8@abc7.org
+UID:e8bbb754-2693-46e7-ba28-5c7b4f555519@e8bb.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +26,7 @@ DTEND:20260602T210000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260602T164500Z
 SUMMARY:Dernière rep TMTPOS
-UID:bed982eb-2fb2-4b22-9e20-cb09fa6f63d0@bed9.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260603T164500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260603T150000Z
-SUMMARY:Lcl
-UID:185674b7-14b6-487e-beeb-cc8ffc2f94a1@1856.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T203000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260611T183000Z
-SUMMARY:répé Brass'art
-UID:68effd4e-92ea-4e1e-b5b2-43906b1ffc9c@68ef.org
+UID:5e11fc99-b308-4bad-952e-a833c18455dc@5e11.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,25 +35,16 @@ DTEND:20260605T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260605T153000Z
 SUMMARY:chant 
-UID:69ba5ecb-af05-48a9-9e31-b73b848f8996@69ba.org
+UID:6771e303-ac08-43e5-9c8a-8333da1b19d2@6771.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eglantine JACQUINET--JEANGOUT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260608T160000Z
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260603T164500Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260608T150000Z
-SUMMARY:Piano
-UID:9ddfb626-77d5-4418-87f3-b63dcb050b0d@9ddf.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260606T130000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260606T120000Z
-SUMMARY:Répet CentOr
-UID:bc4d4d9b-3415-4309-9453-63344076c02b@bc4d.org
+DTSTART:20260603T150000Z
+SUMMARY:Lcl
+UID:aa07cc01-42d5-4e05-80ac-b5371275e008@aa07.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +53,34 @@ DTEND:20260602T164500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260602T151500Z
 SUMMARY:Piano
-UID:59c7a918-4a16-4c43-95f5-373d4d31611a@59c7.org
+UID:7a8497b0-de03-48a9-ac66-969c60e2430f@7a84.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260606T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260606T120000Z
+SUMMARY:Répet CentOr
+UID:73de6efe-cef7-4e22-ac86-ecb3e088ba9b@73de.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sabrina BALOUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260601T200000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260601T183000Z
+SUMMARY:Répétitions
+UID:b82c119c-eefd-4689-99b9-c12c2483fcd1@b82c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Eglantine JACQUINET--JEANGOUT\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260608T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260608T150000Z
+SUMMARY:Piano
+UID:3ac536fa-736a-4370-b30c-cd8a39800a3f@3ac5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
