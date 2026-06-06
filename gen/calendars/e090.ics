@@ -3,21 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T113000Z
+DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260605T100000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260602T094500Z
-SUMMARY:enregistrement
-UID:f66f061d-0e07-4dc1-9b72-ff66b5d871aa@f66f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260602T190000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260602T170000Z
-SUMMARY:Enregistrement 
-UID:5ebd47e1-2cc2-450c-bb71-b52dfe1fb40b@5ebd.org
+DTSTART:20260605T090000Z
+SUMMARY:ei
+UID:0256bcdc-fe7c-4718-856e-f0dcb5b9436d@0256.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,25 @@ DTEND:20260603T123000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T111500Z
 SUMMARY:Saxo
-UID:fb424f5f-7b81-48ac-9fcc-0a1afa33811a@fb42.org
+UID:c4b80b1c-c541-4334-9738-b16a33f76e17@c4b8.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Florentin JASSON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T190000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260602T170000Z
+SUMMARY:Enregistrement 
+UID:4c7c7c2f-ca50-4f74-b5ab-519ad4fa9574@4c7c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260602T113000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260602T094500Z
+SUMMARY:enregistrement
+UID:4c866de6-ec6e-4337-9cb1-a9f0158d31e8@4c86.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,25 +44,7 @@ DTEND:20260604T141500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260604T121500Z
 SUMMARY:Repète
-UID:9b4f458a-1d49-4b57-812b-2ed4b8570e50@9b4f.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260603T203000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260603T194500Z
-SUMMARY:Piano
-UID:8ab4681a-86d9-4f9a-a51f-94777f2cc7a2@8ab4.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260605T100000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260605T090000Z
-SUMMARY:ei
-UID:7e173102-a4e2-4a4b-b91e-b4b937e940f0@7e17.org
+UID:2d39e8d9-3a9e-4bbe-a560-a31400db017d@2d39.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +53,16 @@ DTEND:20260603T160000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T140000Z
 SUMMARY:Répet 
-UID:ede574a7-ee82-4f94-a0d0-10e119febfec@ede5.org
+UID:191c6b8a-a811-49cf-a819-4fe11cd4b670@191c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Valentin LOURME\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260603T203000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260603T194500Z
+SUMMARY:Piano
+UID:ef00c97e-9798-40bd-bf17-1830e5217c40@ef00.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
