@@ -3,21 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260606T120000Z
+DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260606T143000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260606T113000Z
-SUMMARY:Répet Centor 0
-UID:87a0d895-3dc2-4e8a-8eb9-f6cd09564fcc@87a0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260603T164500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260603T150000Z
-SUMMARY:Lcl
-UID:5adf35b9-897a-45af-81a6-8ff7bba9286c@5adf.org
+DTSTART:20260606T134500Z
+SUMMARY:Adam fayela
+UID:efd6dbec-e3c3-497d-b588-7f45205c21c4@efd6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +17,7 @@ DTEND:20260608T160000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260608T150000Z
 SUMMARY:Piano
-UID:417f4a15-643c-49f1-871b-588cb9812313@417f.org
+UID:a20b8f28-cf12-4846-a9b9-06de0396373a@a20b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260606T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260606T160000Z
 SUMMARY:chant
-UID:d7df101c-0039-46c3-86d4-2adf57504a06@d7df.org
+UID:4dab6473-d064-4d02-bfbc-11a877e46d07@4dab.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260603T164500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260603T150000Z
+SUMMARY:Lcl
+UID:8489b0e2-58a0-4cea-aeb3-a8ec8b9852ed@8489.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ DTEND:20260606T130000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260606T120000Z
 SUMMARY:Répet CentOr
-UID:61390b3e-836f-499c-8f02-8b3ab23a61a6@6139.org
+UID:ca6830b9-a7fe-4001-8616-63d3431d1647@ca68.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,16 +53,7 @@ DTEND:20260605T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260605T153000Z
 SUMMARY:chant 
-UID:2e788e62-5cba-4bb0-aaf4-e486f03ded17@2e78.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nicolas TRIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260606T143000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260606T134500Z
-SUMMARY:Adam fayela
-UID:107aa97f-ef68-44d2-ac06-2936268e1bcb@107a.org
+UID:0bccc303-c88c-4ed9-9dd7-aa009fd6086c@0bcc.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +62,16 @@ DTEND:20260611T203000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260611T183000Z
 SUMMARY:répé Brass'art
-UID:a1c526bc-efbf-4391-a7b4-8e4f9ace24c7@a1c5.org
+UID:cd24a2d4-3a1e-417d-9c3b-4c8558bff35d@cd24.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louison DAL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260606T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260606T113000Z
+SUMMARY:Répet Centor 0
+UID:cd64c064-ba24-4b16-9074-60924b60c6cb@cd64.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
