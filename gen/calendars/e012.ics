@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260602T110000Z
+DESCRIPTION:Réservé par : Antoine MARCHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T160000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260602T093000Z
-SUMMARY:RéuG
-UID:1b5ed02c-7150-406e-815f-fd43528dd690@1b5e.org
+DTSTART:20260604T150000Z
+SUMMARY:Saxophone
+UID:3e3a4f5d-26c0-4627-b1ca-cf46241bbb3d@3e3a.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,25 +17,7 @@ DTEND:20260604T150000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T140000Z
 SUMMARY:passa cswing
-UID:e7716d9c-60e2-4597-baeb-539ed1633989@e771.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260602T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260602T164500Z
-SUMMARY:Répétition Pasacalles
-UID:43499cc5-ec33-478a-9773-e8ab9ce8229c@4349.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T114500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T101500Z
-SUMMARY:Enregistrement 
-UID:0ad05377-8734-43a2-b6b8-85736f2df4a6@0ad0.org
+UID:4466cfe7-30f9-4ebd-88e5-55b346c2e858@4466.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,16 +26,16 @@ DTEND:20260602T191500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260602T190000Z
 SUMMARY:Penny lane
-UID:df7fe768-c1a2-41bf-a16f-fc5e1a3fe2c3@df7f.org
+UID:9b145ab5-4f53-41ed-b66c-834781e9b502@9b14.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine MARCHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T160000Z
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T114500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260604T150000Z
-SUMMARY:Saxophone
-UID:4fab311f-ce19-407f-8cd4-a0f62d4ccf1d@4fab.org
+DTSTART:20260604T101500Z
+SUMMARY:Enregistrement 
+UID:43ac7929-63c1-4737-acf2-98563e60efc8@43ac.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +44,7 @@ DTEND:20260605T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260605T080000Z
 SUMMARY:Solognade : summer lovers
-UID:d5251876-b6d0-4d69-81ac-47ba2f0aaf0c@d525.org
+UID:1e95c9d8-ba10-486c-bf04-4791e39f3ce1@1e95.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +53,25 @@ DTEND:20260603T161500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260603T150000Z
 SUMMARY:Musique
-UID:3d0a411f-ce1f-45fb-b9ff-81f5898cfa03@3d0a.org
+UID:e1ce53be-fbcb-413d-b7b4-31b9b9aad0dd@e1ce.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260602T110000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260602T093000Z
+SUMMARY:RéuG
+UID:035ecbb0-49f6-4853-8919-a4f7aae41b36@035e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien Peres-Martin\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260602T180000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260602T164500Z
+SUMMARY:Répétition Pasacalles
+UID:440bd930-6e99-4ce7-be6f-49c3eea96402@440b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +80,7 @@ DTEND:20260604T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T120000Z
 SUMMARY:cswing
-UID:cd77b776-e50d-4086-a871-fb58be92cde1@cd77.org
+UID:0127ffe1-bdd0-445e-b111-b5318422c9aa@0127.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -89,7 +89,7 @@ DTEND:20260602T164500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260602T144500Z
 SUMMARY:Batterie
-UID:7ffbcabd-8b3a-4701-a820-ea1aae792693@7ffb.org
+UID:beaf8b53-4b39-4b5d-a5d6-431cb0dac5c0@beaf.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
