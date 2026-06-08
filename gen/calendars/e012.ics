@@ -3,12 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T114500Z
+DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T140000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260604T101500Z
-SUMMARY:Enregistrement 
-UID:80b319c9-1af7-41a8-8f7a-71b10a48dff1@80b3.org
+DTSTART:20260604T120000Z
+SUMMARY:cswing
+UID:7e0e41c3-8429-4a28-9c31-2e4400efd049@7e0e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260608T123000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260608T111500Z
+SUMMARY:saxo
+UID:ca8165cd-c16b-477e-8cfc-365deb6e4059@ca81.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,7 @@ DTEND:20260604T160000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T150000Z
 SUMMARY:Saxophone
-UID:4d144447-3b3a-464c-b978-cdcfdab01af6@4d14.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T150000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T140000Z
-SUMMARY:passa cswing
-UID:8f2bc635-b17c-4dd4-b4d6-716350fd8e35@8f2b.org
+UID:157bcebb-d2f3-4f9b-888e-4abcb66db49f@157b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,16 +35,7 @@ DTEND:20260603T161500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260603T150000Z
 SUMMARY:Musique
-UID:38b5106f-cdd8-4f4f-b495-d1bd32984a62@38b5.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T140000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T120000Z
-SUMMARY:cswing
-UID:08b0db13-e09e-4f8d-8235-6dac8132b601@08b0.org
+UID:26935227-c45c-4399-8efa-84ddb258775f@2693.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,25 @@ DTEND:20260605T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260605T080000Z
 SUMMARY:Solognade : summer lovers
-UID:776d3e7c-b0b4-4927-be42-179b5fd37790@776d.org
+UID:4a0e8ded-d5bc-4179-ac4f-1ff399eb89e7@4a0e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T150000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260604T140000Z
+SUMMARY:passa cswing
+UID:a6c30d0e-205d-4538-9936-0586d32bdfe7@a6c3.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T114500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260604T101500Z
+SUMMARY:Enregistrement 
+UID:e3c7d03d-95e5-4db5-adcf-7e365a7e4f8b@e3c7.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
