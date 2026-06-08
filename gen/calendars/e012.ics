@@ -3,21 +3,21 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T114500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260604T101500Z
+SUMMARY:Enregistrement 
+UID:80b319c9-1af7-41a8-8f7a-71b10a48dff1@80b3.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Antoine MARCHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260604T160000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T150000Z
 SUMMARY:Saxophone
-UID:99d8e4d9-20f9-4649-8d24-425eef4facba@99d8.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Hugo DUVIVIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260605T130000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260605T080000Z
-SUMMARY:Solognade : summer lovers
-UID:c9f118cb-5762-4795-94ff-0717ef6c3821@c9f1.org
+UID:4d144447-3b3a-464c-b978-cdcfdab01af6@4d14.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +26,7 @@ DTEND:20260604T150000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T140000Z
 SUMMARY:passa cswing
-UID:ec2435e1-bc65-4834-9827-ab892e5db15d@ec24.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T114500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T101500Z
-SUMMARY:Enregistrement 
-UID:13038b1a-0a11-468e-801c-2f4986a1bdff@1303.org
+UID:8f2bc635-b17c-4dd4-b4d6-716350fd8e35@8f2b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,7 @@ DTEND:20260603T161500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260603T150000Z
 SUMMARY:Musique
-UID:b9351285-ee2f-4163-86ee-7e4e6f528315@b935.org
+UID:38b5106f-cdd8-4f4f-b495-d1bd32984a62@38b5.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260604T140000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T120000Z
 SUMMARY:cswing
-UID:0bf83f87-6929-4b9e-8e5a-eb9e25184352@0bf8.org
+UID:08b0db13-e09e-4f8d-8235-6dac8132b601@08b0.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Hugo DUVIVIER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260605T130000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260605T080000Z
+SUMMARY:Solognade : summer lovers
+UID:776d3e7c-b0b4-4927-be42-179b5fd37790@776d.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
