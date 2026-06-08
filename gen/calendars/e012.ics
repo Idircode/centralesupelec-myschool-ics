@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T114500Z
+DESCRIPTION:Réservé par : Antoine MARCHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T160000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260604T101500Z
-SUMMARY:Enregistrement 
-UID:f02b58d0-840a-4f94-89ca-01bcbb85c0c5@f02b.org
+DTSTART:20260604T150000Z
+SUMMARY:Saxophone
+UID:99d8e4d9-20f9-4649-8d24-425eef4facba@99d8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,34 +17,7 @@ DTEND:20260605T130000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260605T080000Z
 SUMMARY:Solognade : summer lovers
-UID:e8899a4e-581c-4750-8b40-46cf409b39a8@e889.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine MARCHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T160000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T150000Z
-SUMMARY:Saxophone
-UID:c722278f-2405-4fca-93b6-cf75aea3b1af@c722.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Quentin MININGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260603T161500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260603T150000Z
-SUMMARY:Musique
-UID:5c220c3f-fc85-4833-b80f-44e062d46744@5c22.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260604T140000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260604T120000Z
-SUMMARY:cswing
-UID:393ccabe-7c76-47fe-9249-df298287e02e@393c.org
+UID:c9f118cb-5762-4795-94ff-0717ef6c3821@c9f1.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +26,34 @@ DTEND:20260604T150000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260604T140000Z
 SUMMARY:passa cswing
-UID:d0f3add7-2365-42ac-904b-45f60a163d91@d0f3.org
+UID:ec2435e1-bc65-4834-9827-ab892e5db15d@ec24.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Sarah GIELEN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T114500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260604T101500Z
+SUMMARY:Enregistrement 
+UID:13038b1a-0a11-468e-801c-2f4986a1bdff@1303.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Quentin MININGER\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260603T161500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260603T150000Z
+SUMMARY:Musique
+UID:b9351285-ee2f-4163-86ee-7e4e6f528315@b935.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Eloi DESVALLÉES\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260604T140000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260604T120000Z
+SUMMARY:cswing
+UID:0bf83f87-6929-4b9e-8e5a-eb9e25184352@0bf8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
