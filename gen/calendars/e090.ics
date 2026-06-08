@@ -3,30 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260603T160000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260603T140000Z
-SUMMARY:Répet 
-UID:fe0af76f-2b66-44e6-afc0-94af5fa90ab8@fe0a.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260605T100000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260605T090000Z
-SUMMARY:ei
-UID:689b4684-26ec-4a74-930d-66456c30bf7f@689b.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Jean MAILLARD\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260603T123000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T111500Z
 SUMMARY:Saxo
-UID:1a5c9a50-2d37-4508-9d68-2b6a1b9e78fc@1a5c.org
+UID:f7735a25-3bea-4f61-912f-fec65f9ec3b4@f773.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,16 @@ DTEND:20260604T141500Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260604T121500Z
 SUMMARY:Repète
-UID:587598f6-ed52-4883-9b6c-ae739ced07f8@5875.org
+UID:c2f812b6-a673-4bc4-923b-6e52599af9ae@c2f8.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Antoine DUCOURNAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260603T160000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260603T140000Z
+SUMMARY:Répet 
+UID:c206ecaf-9ffc-4b74-9cda-c322438fe04c@c206.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +35,16 @@ DTEND:20260603T203000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260603T194500Z
 SUMMARY:Piano
-UID:c697805d-f5a3-4064-a1a7-2189a4e703c6@c697.org
+UID:7e3a1a45-26bd-4cf5-adc4-a39bbda6f26d@7e3a.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260605T100000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260605T090000Z
+SUMMARY:ei
+UID:2a337d5d-d283-4004-8ba5-67da95f86474@2a33.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
