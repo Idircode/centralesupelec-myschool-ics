@@ -3,12 +3,12 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260605T100000Z
+DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260604T141500Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260605T090000Z
-SUMMARY:ei
-UID:b7029d98-519b-409e-b2f1-b9a90f89bca5@b702.org
+DTSTART:20260604T121500Z
+SUMMARY:Repète
+UID:0ebd1243-0509-4d12-96b1-d76664a6cbc3@0ebd.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,16 @@ DTEND:20260609T170000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260609T151500Z
 SUMMARY:Basson
-UID:0f0ad7ed-69de-48fa-b248-fc2fab1d1e78@0f0a.org
+UID:b1423642-b545-4bc7-8836-2ef3869c9d57@b142.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Thiago NARCIZO CAVALCANTI ARAUJO\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260604T141500Z
+DESCRIPTION:Réservé par : Tom VANDERMEERSCH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260605T100000Z
 LOCATION:e.090\, Bouygues
-DTSTART:20260604T121500Z
-SUMMARY:Repète
-UID:bef510fb-69ca-4353-a146-3fec98ab6521@bef5.org
+DTSTART:20260605T090000Z
+SUMMARY:ei
+UID:101dbe86-84d5-4d4c-82c7-3420773f6f51@101d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
