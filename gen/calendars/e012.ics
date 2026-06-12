@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Alexandre PAUN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260608T170000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260608T160000Z
-SUMMARY:Repet baj
-UID:3bda96fc-53f7-4afd-9f6e-4cc8da4a8f21@3bda.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260611T123000Z
+DTEND:20260608T160000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260611T110000Z
-SUMMARY:bankcs
-UID:5aafa3e2-74ea-488b-a87d-3ec4095dc073@5aaf.org
+DTSTART:20260608T150000Z
+SUMMARY:gooners
+UID:3b7c28ec-a4da-4c00-8147-906bd0c01a90@3b7c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,79 +17,7 @@ DTEND:20260608T123000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260608T111500Z
 SUMMARY:saxo
-UID:5b1e621b-ac62-40c5-9257-e5d928850d22@5b1e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260611T180000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260611T160000Z
-SUMMARY:Loges SuperCho NDT
-UID:ebc2cb84-301f-426d-8d68-69eecd5ff667@ebc2.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260608T160000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260608T150000Z
-SUMMARY:gooners
-UID:52ec4e3e-255c-44bc-8e27-90e8330386cd@52ec.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Matthieu COSTA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260609T170000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260609T151500Z
-SUMMARY:Repete
-UID:ae78b0e7-c304-48cc-b8c9-7388143ae611@ae78.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260610T114500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260610T104500Z
-SUMMARY:Skibidi musique
-UID:5677d8f5-6465-4166-8d92-a360883808bb@5677.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260608T200000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260608T183000Z
-SUMMARY:bankcs
-UID:6bd618aa-441c-4ed6-babc-a26e565b757b@6bd6.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260611T214500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260611T200000Z
-SUMMARY:Loges SuperCho NDT
-UID:249060a2-b9b4-4bc7-b678-cd14a4912c07@2490.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260611T200000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260611T180000Z
-SUMMARY:Loges SuperCho NDT
-UID:5ae62653-19c5-4ec5-b17b-cc362383f238@5ae6.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cédric VILANDRAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260609T113000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260609T103000Z
-SUMMARY:Réu Focus 
-UID:cd3e8080-e02e-47f2-a1b5-a96abf61c4e9@cd3e.org
+UID:80838700-d53e-43ff-a94f-db0aaff78573@8083.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +26,88 @@ DTEND:20260610T180000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260610T160000Z
 SUMMARY:cswinggggg
-UID:3bb4e762-0686-4d65-90af-9adbc90260e9@3bb4.org
+UID:ad122180-5685-4bf0-8c77-d5da292783c8@ad12.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cédric VILANDRAU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260609T113000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260609T103000Z
+SUMMARY:Réu Focus 
+UID:d3162392-ea35-4bb4-8e29-a2680952439c@d316.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260611T123000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260611T110000Z
+SUMMARY:bankcs
+UID:0347fd32-ba3e-4894-8506-32c9dc3d31c8@0347.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260611T214500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260611T200000Z
+SUMMARY:Loges SuperCho NDT
+UID:de1cd4c1-0eea-48eb-94ee-68acd66087c9@de1c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260611T200000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260611T180000Z
+SUMMARY:Loges SuperCho NDT
+UID:504381c4-c801-45d4-bd9b-a47d9dd1e70d@5043.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260610T114500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260610T104500Z
+SUMMARY:Skibidi musique
+UID:e97758d4-be6e-497d-8f37-025d82fc501e@e977.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260611T180000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260611T160000Z
+SUMMARY:Loges SuperCho NDT
+UID:203c0dfa-98db-4207-a018-04be2dd78625@203c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Camille BETTANE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260608T200000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260608T183000Z
+SUMMARY:bankcs
+UID:720f534d-6c4b-454e-8f73-c855478b4ba7@720f.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Matthieu COSTA\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260609T170000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260609T151500Z
+SUMMARY:Repete
+UID:1fe30b9c-1a5c-4240-8211-14e78651b48a@1fe3.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Alexandre PAUN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260608T170000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260608T160000Z
+SUMMARY:Repet baj
+UID:51576a61-b511-4193-a9b7-6e47f8630f15@5157.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
