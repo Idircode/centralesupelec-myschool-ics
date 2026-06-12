@@ -3,21 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260609T170000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260609T151500Z
-SUMMARY:Basson
-UID:3ab2de4c-65d7-46db-ada5-9bafb7b54b5b@3ab2.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Nicholas KIDSTON\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260609T210000Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260609T194500Z
 SUMMARY:Piano
-UID:4faefc39-2109-4618-8871-55532a45623e@4fae.org
+UID:576c8e0f-cf1f-40ec-b269-2777007f1833@576c.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Tao GAUROIS\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260609T170000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260609T151500Z
+SUMMARY:Basson
+UID:84d2f2b9-9b43-4160-9cb5-a59b7335f36b@84d2.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR
