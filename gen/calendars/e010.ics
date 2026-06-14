@@ -3,57 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260609T120000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260609T110000Z
-SUMMARY:Bajo
-UID:e8660ced-a90d-48db-b548-eae5de823829@e866.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260610T193000Z
+DTEND:20260609T163000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260610T183000Z
+DTSTART:20260609T143000Z
 SUMMARY:Lcl
-UID:530e46f5-0527-4ce0-a8e8-4881f72afd8a@530e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T183000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260611T170000Z
-SUMMARY:zouzous
-UID:d2823f0a-d991-4a71-9921-0dd51d7299bf@d282.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T160000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260611T140000Z
-SUMMARY:Loge Violons Barbares NDT
-UID:30ed917a-d8de-4bf3-bff0-c41e2c9a6611@30ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260618T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260618T150000Z
-SUMMARY:LEs gens de la cote
-UID:63d3bb0c-ee9c-453d-bf06-ae30222c432a@63d3.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Gaspard LORILLEUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260609T193000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260609T180000Z
-SUMMARY:Répète Bach
-UID:f84ff5da-77f7-4c3e-85ce-d742d449f7d6@f84f.org
+UID:894c4077-596e-4bfd-a304-8557adff7810@894c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +17,34 @@ DTEND:20260610T163000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260610T160000Z
 SUMMARY:Répète générale Bach\, Magnificat BWV 243\, 6. "Et Misericordia"
-UID:133b168a-7078-4ac1-800c-8929e6f9f9af@133b.org
+UID:1c79980b-9ca5-40b4-acd1-9d742b98172a@1c79.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260618T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260618T150000Z
+SUMMARY:LEs gens de la cote
+UID:7e58cc5a-7583-4ad4-98c7-53cb75c12ae7@7e58.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T160000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260611T140000Z
+SUMMARY:Loge Violons Barbares NDT
+UID:74f50026-71c8-4bb8-b64c-a625a1c85514@74f5.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260609T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260609T110000Z
+SUMMARY:Bajo
+UID:c694aae5-23ad-4401-aa5c-04905f0d050c@c694.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -71,34 +53,16 @@ DTEND:20260611T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260611T160000Z
 SUMMARY:Loge Violons Barbares NDT
-UID:6bb09216-841f-4567-a92b-3d3bea709cab@6bb0.org
+UID:ce14fc22-d2fb-461f-8f2e-aa01fe93e0ba@ce14.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T120000Z
+DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T183000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260611T100000Z
-SUMMARY:Loge Violons Barbares NDT
-UID:81ed9185-70ce-4a45-8b79-32685a6dfb65@81ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T140000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260611T120000Z
-SUMMARY:Loge Violons Barbares NDT
-UID:13ad1aa4-2edd-4fbd-883f-094969b0c9fd@13ad.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Gaspard LORILLEUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260610T114500Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260610T110000Z
-SUMMARY:Répète Bach\, Magnificat BWV 243\, 6. "Et Misericordia"
-UID:2ebbcc4a-5e9a-4691-9a7f-0d6500f3f790@2ebb.org
+DTSTART:20260611T170000Z
+SUMMARY:zouzous
+UID:1357c0a2-a422-48f0-9be4-8a566bb791af@1357.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -107,25 +71,7 @@ DTEND:20260610T104500Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260610T094500Z
 SUMMARY:Répète 
-UID:48117ec5-a433-48c9-98f2-098c1b2e195a@4811.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260609T163000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260609T143000Z
-SUMMARY:Lcl
-UID:f7d0a64c-d4d7-48ae-b7bc-7a715bfb2188@f7d0.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Nathan ZERBIB\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260610T213000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260610T200000Z
-SUMMARY:Répète Therapy
-UID:6811dfab-f615-4911-bd11-1e5c3a462024@6811.org
+UID:d2a0ac44-674a-42a1-8bf3-6e6f2a599eae@d2a0.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -134,16 +80,16 @@ DTEND:20260611T203000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260611T183000Z
 SUMMARY:répé Brass'art
-UID:7fd850da-7fb6-4670-8761-a82ad8b52ab3@7fd8.org
+UID:b197ed69-9fbe-40b0-83ee-2f261ca7e541@b197.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260611T214500Z
+DESCRIPTION:Réservé par : Antoine COLLETTE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260610T193000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260611T203000Z
-SUMMARY:zouzous
-UID:6bcaf985-0d54-49ca-839c-c20928143c5a@6bca.org
+DTSTART:20260610T183000Z
+SUMMARY:Lcl
+UID:5b89f0b9-ffb5-4b72-bd31-eeec3de3907e@5b89.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +98,25 @@ DTEND:20260609T110000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260609T090000Z
 SUMMARY:Repete
-UID:b973b24d-ec6c-4e2a-a935-0b60aafcfe30@b973.org
+UID:d24c08ad-70cc-4547-8568-da9803ba0793@d24c.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T140000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260611T120000Z
+SUMMARY:Loge Violons Barbares NDT
+UID:dbde3265-355e-48b7-b898-588ac43f2a88@dbde.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Gaspard LORILLEUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260609T193000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260609T180000Z
+SUMMARY:Répète Bach
+UID:5e66c4dd-3cef-4cda-841a-45ecb1e8c109@5e66.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -161,7 +125,43 @@ DTEND:20260610T183000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260610T163000Z
 SUMMARY:Repet choeur ffm
-UID:4dc6d2e0-69f5-4b75-8c7d-041816204bf0@4dc6.org
+UID:5d75f76d-c001-4656-b42b-f1ef61a0f0b1@5d75.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Louis BARROUL\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T120000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260611T100000Z
+SUMMARY:Loge Violons Barbares NDT
+UID:0e96c994-ace2-474d-ad12-6330b3439dea@0e96.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Gaspard LORILLEUX\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260610T114500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260610T110000Z
+SUMMARY:Répète Bach\, Magnificat BWV 243\, 6. "Et Misericordia"
+UID:c28083a8-4b95-4615-805a-cadfa351edfd@c280.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Nathan ZERBIB\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260610T213000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260610T200000Z
+SUMMARY:Répète Therapy
+UID:411afac2-531d-4b62-87fb-f4c4bc173d48@411a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maggy ZHOU\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260611T214500Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260611T203000Z
+SUMMARY:zouzous
+UID:acb66805-9449-4372-8855-e4621bf99521@acb6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
