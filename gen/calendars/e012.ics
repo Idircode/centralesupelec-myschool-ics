@@ -4,20 +4,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260614T103000Z
+DTEND:20260615T163000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260614T093000Z
+DTSTART:20260615T153000Z
 SUMMARY:Répète 
-UID:89b277a9-0bd7-47fe-a2e2-3dec052156a6@89b2.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T191400Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260615T171500Z
-SUMMARY:Feur
-UID:db7f6f0c-ce72-42a0-895e-404b31370715@db7f.org
+UID:71f6f2aa-7fd4-4a6b-9d96-3a586d7b8345@71f6.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260617T154500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260617T141500Z
 SUMMARY:Répète 
-UID:32f2ed74-4191-4f39-88f5-9be84a7dd12f@32f2.org
+UID:d0ee0c00-4f45-4413-abbf-3d55f82730a8@d0ee.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T191400Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260615T171500Z
+SUMMARY:Feur
+UID:05b20145-ea73-4de2-b614-1e62eeb3343c@05b2.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T163000Z
+DTEND:20260614T103000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260615T153000Z
+DTSTART:20260614T093000Z
 SUMMARY:Répète 
-UID:b76da008-6f33-497c-b42e-f2df8e4aa42d@b76d.org
+UID:3e4878d4-ba29-4370-abdf-c5acde2c6571@3e48.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
