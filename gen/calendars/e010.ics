@@ -3,12 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260617T130000Z
+DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260615T200000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260617T120000Z
-SUMMARY:Bajo
-UID:dfcefcaf-970b-43ff-ac91-a0e2547294c3@dfce.org
+DTSTART:20260615T180000Z
+SUMMARY:Csiopea
+UID:27abec40-fce7-408e-be4e-4721a866c0ab@27ab.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,16 @@ DTEND:20260618T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260618T150000Z
 SUMMARY:LEs gens de la cote
-UID:1ae6935f-b75f-4592-8d1c-23141b9da830@1ae6.org
+UID:095aaede-15c1-4a78-8569-1f1e110446a5@095a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260617T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260617T120000Z
+SUMMARY:Bajo
+UID:139f0859-f4f5-4ccd-8387-69421c3d9ea0@139f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +35,7 @@ DTEND:20260615T180000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260615T170000Z
 SUMMARY:Csiopea
-UID:154ec749-65cf-4b5d-aeb2-8323a228bdc8@154e.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T200000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260615T180000Z
-SUMMARY:Csiopea
-UID:8a76bda1-e2ab-40cf-9f24-996e86ec8c3c@8a76.org
+UID:e10ec26d-2436-4b4d-9e43-8bf44473f1e5@e10e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
