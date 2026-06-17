@@ -3,30 +3,21 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T200000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260615T180000Z
-SUMMARY:Csiopea
-UID:a37a7ca1-9385-4559-98e1-c36f3f990f51@a37a.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260617T130000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260617T120000Z
 SUMMARY:Bajo
-UID:5404ad2f-55c4-492d-8c6f-abd63b265ee1@5404.org
+UID:fd6daf2b-97c4-4c01-97a1-b0839dca87f9@fd6d.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260618T170000Z
+DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260615T200000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260618T150000Z
-SUMMARY:LEs gens de la cote
-UID:5dc4dd4d-74e1-42f6-a934-163123ad2682@5dc4.org
+DTSTART:20260615T180000Z
+SUMMARY:Csiopea
+UID:4ba27d83-c486-4895-94a0-05cf550f681e@4ba2.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260615T180000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260615T170000Z
 SUMMARY:Csiopea
-UID:4c497463-1e40-4835-bfea-d9408ab5d9ed@4c49.org
+UID:bf639e1f-edfc-463a-84b1-d6e9b39d6909@bf63.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260618T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260618T150000Z
+SUMMARY:LEs gens de la cote
+UID:e321c426-ed20-4b3b-be22-0b7240917745@e321.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
