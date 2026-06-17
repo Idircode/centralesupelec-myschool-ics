@@ -4,11 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T180000Z
+DTEND:20260615T200000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260615T170000Z
+DTSTART:20260615T180000Z
 SUMMARY:Csiopea
-UID:58c75fcf-c42a-46e5-aef5-f58c62e445f0@58c7.org
+UID:a37a7ca1-9385-4559-98e1-c36f3f990f51@a37a.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260617T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260617T120000Z
+SUMMARY:Bajo
+UID:5404ad2f-55c4-492d-8c6f-abd63b265ee1@5404.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,16 @@ DTEND:20260618T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260618T150000Z
 SUMMARY:LEs gens de la cote
-UID:34a0ef8b-ad47-4eb6-aaf8-d3adc6f935b1@34a0.org
+UID:5dc4dd4d-74e1-42f6-a934-163123ad2682@5dc4.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T200000Z
+DTEND:20260615T180000Z
 LOCATION:e.010\, Bouygues
-DTSTART:20260615T180000Z
+DTSTART:20260615T170000Z
 SUMMARY:Csiopea
-UID:a2833de8-37a1-4793-b917-286fd5506ace@a283.org
+UID:4c497463-1e40-4835-bfea-d9408ab5d9ed@4c49.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
