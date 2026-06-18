@@ -4,29 +4,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260614T103000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260614T093000Z
-SUMMARY:Répète 
-UID:b65d9f78-91e3-48d1-8341-f40ed7dde67c@b65d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260617T154500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260617T141500Z
-SUMMARY:Répète 
-UID:bae72b64-7b56-44cf-a8a4-d5cacf6c9049@bae7.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260615T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260615T153000Z
 SUMMARY:Répète 
-UID:f2c399d6-3b8c-45de-a03b-83f03e1699c9@f2c3.org
+UID:8c1fd33c-5e4d-4355-ac36-d1da214a00e4@8c1f.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,25 @@ DTEND:20260615T191400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260615T171500Z
 SUMMARY:Feur
-UID:23a34ebe-f351-45e0-b8ac-00b190b97c3a@23a3.org
+UID:6a01b46e-42e2-48b6-88a7-6bd4b798bbaf@6a01.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260617T154500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260617T141500Z
+SUMMARY:Répète 
+UID:a3888f4b-bb22-40f8-8d47-24c5c9af37f8@a388.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260614T103000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260614T093000Z
+SUMMARY:Répète 
+UID:0e403575-62ec-4d5a-b345-b8d04db339e6@0e40.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
