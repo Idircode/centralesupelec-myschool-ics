@@ -4,38 +4,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T180000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260615T170000Z
-SUMMARY:Csiopea
-UID:909876f7-4bca-4232-951d-71544554d4a1@9098.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260615T200000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260615T180000Z
 SUMMARY:Csiopea
-UID:46e85053-47f4-4845-87de-46ff20d93756@46e8.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260617T130000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260617T120000Z
-SUMMARY:Bajo
-UID:bafc1a44-487b-4f85-95ed-754853effea2@bafc.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260620T150000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260620T110000Z
-SUMMARY:la fiesta de la muzicà
-UID:ba940b55-bc87-4c97-b597-4a5889aaa1f8@ba94.org
+UID:9e252d77-6958-4a06-afba-b1dd23c9f719@9e25.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +17,34 @@ DTEND:20260618T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260618T150000Z
 SUMMARY:LEs gens de la cote
-UID:4ed0b1fa-6e1d-4bd1-8aae-07a1946e19ec@4ed0.org
+UID:2d06cd63-3c80-4bd7-8833-1efc8545d0f4@2d06.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260617T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260617T120000Z
+SUMMARY:Bajo
+UID:c71edd37-32fd-4d22-b1a9-0a0c9411257f@c71e.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260620T150000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260620T110000Z
+SUMMARY:la fiesta de la muzicà
+UID:4d6714d7-01c7-46db-a8bc-471d5ab958e9@4d67.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260615T180000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260615T170000Z
+SUMMARY:Csiopea
+UID:3c0b9123-8aaf-4433-a91a-b7e62401bb89@3c0b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
