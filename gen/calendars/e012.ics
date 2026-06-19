@@ -4,29 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260614T103000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260614T093000Z
-SUMMARY:Répète 
-UID:11f1dfd9-e698-43ca-86ff-80275e1e9314@11f1.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 DTEND:20260615T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260615T153000Z
 SUMMARY:Répète 
-UID:2054b43a-1954-4791-9a33-9265a0661d9d@2054.org
+UID:d10cc30e-398b-4369-86de-2972b64a2ccf@d10c.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260617T154500Z
+DTEND:20260614T103000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260617T141500Z
+DTSTART:20260614T093000Z
 SUMMARY:Répète 
-UID:e6321d0e-4959-45ec-94a1-e666045300e4@e632.org
+UID:b02b16bb-f835-4b92-b466-8f232bd4f52b@b02b.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +26,16 @@ DTEND:20260615T191400Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260615T171500Z
 SUMMARY:Feur
-UID:f37d0ef6-d841-4cf0-bfd6-d0dc70130372@f37d.org
+UID:c778f7d2-5fd2-418f-bc19-191cc34a225f@c778.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260617T154500Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260617T141500Z
+SUMMARY:Répète 
+UID:dc26c3f1-0ede-4d2e-bc55-6336bb497a6a@dc26.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
