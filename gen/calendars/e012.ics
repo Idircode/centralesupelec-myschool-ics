@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T163000Z
+DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T191400Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260615T153000Z
-SUMMARY:Répète 
-UID:8a441913-07c6-44d7-950e-be83edad1128@8a44.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260617T154500Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260617T141500Z
-SUMMARY:Répète 
-UID:4c7bc4e0-ddfb-4c44-92ed-ebd53546fc35@4c7b.org
+DTSTART:20260615T171500Z
+SUMMARY:Feur
+UID:eef378fc-fc15-43a6-989a-df217ca3e5c5@eef3.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260614T103000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260614T093000Z
 SUMMARY:Répète 
-UID:75568cee-65f4-4766-9f8c-2fcca456c1a8@7556.org
+UID:5d7e4caf-59ef-4f8d-82ab-d9b4059dce27@5d7e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T191400Z
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260617T154500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260615T171500Z
-SUMMARY:Feur
-UID:df5238c9-279e-4d03-874f-0db127edd03d@df52.org
+DTSTART:20260617T141500Z
+SUMMARY:Répète 
+UID:82054766-0ff1-4c0a-b3c0-dd8088916992@8205.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T163000Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260615T153000Z
+SUMMARY:Répète 
+UID:00d856d6-0c16-4a09-b701-359f2d1123bf@00d8.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
