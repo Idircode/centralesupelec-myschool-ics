@@ -3,21 +3,21 @@ X-WR-CALNAME:e.090, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-DTEND:20260614T140000Z
-LOCATION:e.090\, Bouygues
-DTSTART:20260614T123000Z
-SUMMARY:Piano
-UID:0233bc61-c9e1-4baa-9cdf-8f4af636c132@0233.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 DTEND:20260615T191400Z
 LOCATION:e.090\, Bouygues
 DTSTART:20260615T171500Z
 SUMMARY:Feur
-UID:e9f642be-a7a2-4a3a-a08c-cfa506b3c711@e9f6.org
+UID:d12d2b53-e7d1-4558-8e4d-e2c12da3bcf6@d12d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Mathilde VERBRIGGHE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
+DTEND:20260614T140000Z
+LOCATION:e.090\, Bouygues
+DTSTART:20260614T123000Z
+SUMMARY:Piano
+UID:5fab5412-c927-41ab-a634-5f48adeae50b@5fab.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe18f0c174200139b92ae&zoom=20
 END:VEVENT
 END:VCALENDAR

@@ -3,12 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T191400Z
+DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T163000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260615T171500Z
-SUMMARY:Feur
-UID:eef378fc-fc15-43a6-989a-df217ca3e5c5@eef3.org
+DTSTART:20260615T153000Z
+SUMMARY:Répète 
+UID:d105a8a0-409e-4e5b-a8df-6b4fc5974320@d105.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,16 @@ DTEND:20260614T103000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260614T093000Z
 SUMMARY:Répète 
-UID:5d7e4caf-59ef-4f8d-82ab-d9b4059dce27@5d7e.org
+UID:46439f03-8748-4adb-af23-a2be23bf0c92@4643.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T191400Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260615T171500Z
+SUMMARY:Feur
+UID:13117c33-5d6a-49ff-af99-89079cfc0df2@1311.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +35,7 @@ DTEND:20260617T154500Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260617T141500Z
 SUMMARY:Répète 
-UID:82054766-0ff1-4c0a-b3c0-dd8088916992@8205.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T163000Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260615T153000Z
-SUMMARY:Répète 
-UID:00d856d6-0c16-4a09-b701-359f2d1123bf@00d8.org
+UID:432e985b-87d3-46f8-872b-4d8078019ada@432e.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
