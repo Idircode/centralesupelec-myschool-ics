@@ -3,21 +3,12 @@ X-WR-CALNAME:e.012, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260615T191400Z
-LOCATION:e.012\, Bouygues
-DTSTART:20260615T171500Z
-SUMMARY:Feur
-UID:b255baaf-805b-4762-8808-33f5b507b538@b255.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260617T154500Z
+DTEND:20260614T103000Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260617T141500Z
+DTSTART:20260614T093000Z
 SUMMARY:Répète 
-UID:aaf75932-2644-4dd6-bb99-d3a85694d187@aaf7.org
+UID:34404cc4-a005-4e21-9fee-9c5d9d218689@3440.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,25 @@ DTEND:20260615T163000Z
 LOCATION:e.012\, Bouygues
 DTSTART:20260615T153000Z
 SUMMARY:Répète 
-UID:ea46d2cf-968a-4f16-9ae3-3becaecf41ed@ea46.org
+UID:8059d6c9-ae19-4583-83d0-e5d93ebf6fbb@8059.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Charlotte FLAUJAC\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
-DTEND:20260614T103000Z
+DTEND:20260617T154500Z
 LOCATION:e.012\, Bouygues
-DTSTART:20260614T093000Z
+DTSTART:20260617T141500Z
 SUMMARY:Répète 
-UID:6467e3cf-0233-42fd-a6b3-e64876c71b98@6467.org
+UID:bd243682-0c5e-42b1-bb2c-d30c8e64af42@bd24.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Adrien SEIGLE\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
+DTEND:20260615T191400Z
+LOCATION:e.012\, Bouygues
+DTSTART:20260615T171500Z
+SUMMARY:Feur
+UID:37844d68-acb1-473d-b641-efa299bb837b@3784.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf53cd9b7300013192d73&zoom=20
 END:VEVENT
 END:VCALENDAR
