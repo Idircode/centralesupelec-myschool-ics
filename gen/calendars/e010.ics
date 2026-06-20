@@ -3,21 +3,12 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260618T170000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260618T150000Z
-SUMMARY:LEs gens de la cote
-UID:7dcc6922-3f6d-423e-9769-0774567079c2@7dcc.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260620T150000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260620T110000Z
 SUMMARY:la fiesta de la muzicà
-UID:7e30d193-e24f-406a-a682-c8a784e63587@7e30.org
+UID:2563bec6-4b0a-4077-b36f-f83cc81f359e@2563.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,16 +17,7 @@ DTEND:20260617T130000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260617T120000Z
 SUMMARY:Bajo
-UID:c9fdecbf-1812-4a85-b311-950b6f26d228@c9fd.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260615T200000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260615T180000Z
-SUMMARY:Csiopea
-UID:1e35f7c4-d44f-48ce-813e-f2f165507be8@1e35.org
+UID:cd14c402-66ab-4fc8-9dcd-f9d80bfabd9a@cd14.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +26,25 @@ DTEND:20260615T180000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260615T170000Z
 SUMMARY:Csiopea
-UID:13e2bd7b-c8b8-4163-9b53-06f15b1205d2@13e2.org
+UID:2b4d8585-6309-49ec-b015-13088349e3aa@2b4d.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Vivien DODIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260615T200000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260615T180000Z
+SUMMARY:Csiopea
+UID:5356e810-f2a5-42d7-bfce-2b5b8cab2a58@5356.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260618T170000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260618T150000Z
+SUMMARY:LEs gens de la cote
+UID:6283ecec-38fd-41d1-a7b4-43cdfbb7da2e@6283.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
