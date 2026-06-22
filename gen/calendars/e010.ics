@@ -3,12 +3,21 @@ X-WR-CALNAME:e.010, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+DTEND:20260617T130000Z
+LOCATION:e.010\, Bouygues
+DTSTART:20260617T120000Z
+SUMMARY:Bajo
+UID:1eb0c131-0bcd-4bd6-bb33-79f72033d1da@1eb0.org
+URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 DTEND:20260620T150000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260620T110000Z
 SUMMARY:la fiesta de la muzicà
-UID:f56f4ae1-3513-4666-98b4-30013c7556bc@f56f.org
+UID:522751da-c8c4-4058-aac1-847f1b66d2ec@5227.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,7 @@ DTEND:20260618T170000Z
 LOCATION:e.010\, Bouygues
 DTSTART:20260618T150000Z
 SUMMARY:LEs gens de la cote
-UID:965d4b3f-0940-4734-82a5-57c9d82a7479@965d.org
-URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Cristobal SILVA LAVIN\nPlan salle : https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
-DTEND:20260617T130000Z
-LOCATION:e.010\, Bouygues
-DTSTART:20260617T120000Z
-SUMMARY:Bajo
-UID:3d72408b-6ed5-41a9-bc9e-57fb6845ea5e@3d72.org
+UID:e4780730-4d3a-4319-a29a-cb0980b8897c@e478.org
 URL:https://maps.centralesupelec.fr/?id=5a2cf5f3b3310f0013fb1caa&zoom=20
 END:VEVENT
 END:VCALENDAR
