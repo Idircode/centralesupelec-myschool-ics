@@ -4,38 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T110000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T090000Z
-SUMMARY:Installation
-UID:38295daf-9021-4a5c-a26a-f2dbf05414c5@3829.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260619T120000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260619T100000Z
 SUMMARY:Les gens de la cote
-UID:d09c2dc3-c0f9-45e4-a842-3d80be0dbf02@d09c.org
+UID:5a5dbcf9-3d7b-46a7-bfb3-e5d6d71a96bb@5a5d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260620T151500Z
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260623T110000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260620T131500Z
-SUMMARY:Générale Brass'Art FDLM
-UID:a7ed4b16-0ebf-4fba-b77b-8e6994e11364@a7ed.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260619T173000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260619T153000Z
-SUMMARY:GLOUPS LAND
-UID:a43c04a4-74c4-45db-b47c-59f26d08c696@a43c.org
+DTSTART:20260623T090000Z
+SUMMARY:Installation
+UID:2a51ae67-20f7-4170-8637-80a2d2e6fa40@2a51.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +26,16 @@ DTEND:20260623T130000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T110000Z
 SUMMARY:Les gens de la cote
-UID:e07093a2-8975-4ae8-b31b-fc081d297fd8@e070.org
+UID:59ab511d-6a25-40f1-a80c-445632b88cdf@59ab.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Maria ARTSRUNI\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260619T173000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260619T153000Z
+SUMMARY:GLOUPS LAND
+UID:bda07cc7-b845-4365-ace7-bbae394e6596@bda0.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +44,16 @@ DTEND:20260620T171500Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260620T151500Z
 SUMMARY:Générale Brass'Art FDLM
-UID:acd289c1-0553-499e-9d4f-58c76e6f3626@acd2.org
+UID:f7e18a56-c719-4e27-9263-5de11bf2b0db@f7e1.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260620T151500Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260620T131500Z
+SUMMARY:Générale Brass'Art FDLM
+UID:4b80aebf-417b-4967-8225-85749a44bea4@4b80.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ DTEND:20260623T150000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T130000Z
 SUMMARY:Les gens debarrasent
-UID:4bb6f85f-802c-4160-8538-0aaaff5c9ae3@4bb6.org
+UID:4125154a-73b2-4ab5-a6d7-0e56f7d1825d@4125.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
