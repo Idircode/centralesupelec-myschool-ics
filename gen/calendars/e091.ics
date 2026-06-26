@@ -4,11 +4,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T130000Z
+DTEND:20260623T150000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260623T110000Z
-SUMMARY:Les gens de la cote
-UID:26dddabb-4856-45cc-b6d8-db7c8386369b@26dd.org
+DTSTART:20260623T130000Z
+SUMMARY:Les gens debarrasent
+UID:c025d4a4-0460-4976-9de6-6cc24f873d37@c025.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +17,16 @@ DTEND:20260623T110000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T090000Z
 SUMMARY:Installation
-UID:4df28f98-7cb4-4bd5-ae8b-2785d34c5416@4df2.org
+UID:a7b66e60-145f-4e5a-8531-29466589af13@a7b6.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T150000Z
+DTEND:20260623T130000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260623T130000Z
-SUMMARY:Les gens debarrasent
-UID:884ec502-1305-43cc-b60e-c3b422ef9772@884e.org
+DTSTART:20260623T110000Z
+SUMMARY:Les gens de la cote
+UID:fbbe31e9-663f-4a2a-96ff-b66ee9664ecb@fbbe.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
