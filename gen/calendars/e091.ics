@@ -3,30 +3,12 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T150000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T130000Z
-SUMMARY:Les gens debarrasent
-UID:0e1cbe5e-481a-4a9c-9a07-c8d8c0150f47@0e1c.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260629T183000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260629T163000Z
 SUMMARY:Répétition Brass'art
-UID:2a94a9cd-10cc-4c0d-b50c-f0d6b59bd0e0@2a94.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T110000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T090000Z
-SUMMARY:Installation
-UID:31af7912-a070-4001-b6a5-45d4d3f64293@31af.org
+UID:9d9d90a6-9755-430f-84d7-46ca45803209@9d9d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,25 @@ DTEND:20260623T130000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T110000Z
 SUMMARY:Les gens de la cote
-UID:422a6564-ec69-4114-9896-943cf1ac45ea@422a.org
+UID:483a533d-e36e-4cdc-9336-fd7af7201033@483a.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260623T150000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260623T130000Z
+SUMMARY:Les gens debarrasent
+UID:2c0d10a1-b388-45de-be3a-8967afef30ff@2c0d.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260623T110000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260623T090000Z
+SUMMARY:Installation
+UID:93be8db7-87a7-4205-bc78-fc1d2ac5873b@93be.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
