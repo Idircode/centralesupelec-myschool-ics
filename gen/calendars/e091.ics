@@ -3,30 +3,12 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260629T183000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260629T163000Z
-SUMMARY:Répétition Brass'art
-UID:cf2028e3-ae73-4e6a-8bad-f548c7bc6e11@cf20.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260623T150000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T130000Z
 SUMMARY:Les gens debarrasent
-UID:1b57d35f-dc9a-4494-8fbc-8702ba05adf7@1b57.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T130000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T110000Z
-SUMMARY:Les gens de la cote
-UID:eb330941-61c5-44ac-8743-ae45447ab2f7@eb33.org
+UID:d320dcf1-43b6-4b83-ad73-6053a26dbcc7@d320.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +17,25 @@ DTEND:20260623T110000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260623T090000Z
 SUMMARY:Installation
-UID:fca884e9-9653-43f2-a768-7cbc4f5337fc@fca8.org
+UID:f32f299b-7054-47dc-aefd-ccd2c4db5234@f32f.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260629T183000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260629T163000Z
+SUMMARY:Répétition Brass'art
+UID:51436aea-ca5b-41c1-962d-ed3c6f60edab@5143.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260623T130000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260623T110000Z
+SUMMARY:Les gens de la cote
+UID:4fa0f0ca-4337-4f38-863d-aa5d848293a5@4fa0.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
