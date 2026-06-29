@@ -3,21 +3,12 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T130000Z
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260629T183000Z
 LOCATION:e.091\, Bouygues
-DTSTART:20260623T110000Z
-SUMMARY:Les gens de la cote
-UID:64729d26-4793-4787-9f13-452b63dd540d@6472.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T150000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T130000Z
-SUMMARY:Les gens debarrasent
-UID:ec527d9b-5215-42e4-99fb-d3e75b65ff00@ec52.org
+DTSTART:20260629T163000Z
+SUMMARY:Répétition Brass'art
+UID:8f741c16-6a79-4477-b004-02384251c855@8f74.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -26,25 +17,7 @@ DTEND:20260706T183000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260706T163000Z
 SUMMARY:Répétition Brass'art
-UID:18fe505a-cf4c-4301-9856-0a5ceaf38a7b@18fe.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Yannick PEREZ\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260623T110000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260623T090000Z
-SUMMARY:Installation
-UID:04d8552b-e710-4340-98da-ac54104b043e@04d8.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260629T183000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260629T163000Z
-SUMMARY:Répétition Brass'art
-UID:0abafd8f-58d2-4b9e-98a8-633ce0f0d693@0aba.org
+UID:1b108a72-0693-4d32-9156-a28e91ad2fb8@1b10.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
