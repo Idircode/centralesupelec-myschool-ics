@@ -4,11 +4,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260706T193000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260706T173000Z
+SUMMARY:Répétition Brass'art
+UID:0117b7ed-62f9-4fce-be4b-3333450201ab@0117.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260629T183000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260629T163000Z
 SUMMARY:Répétition Brass'art
-UID:0f9b6ae5-df55-405e-b236-b599c8b5db9b@0f9b.org
+UID:29c54e0d-ce59-4863-9473-466efb3c7e6d@29c5.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
