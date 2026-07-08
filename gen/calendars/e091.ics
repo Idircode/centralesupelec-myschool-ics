@@ -3,21 +3,21 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260706T193000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260706T173000Z
-SUMMARY:Répétition Brass'art
-UID:29471b38-3a90-4e62-94e2-9bfb59387163@2947.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Réservé par : Augustin DINH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260707T203000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260707T173000Z
 SUMMARY:ops
-UID:dba4989c-d26b-4b7b-a2f7-723b680d9cce@dba4.org
+UID:65f64f56-c94c-4a14-bd7e-4be852650d93@65f6.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260706T193000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260706T173000Z
+SUMMARY:Répétition Brass'art
+UID:d85bb417-950f-44bc-9333-e0f8962f0ee8@d85b.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
