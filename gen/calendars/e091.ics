@@ -3,12 +3,21 @@ X-WR-CALNAME:e.091, Bouygues
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+DTEND:20260706T193000Z
+LOCATION:e.091\, Bouygues
+DTSTART:20260706T173000Z
+SUMMARY:Répétition Brass'art
+UID:f705c2ca-3521-4f52-b159-9866452729bc@f705.org
+URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Réservé par : Augustin DINH\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 DTEND:20260707T203000Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260707T173000Z
 SUMMARY:ops
-UID:463fbc9e-8ac2-4888-a216-95c77c3750d2@463f.org
+UID:a06dbb3c-2984-4bcd-b632-4e0dd118fc3e@a06d.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 BEGIN:VEVENT
@@ -17,16 +26,7 @@ DTEND:20260710T114500Z
 LOCATION:e.091\, Bouygues
 DTSTART:20260710T104500Z
 SUMMARY:Piano
-UID:83b7fbc9-d872-4a62-8abf-e042d59b2326@83b7.org
-URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réservé par : Julien BALTAZAR\nPlan salle : https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
-DTEND:20260706T193000Z
-LOCATION:e.091\, Bouygues
-DTSTART:20260706T173000Z
-SUMMARY:Répétition Brass'art
-UID:23fc9275-3320-4481-af4c-705785795fa4@23fc.org
+UID:b2b3fa69-4923-4579-afe6-54104ef07d76@b2b3.org
 URL:https://maps.centralesupelec.fr/?id=5a2fe15af61f8c00132859f0&zoom=20
 END:VEVENT
 END:VCALENDAR
